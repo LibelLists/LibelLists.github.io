@@ -1,7 +1,7 @@
 </p>
   <h1 align="center">Lihkg-Libel-Lists</h1>
   <p align="center">
-  <p align="center">【Libel】現有的公開List名單</p>
+  <p align="center">【Libel】已公開的訂閱List名單</p>
   <p align="center">
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
