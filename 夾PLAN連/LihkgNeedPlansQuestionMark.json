@@ -1,5 +1,5 @@
-{ "name":"夾PLAN連(478人)",
-  "version":"v0.2.20220402.",
+{ "name":"夾PLAN連(482人)",
+  "version":"v0.3.4EFCFBE",
   "homepage":"https://github.com/Zetho77GH/Lihkg-Libel-Lists \n[size=2][yellow]【警告】[/yellow][pink]管理團隊最近收到數宗會員舉報，指有騙徒私下聯絡留下聯絡方式之會員，冒充並自稱「樓主」要求進行交易，然後在收款後失去聯絡。\n我們在此呼籲會員提高警覺，切勿輕易留下個人聯絡方法，並務必對未知聯絡人進行身份確認。[/pink][/size=2]",
   "color": "#198964",
   "data":{
@@ -3825,6 +3825,34 @@
             "url":"https://lihkg.com/thread/2940084/page/1",
             "date":1648895146800,
             "source":{"thread":"2940084","page":1,"messageNumber":"1"}
+         }
+      ],
+      "74967":[
+         {
+            "text":"夾PLAN清",
+            "url":"https://lihkg.com/thread/2951997/page/1?post=1",
+            "date":1648993088200,"source":{"thread":"2951997","page":1,"messageNumber":"1"}
+         }
+      ],
+      "96871":[
+         {
+            "text":"夾PLAN清",
+            "url":"https://lihkg.com/thread/2951997/page/1?post=1",
+            "date":1648993096600,"source":{"thread":"2951997","page":1,"messageNumber":"3"}
+         }
+      ],
+      "114542":[
+         {
+            "text":"夾PLAN清",
+            "url":"https://lihkg.com/thread/2951454/page/1",
+            "date":1648993022600,"source":{"thread":"2951454","page":1,"messageNumber":"1"}
+         }
+      ],
+      "209865":[
+         {
+            "text":"夾PLAN清",
+            "url":"https://lihkg.com/thread/2952151/page/1",
+            "date":1648993107600,"source":{"thread":"2952151","page":1,"messageNumber":"1"}
          }
       ]
 }}
