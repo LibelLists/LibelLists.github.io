@@ -8,7 +8,9 @@
 </p>
 
 <hr />
-<h2 id="off_on9_list">## <a href="https://bit.ly/lihkg_on9_list">OFF囝戇鳩LIST</a></h2>
+
+## OFF囝戇鳩LIST
+
 <div class="off_on9_list1"><pre>https://eat-play.github.io/on9_list/LIHKG-Label-List-power_off-1886.json</pre></div>
 <div class="off_on9_list2"><pre>https://eat-play.github.io/on9_list/on9-data-1886.json </pre></div>
 <div class="off_on9_list3"><pre>https://eat-play.github.io/on9_list/LIHKG-Label-List-2-power_off-1886.json </pre></div>
