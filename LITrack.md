@@ -1,4 +1,4 @@
-<h2 id="litrack_list">LITrack LIST<a href="https://tiny.cc/LITrack_GS">主頁</a></h2>
+<h2 id="litrack_list">LITrack LIST <a href="https://tiny.cc/LITrack_GS">主頁</a></h2>
 <hr />
 
 <h4>LITrack-主要名單</h4>
