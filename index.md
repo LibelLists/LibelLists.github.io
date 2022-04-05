@@ -5,7 +5,7 @@
 
 <hr />
 
-<h2 id="off_on9_list"># <a href="./Lists/eat-play.html">OFF囝戇鳩LIST</a></h2>
+<h2 id="off_on9_list"># <a href="./eat-play-on9.html">OFF囝戇鳩LIST</a></h2>
 
 <div class="off_on9_list1"><pre>https://eat-play.github.io/on9_list/LIHKG-Label-List-power_off-1886.json</pre></div>
 <div class="off_on9_list2"><pre>https://eat-play.github.io/on9_list/on9-data-1886.json </pre></div>
