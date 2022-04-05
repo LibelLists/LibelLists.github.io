@@ -1,4 +1,4 @@
-<h2 id="chiboydoglist">支囝狗隻LIST<a href="https://lih.kg/ioxQqS">支囝狗隻LIST</a></h2>
+<h2 id="chiboydoglist">支囝狗隻LIST<a href="https://lih.kg/ioxQqS"> 主頁</a></h2>
 <hr />
 
 <h4>支囝狗隻LIST</h4>
