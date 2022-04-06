@@ -1,4 +1,4 @@
-<h2>OFF囝戇鳩LIST <a href="https://bit.ly/lihkg_on9_list">主頁</a></h2>
+<h2>OFF囝戇鳩LIST - <a href="https://bit.ly/lihkg_on9_list">主頁</a></h2>
 <hr />
 
 <h4>OFF囝戇鳩LIST (209人)</h4>
