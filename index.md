@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">Lihkg Libel Lists</h1>
-  <p align="center">【<a href="kitce.github.io/libel/">Libel</a>】已公開的訂閱List名單</p>
+  <p align="center">【<a href="https://kitce.github.io/libel/">Libel</a>】已公開的訂閱List名單</p>
 </p>
 
 <hr />
