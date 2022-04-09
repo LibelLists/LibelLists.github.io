@@ -18,3 +18,4 @@
 <h2 id="questionable_n_Fung_list">#4 <a href="./QnF_list.html">問題會員清單&老鳳狙擊list</a></h2>
 
 <hr />
+<h6>*1 人數更新時間為2022年4月9日</h6>
