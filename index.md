@@ -10,5 +10,4 @@ nav_order: 4
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
 
-[Lihkg Libel Lists on GitHub](https://github.com/Zetho77GH/Lihkg-Libel-Lists){: .btn }
 ###### *1 人數更新時間為2022年4月9日
