@@ -3,7 +3,7 @@ title: 支囝狗隻LIST
 parent: Lihkg Libel Lists
 nav_order: 3
 ---
-## 【[主頁](https://lih.kg/ioxQqS)】 【[GitHub](https://github.com/shiaifglshav/ChiBoyDogList)】
+## 【[主頁](https://lih.kg/2908480)】 【[GitHub](https://github.com/shiaifglshav/ChiBoyDogList)】
 
 ---
 
