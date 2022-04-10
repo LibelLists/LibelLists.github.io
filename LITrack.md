@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 【[主頁](https://tiny.cc/LITrack_GS)】 【[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io)】
-***
+<hr />
 
 <h4>LITrack-主要名單 (50人)</h4>
 ```
