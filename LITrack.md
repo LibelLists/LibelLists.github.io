@@ -4,7 +4,7 @@ parent: Lihkg Libel Lists
 nav_order: 2
 ---
 
-【[主頁](https://tiny.cc/LITrack_GS)】 【[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io)】
+## 【[主頁](https://tiny.cc/LITrack_GS)】 【[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io)】
 
 ---
 
