@@ -2,6 +2,7 @@
 title: OFF囝戇鳩LIST
 parent: Lihkg Libel Lists
 nav_order: 1
+search_exclude: true
 ---
 
 ## 【[主頁](https://bit.ly/lihkg_on9_list)】 【[GitHub](https://github.com/eat-play/on9_list)】
