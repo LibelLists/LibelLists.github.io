@@ -10,4 +10,4 @@ nav_order: 4
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
 
-*1 人數更新時間為2022年4月9日
+<h6>*1 人數更新時間為2022年4月9日</h6>
