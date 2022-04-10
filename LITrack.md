@@ -1,7 +1,7 @@
 ---
 title: LITrack LIST
 parent: Lihkg Libel Lists
-nav_order: 1
+nav_order: 2
 ---
 
 【[主頁](https://tiny.cc/LITrack_GS)】 【[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io)】
