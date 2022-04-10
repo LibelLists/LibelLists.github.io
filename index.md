@@ -2,6 +2,7 @@
 title: Lihkg Libel Lists
 has_children: true
 nav_order: 1
+search_exclude: true
 ---
 
 【[Libel](https://kitce.github.io/libel/)】已公開的訂閱List名單 [圖示人數非完全正確請注意](#1-人數更新時間為2022年4月9日)
