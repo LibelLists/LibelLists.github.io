@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
 title: Libel List
-description: 【<a href="https://kitce.github.io/libel/">Libel</a>】已公開的訂閱List名單
-logo: ./Img/P_List.png
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
+search_enabled: false
