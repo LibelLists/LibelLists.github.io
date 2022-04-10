@@ -4,7 +4,7 @@ has_children: true
 nav_order: 4
 ---
 
-【[Libel](https://kitce.github.io/libel/)】已公開的訂閱List名單  [Lihkg Libel Lists on GitHub](https://github.com/Zetho77GH/Lihkg-Libel-Lists){: .btn .fs-5 .mb-4 .mb-md-0 }
+【[Libel](https://kitce.github.io/libel/)】已公開的訂閱List名單  [Lihkg Libel Lists on GitHub](https://github.com/Zetho77GH/Lihkg-Libel-Lists){: .btn }
 
   <p>
      <img src="./Img/P_List.png" alt="Lists" />
