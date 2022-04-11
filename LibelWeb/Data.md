@@ -17,4 +17,4 @@
 | Copy | #1627 • 煙花太易冷(李梓嘉) | 24歲失蹤女子石樂蕎在鵝肚棧道尋回，證實死亡，佢打「手足#wail#pig」引戰 | [🔗](https://lihkg.com/thread/2494049/page/1?post=3) |
 | Copy | #1734 • 濕鳩liy-好喜歡她 |  [詳細](./1734.html) | [🔗](./1734.html) |
 | Copy | #1878 • 為何深夜總是愛 | [詳細](./1878.html) | [🔗](./1878.html) |
-| Copy | #1968 • 世大那麼界(阿布泰食人血饅頭) | 佢話「用會員編號#1968擔保 阿布泰老闆係一個仆街」 抹黑阿布泰老闆，支持海關執法，順便借「國安法」放負。 出言抹黑阿布泰老闆，表明反攬炒並支持海關選擇性執法。 | - [🔗](https://lihkg.com/thread/2482055/page/1) -[🔗](https://lih.kg/aMGfcmV) - [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) -[🔗](https://lih.kg/aMGfcmV) - [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) |
+| Copy | #1968 • 世大那麼界(阿布泰食人血饅頭) | 佢話「用會員編號#1968擔保 阿布泰老闆係一個仆街」 <br>抹黑阿布泰老闆，支持海關執法，順便借「國安法」放負。 <br>出言抹黑阿布泰老闆，表明反攬炒並支持海關選擇性執法。 | - [🔗](https://lihkg.com/thread/2482055/page/1) -[🔗](https://lih.kg/aMGfcmV) - [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) -[🔗](https://lih.kg/aMGfcmV) - [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) |
