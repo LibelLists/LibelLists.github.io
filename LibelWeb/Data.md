@@ -18,3 +18,5 @@
 | Copy | #1734 • 濕鳩liy-好喜歡她 |  [詳細](./1734.html) | [🔗](./1734.html) |
 | Copy | #1878 • 為何深夜總是愛 | [詳細](./1878.html) | [🔗](./1878.html) |
 | Copy | #1968 • 世大那麼界(阿布泰食人血饅頭) | 佢話「用會員編號#1968擔保 阿布泰老闆係一個仆街」 <br>抹黑阿布泰老闆，支持海關執法，順便借「國安法」放負。 <br>出言抹黑阿布泰老闆，表明反攬炒並支持海關選擇性執法。 | [🔗](https://lihkg.com/thread/2482055/page/1) <br><br>[🔗](https://lih.kg/aMGfcmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) <br><br>[🔗](https://lih.kg/aMGfcmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) |
+| Copy | #2002 • 八幡(伊藤美来)(八幡（桐生可可）) | 請問八幡(伊藤美来)(狗隻#2002)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2269463/page/1) |
+| Copy | #2403 • 拾里山路不換(負能量) | 藉坪洲交收PS5騙案，支持電話號碼實名制。<br>為港共的電話號碼實名制護航。 | [🔗](https://lih.kg/aPaRHcV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/2403/2403.1_.png)<br>[🔗](https://lih.kg/aPaRHcV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/2403/2403.1_.png) |
