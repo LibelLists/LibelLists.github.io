@@ -12,6 +12,6 @@
 | Copy | #1211 • 屌屌屌屌屌(豬屍馬織) | 利用限時嘅 [ STEAM HK$80 優惠 ] 雙開 paypal 帳號刷錢。 | [🔗](https://lih.kg/bjOHapX) [🔗](https://lih.kg/bjOHdJX) [🖼️備份](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/1211) |
 | Copy | #1315 • nigga | 請問nigga(狗隻#1315)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2851122) |
 | Copy | #1348 • 田伯光 | 請問田伯光(狗隻#1348)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2175737) |
-| Copy | #1426 • 沙洛文-卡勞 | 請問沙洛文-卡勞(狗隻#1426)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg1970819) |
+| Copy | #1426 • 沙洛文-卡勞 | 請問沙洛文-卡勞(狗隻#1426)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1970819) |
 | Copy | #1627 • 煙花太易冷(李梓嘉) | 24歲失蹤女子石樂蕎在鵝肚棧道尋回，證實死亡，佢打「手足#wail#pig」引戰 | [🔗](https://lihkg.com/thread/2494049/page/1?post=3) |
 | Copy | #1734 • 濕鳩liy-好喜歡她 |  [詳細](./1734.html) | [🔗](./1734.html) |
