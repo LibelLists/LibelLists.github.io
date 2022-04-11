@@ -10,5 +10,3 @@
 | Copy | #1149 • ⸻⸻⸻⸻⸻⸻⸻⸻(坚持贯彻基本法) | [詳細](./LibelWeb/1149.html) |   [🔗](./1149.html)  |
 | Copy | #1210 • 淫魔 | 請問淫魔(狗隻#1210)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1678332) |
 | Copy | #1211 • 屌屌屌屌屌(豬屍馬織) | 利用限時嘅 [ STEAM HK$80 優惠 ] 雙開 paypal 帳號刷錢。 | [🔗](https://lih.kg/bjOHapX) [🔗](https://lih.kg/bjOHdJX) [🖼️備份](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/1211) |
-
-<script>function LibelWeb(){navigator.clipboard.writeText(copyText.value);alert("Copied");}</script>
