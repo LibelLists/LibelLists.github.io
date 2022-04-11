@@ -15,8 +15,13 @@ search_exclude: true
 
 ---
 <p align="center">
+  
 【Libel】LIHKG 會員標籤插件 [主頁](https://kitce.github.io/libel/)
+  
 【Libel】LIHKG 會員標籤插件 [討論](https://lih.kg/2841778)
+  
 【Libel】LIHKG 會員標籤插件 [GitHub](https://github.com/kitce/libel)
+  
  Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
+  
 </p>
