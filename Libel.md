@@ -24,12 +24,12 @@ search_exclude: true
 
 <p align="center">
   
-【Libel】LIHKG 會員標籤插件 [主頁](https://kitce.github.io/libel/)
+ <p align="center">【Libel】LIHKG 會員標籤插件 [主頁](https://kitce.github.io/libel/)</p>
   
-【Libel】LIHKG 會員標籤插件 [討論](https://lih.kg/2841778)
+ <p align="center">【Libel】LIHKG 會員標籤插件 [討論](https://lih.kg/2841778)</p>
   
-【Libel】LIHKG 會員標籤插件 [GitHub](https://github.com/kitce/libel)
+ <p align="center">【Libel】LIHKG 會員標籤插件 [GitHub](https://github.com/kitce/libel)</p>
   
- Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
+ <p align="center">Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)</p>
   
 </p>
