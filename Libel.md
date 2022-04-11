@@ -5,15 +5,23 @@ search_exclude: true
 ---
 
 <p align="center">
+  
   <img src="https://kitce.github.io/libel/assets/logos/libel.png" alt="Libel" width="100"/>
+  
   <h1 align="center">Libel</h1>
+  
   <p align="center">Label users on LIHKG</p>
+  
   <p align="center">
+  
     <img src="https://kitce.github.io/libel/assets/demo.gif" alt="Demo" />
+  
   </p>
+  
 </p>
 
 ---
+
 <p align="center">
   
 【Libel】LIHKG 會員標籤插件 [主頁](https://kitce.github.io/libel/)
