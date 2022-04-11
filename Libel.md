@@ -7,22 +7,19 @@ search_exclude: true
 ![](https://kitce.github.io/libel/assets/logos/libel.png)
 {: .text-center}
   
-  <h1 align="center">Libel</h1>
-  
-  <p align="center">Label users on LIHKG</p>
-  
-  <p align="center">
-  
-    <img src="https://kitce.github.io/libel/assets/demo.gif" alt="Demo" />
-  
-  </p>
-  
-</p>
+Libel
+{: .text-center}
+Label users on LIHKG
+{: .text-center}
+![](https://kitce.github.io/libel/assets/demo.gif)
 
 ---
 
- <p align="center"> 【Libel】LIHKG 會員標籤插件 </p>
+【Libel】LIHKG 會員標籤插件
+{: .text-center}
   
- <p align="center"> 【<a href="https://kitce.github.io/libel/">主頁</a>】 【<a href="https://lih.kg/2841778">討論</a>】 【<a href="https://github.com/kitce/libel">GitHub</a>】 </p>
+ 【[主頁](https://kitce.github.io/libel/)】 【[討論](https://lih.kg/2841778)】 【[GitHub](https://github.com/kitce/libel)】
+ {: .text-center}
   
- <p align="center"> Libel認證【戇鳩】會員名單 <a href="https://kitce.github.io/libel/data/mock/subscriptions/sample1.json">https://kitce.github.io/libel/data/mock/subscriptions/sample1.json</a> </p>
+ Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
+  {: .text-center}
