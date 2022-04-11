@@ -5,7 +5,7 @@ search_exclude: true
 ---
 
 <p align="center">
-  <img src="./assets/logos/libel.png" alt="Libel" width="100"/>
+  <img src="https://kitce.github.io/libel/assets/logos/libel.png" alt="Libel" width="100"/>
 </p>
   
 Libel
