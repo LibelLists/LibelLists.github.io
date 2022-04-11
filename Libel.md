@@ -4,9 +4,8 @@ nav_order: 1
 search_exclude: true
 ---
 
-<p align="center">
-  
-  <img src="https://kitce.github.io/libel/assets/logos/libel.png" alt="Libel" width="100"/>
+![](https://kitce.github.io/libel/assets/logos/libel.png)
+{text-align: center}
   
   <h1 align="center">Libel</h1>
   
