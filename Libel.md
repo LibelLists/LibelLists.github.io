@@ -5,7 +5,7 @@ search_exclude: true
 ---
 
 ![](https://kitce.github.io/libel/assets/logos/libel.png)
-{text-align: center}
+{: .text-center}
   
   <h1 align="center">Libel</h1>
   
