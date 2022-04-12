@@ -56,3 +56,7 @@ nav_order: 3
 |       | #7814 • 史提芬周國腎(移民饅頭) | 看圖作文，抹黑同路人。<br> 請問移民饅頭(狗隻#7814)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2117825) <br><br> [🔗](https://lihkg.com/thread/2806758/page/1) |
 |       | #7824 • 有落呀屌你老母【已ban】 | 請問有落呀屌你老母(狗隻#7824)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2597608/page/1) |
 |       | #8014 • 哇屌 | [詳細](./8014.html) | [🔗](./8014.html) |
+|       | #8572 • 慈雲山本澤馬 | 出言侮辱沒有 bno 的港人「腥港人？bno 都無？」。<br><br> 以「港鐵附例」回應香港人喺地鐵站舉《蘋果》抗議，可見佢係一隻守法嘅鐵膠。 | [🔗](https://lih.kg/gEeRkT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/8572/8572.1_.png) <br><br> [🔗](https://lih.kg/hnogdT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/8572/8572.2_.png) |
+
+
+
