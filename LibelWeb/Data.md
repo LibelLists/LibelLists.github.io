@@ -36,4 +36,4 @@
 |       | #4526 • 驻连登国安人员(帳號已刪除) | 請問驻连登国安人员(狗隻#4526)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2333181/page/1) |
 |       | #4618 • 花井三日月 | 對宣布退出政治圈子的郭榮鏗稱「好事嚟快躝」。 | [🔗](https://lih.kg/aFEDLAV) |
 |       | #4780 • 林志偉(大總統) | 【ZA洗版狗】• 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbsnV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/4780/4780.1_.png) |
-|       | #4957 • HoussemAouar(我很不幸運) | 請問HoussemAouar(狗隻#4957)你屙尿嗰陣起左腳定右腳? | [🔗]() |
+|       | #4957 • HoussemAouar(我很不幸運) | [詳細](./4957.html) | [🔗](./4957.html) |
