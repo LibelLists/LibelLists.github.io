@@ -57,6 +57,9 @@ nav_order: 3
 |       | #7824 • 有落呀屌你老母【已ban】 | 請問有落呀屌你老母(狗隻#7824)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2597608/page/1) |
 |       | #8014 • 哇屌 | [詳細](./8014.html) | [🔗](./8014.html) |
 |       | #8572 • 慈雲山本澤馬 | 出言侮辱沒有 bno 的港人「腥港人？bno 都無？」。<br><br> 以「港鐵附例」回應香港人喺地鐵站舉《蘋果》抗議，可見佢係一隻守法嘅鐵膠。 | [🔗](https://lih.kg/gEeRkT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/8572/8572.1_.png) <br><br> [🔗](https://lih.kg/hnogdT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/8572/8572.2_.png) |
-
+|       | #8575 • 真城最高 | 請問真城最高(狗隻#8575)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2438516/page/1) |
+|       | #8739 • 男精零做乜勁【3po空ac】 | 叫腦癌手足「快啲死啦你」 | [🔗](https://lihkg.com/thread/2462264/page/1?post=4) |
+|       | #8833 • 啊Wa超人(搖擺周賓) | 對文宣畫作在未經同意下轉售牟利一事上認為無問題，更要求原作者「忍讓下」。 | [🔗](https://lih.kg/aqjPbzV) |
+|       | #8873 • 千人斬 | 請問千人斬(曱甴#8873)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2697206/page/1) |
 
 
