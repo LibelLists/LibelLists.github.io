@@ -24,9 +24,10 @@
 |      |      | 出言抹黑阿布泰老闆，表明反攬炒並支持海關選擇性執法。 | [🔗](https://lih.kg/aMGfcmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1968/1968.1_.png) |
 |      | #2002 • 八幡(伊藤美来)(八幡（桐生可可）) | 請問八幡(伊藤美来)(狗隻#2002)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2269463/page/1) |
 |      | #2403 • 拾里山路不換(負能量) | 藉坪洲交收PS5騙案，支持電話號碼實名制。<br><br>為港共的電話號碼實名制護航。 | [🔗](https://lih.kg/aPaRHcV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/2403/2403.1_.png)<br><br>[🔗](https://lih.kg/aPaRHcV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/2403/2403.1_.png) |
-|      | #2455 • 半2全2 | 請問半2全2(曱甴#2455)你屙尿嗰陣起左腳定右腳?<br>惡意侮辱香港人做曱甴，合理化党戇曱甴嘅行動 | [🔗](https://lihkg.com/thread/2890293/page/1)<br> [🔗](https://lih.kg/bhGvFBV] • [🖼️](https://na.cx/i/NxXqFk8.png) |
+|      | #2455 • 半2全2 | 請問半2全2(曱甴#2455)你屙尿嗰陣起左腳定右腳?<br>惡意侮辱香港人做曱甴，合理化党戇曱甴嘅行動 | [🔗](https://lihkg.com/thread/2890293/page/1)<br> [🔗](https://lih.kg/bhGvFBV) • [🖼️](https://na.cx/i/NxXqFk8.png) |
 |      | #2748 • CardPay(OpOpGuy) | 請問CardPay(狗隻#2748)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1042857/page/1) |
 |      | #2889 • 越想越不對勁 | 【風向狗】• 嘗試誤導其他人，大快活係「黃店」，「因為杜生幫手代言過」；及大家樂係「被誤解為藍店」，「可能因為大家樂同大快活打同台」。🔐大家樂集團主席係深圳「政協」。 | [🔗](https://lih.kg/eDwGQT) • [🖼️](https://na.cx/i/iNorAr7.jpg) |
 |      |      | 【正仆街】• 緬甸羅興亞難民起訴Facebook傳播暴力，佢回應「呢班賤種屠殺完緬甸人 宜家又諗住勒索facebook」。 | [🔗](https://lih.kg/hRkOBT) • [🖼️](https://na.cx/i/oaTCG5g.jpg) |
 |      |      | <br>【FakeNews】• 出Post標題「特朗普細佬推特寫自己兩日前患上武肺」，被管理團隊標示為「真實性有待確定，及可能含有虛假資訊」。 | [🔗](https://lih.kg/2159812) • [🖼️](https://na.cx/i/e1XcvYB.jpg) |
-
+|       | #3206 • 開心的港豬です(我想去加拿大) | 請問開心的港豬です(狗隻#3206)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/bjqRtRV) • [🖼️](https://na.cx/i/Gmh495i.png) |
+|       | #3502 • 真•小車手(FaceitLvl10) | 【⚠️前線老千】• 逃亡手足，藉自己光環騙取金錢吃喝玩樂。 | [🔗](https://lih.kg/oKkKaLX) • [🔗](https://lih.kg/oKkKbMX) • [🔗](https://lih.kg/oKkKjCX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/3502) |
