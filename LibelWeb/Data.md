@@ -61,5 +61,6 @@ nav_order: 3
 |       | #8739 • 男精零做乜勁【3po空ac】 | 叫腦癌手足「快啲死啦你」 | [🔗](https://lihkg.com/thread/2462264/page/1?post=4) |
 |       | #8833 • 啊Wa超人(搖擺周賓) | 對文宣畫作在未經同意下轉售牟利一事上認為無問題，更要求原作者「忍讓下」。 | [🔗](https://lih.kg/aqjPbzV) |
 |       | #8873 • 千人斬 | 請問千人斬(曱甴#8873)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2697206/page/1) |
-
+|       | #9082 • Intel_King【空ac疑被ban】 | 請問Intel_King(狗隻#9082)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1511105/page/1) |
+|       | #9694 • 安扣【3po空ac至今仍然活動中】 | 請問安扣(狗隻#9694)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2123393/page/1) |
 
