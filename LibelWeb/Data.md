@@ -64,6 +64,7 @@ nav_order: 3
 |       | #9082 • Intel_King【空ac疑被ban】 | 請問Intel_King(狗隻#9082)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1511105/page/1) |
 |       | #9694 • 安扣【3po空ac至今仍然活動中】 | 請問安扣(狗隻#9694)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2123393/page/1) |
 |       | #10199 • D10S | 請問D10S(狗隻#10199)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2143489/page/1) |
-|       | #10290 •  |  支那種 • 自認支那人<br><br> 親共少數派 • 話721柳俊江抵俾人打<br><br> TVB觀眾 | [🔗](https://lihkg.com/thread/2596454/page/1?post=9) <br><br> [🔗](https://lihkg.com/thread/2596454/page/1?post=10) <br><br> [🔗](https://lihkg.com/thread/2596454/page/1?post=10) |
+|       | #10290 • Nick_Young❤️ |  支那種 • 自認支那人<br><br> 親共少數派 • 話721柳俊江抵俾人打<br><br> TVB觀眾 | [🔗](https://lihkg.com/thread/2596454/page/1?post=9) <br><br> [🔗](https://lihkg.com/thread/2596454/page/1?post=10) <br><br> [🔗](https://lihkg.com/thread/2596454/page/1?post=10) |
+|       | #11081 • James_Rodriguez(Takefusa_Kubo) | [🖼️](https://na.cx/i/5woxKWr.png) | [🔗](https://lihkg.com/thread/2514960/page/10?post=233) |
 
 
