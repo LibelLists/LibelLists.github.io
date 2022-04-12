@@ -24,3 +24,14 @@ Label users on LIHKG
   
  Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
   {: .text-center}
+
+---
+
+其他推薦的插件
+{: .text-center}
+[顯示回覆用戶資料](https://lihkg.com/thread/1268574/page/1)
+{: .text-center}
+[顯示引用回覆資料](https://lihkg.com/thread/2377639/page/1)
+{: .text-center}
+[共業 REDSTOP](https://redstop.info/download)
+{: .text-center}
