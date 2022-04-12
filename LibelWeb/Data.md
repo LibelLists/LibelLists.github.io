@@ -31,3 +31,9 @@
 |      |      | <br>【FakeNews】• 出Post標題「特朗普細佬推特寫自己兩日前患上武肺」，被管理團隊標示為「真實性有待確定，及可能含有虛假資訊」。 | [🔗](https://lih.kg/2159812) • [🖼️](https://na.cx/i/e1XcvYB.jpg) |
 |       | #3206 • 開心的港豬です(我想去加拿大) | 請問開心的港豬です(狗隻#3206)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/bjqRtRV) • [🖼️](https://na.cx/i/Gmh495i.png) |
 |       | #3502 • 真•小車手(FaceitLvl10) | 【⚠️前線老千】• 逃亡手足，藉自己光環騙取金錢吃喝玩樂。 | [🔗](https://lih.kg/oKkKaLX) • [🔗](https://lih.kg/oKkKbMX) • [🔗](https://lih.kg/oKkKjCX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/3502) |
+|       | #4156 • Suis(反潘) | 請問Suis(反潘)(狗隻#4156)你屙尿嗰陣起左腳定右腳?<br> 抹黑同路人，稱「黃店不嬲鐘意搵人笨7」。 | [🔗](https://lihkg.com/thread/2818150/page/1)<br> [🔗](https://lih.kg/sOcAtuX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/4156/4156.1_.png) |
+|       | #4461 • 薯條走條(足金好球喜報) | 利用限時嘅 [ STEAM HK$80 優惠 ] 多開 paypal 帳號刷錢。 | [🔗](https://lih.kg/bjOHasX) |
+|       | #4526 • 驻连登国安人员(帳號已刪除) | 請問驻连登国安人员(狗隻#4526)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2333181/page/1) |
+|       | #4618 • 花井三日月 | 對宣布退出政治圈子的郭榮鏗稱「好事嚟快躝」。 | [🔗](https://lih.kg/aFEDLAV) |
+|       | #4780 • 林志偉(大總統) | 【ZA洗版狗】• 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbsnV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/4780/4780.1_.png) |
+|       | #4957 • HoussemAouar(我很不幸運) | 請問HoussemAouar(狗隻#4957)你屙尿嗰陣起左腳定右腳? | [🔗]() |
