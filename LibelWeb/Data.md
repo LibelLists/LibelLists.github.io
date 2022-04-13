@@ -259,8 +259,7 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 半2全2 | 曱甴 | 請問半2全2(曱甴#2455)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2890293/page/1) |
-|      | 曱甴 | 惡意侮辱香港人做曱甴，合理化党戇曱甴嘅行動 | [🔗](https://lih.kg/bhGvFBV) • [🖼️](https://na.cx/i/NxXqFk8.png)
+| 半2全2 | 曱甴 | 請問半2全2(曱甴#2455)你屙尿嗰陣起左腳定右腳?<br> 惡意侮辱香港人做曱甴，合理化党戇曱甴嘅行動 | [🔗](https://lihkg.com/thread/2890293/page/1) • [🔗](https://lih.kg/bhGvFBV) • [🖼️](https://na.cx/i/NxXqFk8.png) |
 
 </div>
 ```markdown
