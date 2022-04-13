@@ -26,7 +26,7 @@ https://eat-play.github.io/on9_list/LIHKG-Label-List-2-power_off-1886.json
 
 #### 舊OFF囝戇鳩LIST(352人) [*1](#1-此訂閱list由zetho77gh轉換後提供-原作者為eat-playlihkg1886power_off)
 ```
-https://zetho77gh.github.io/Lihkg-Libel-Lists/old_off_on9list.json
+https://zethogh.github.io/LibelLists/old_off_on9list.json
 ```
 
 ###### *1 此訂閱list由Zetho77GH轉換後提供 原作者為:eat-play(lihkg#1886•power_off)
