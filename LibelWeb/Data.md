@@ -920,3 +920,83 @@ nav_order: 3
 
 </div>
 
+## #14055
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 劉亦菲。飛(連登清瘟膠囊) | 狗隻 | 請問劉亦菲。飛(狗隻#14055)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1188403/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #14090
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 永瀆雲爺爺 | ⚠️ | 出言抹黑612抗爭基金，呼籲巴打唔好捐港共派嗰一萬畀班左膠組織。 | [🔗](https://lih.kg/2053531) |
+|  | 狗隻 | 請問永瀆雲爺爺(狗隻#14090)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2219112/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #14361
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 賣港龜公張建宗 | 藍店支持者 | 「有冇手足係特朗普敗選後打算食返元氣、吉野家同美心MX？」，佢答「忍咗好耐了![](https://cdn.lihkg.com/assets/faces/dog/wet.gif) 仲準備去考警察添」。 | [🔗](https://lih.kg/aEQmypV) • [🖼️](https://na.cx/i/LOEFJKg.jpg) |
+| (傻鳩先鐘意香港) | 嘲諷同路人 | 會員名「傻鳩先鐘意香港」，發表嘲諷同路人言論，「政府話點咪點囉」。 | [🔗](https://lih.kg/vRzJBnX) • [🖼️](https://na.cx/i/ZvFEZhB.jpg) |
+|  | 藍絲風向狗 | 有公立醫院護士表示想離職，佢回應建議投考黑警。 | [🔗](https://lih.kg/wbrjNbX) • [🖼️](https://na.cx/i/VB8jeQW.jpg) |
+|  | 正仆街 | 大批懷疑中招市民長時間喺醫院戶外地方等候入院，佢回應「啱晒，香港人咁鐘意露營![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)」。 | [🔗](https://lih.kg/wdqfeOX) • [🖼️](https://na.cx/i/k9CoGvW.jpg) |
+
+</div>
+```markdown
+由 LITrack-主要名單 提供
+```
+
+## #14565
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 千舞琉璃夜(摩羯座) | 原神狗 | 遊玩一款由支那公司研發 (抄襲《薩爾達傳說》) 的遊戲，支那仔無誤。 | [🔗](https://lih.kg/aDnHJFV) |
+
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #14872
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| De_Jong(三興凍肉) | ⚠️ | 發文恥笑抗爭者：「示威者大量犠牲集氣區 - 把他們碌死吧。」 | [🔗](https://lih.kg/1194764) • [🔗](https://lih.kg/1194736) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/14872) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #14941
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 你認真就輸了(🗿 用戶已刪除帳號) | [詳細](./14941) |  | [🔗](./14941) |
+
+</div>
+
