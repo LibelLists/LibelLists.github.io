@@ -35,3 +35,7 @@ Label users on LIHKG
 {: .text-center}
 [共業 REDSTOP](https://redstop.info/download)
 {: .text-center}
+
+非插件式【Libel】
+你試下手動呼吸(#92230)的TG bot
+TG： @unofficial_libel_bot
