@@ -37,7 +37,7 @@ Label users on LIHKG
 {: .text-center}
 
 非插件式【Libel】
-
+{: .text-center}
 你試下手動呼吸(#92230)的TG bot
-
-TG： @unofficial_libel_bot
+{: .text-center}
+TG： [@unofficial_libel_bot](https://t.me/unofficial_libel_bot)
