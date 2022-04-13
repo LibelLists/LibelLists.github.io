@@ -861,3 +861,52 @@ nav_order: 3
 
 </div>
 
+## #13395
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Merci_Arsene【已ban】 | ⚠️ | 出言抹黑黃圈。 | [🔗](https://lih.kg/aGOftiV) • [🔗](https://lih.kg/aKsuApV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/13395/13395.1_.png) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
+```
+
+## #13495
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 370H55V | ⚠️ | 分化撚，咒住元朗嘅都係抵死。 | [🔗](https://lih.kg/mDcyokX) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #13503
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 孫中山 | ⚠️ | 對宣布退出政治圈子的郭榮鏗稱「唔好以為咁就走得甩」。 | [🔗](https://lih.kg/gpCgKT) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #13505
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 張芊穗 |  | [詳細](./13505) | [🔗](./13505) |
+
+</div>
+
