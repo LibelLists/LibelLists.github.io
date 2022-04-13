@@ -2,6 +2,7 @@ title: Libel List
 remote_theme: just-the-docs/just-the-docs
 color_scheme: "dark"
 search_enabled: true
+search.rel_url: false
 aux_links:
   "Lihkg Libel Lists on GitHub":
     - "//github.com/Zetho77GH/Lihkg-Libel-Lists"
