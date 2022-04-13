@@ -806,3 +806,48 @@ nav_order: 3
 由 老鳳List 提供
 ```
 
+## #12269
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 新垣結衣係我老婆 | ⚠️ | 話「黃屍話抗爭唔係靠呢啲![](https://cdn.lihkg.com/assets/faces/normal/cry.gif)要寫信同睇viu![](https://cdn.lihkg.com/assets/faces/normal/agree.gif)  | [🔗](https://lihkg.com/thread/1646271/page/1) |
+|  | 假膠 | 話藍黃大和解 | [🔗]() |
+
+</div>
+```markdown
+由 支囝狗隻LIST & 問題會員清單 提供
+```
+
+## #12746
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 另一個廚房 | 藍扮黃 | 向香港「電子報案中心」舉報支持香港獨立嘅在日港人「木耳」。 | [🔗](https://lih.kg/rMwtegX) • [🖼️](https://na.cx/i/pgdoVJb.png) |
+|  | 支持中國監控 | 向中國「國家安全機關舉報受理平台」舉報支持香港獨立嘅在日港人「木耳」。 | [🔗](https://lih.kg/aHgMgPV) • [🖼️](https://na.cx/i/hnn86PR.png) |
+|  | 狗隻 | 請問另一個廚房(狗隻#12746)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2340874/page/1) |
+
+</div>
+```markdown
+由 LITrack-Off囝名單(經修訂) & 老鳳List 提供
+```
+
+## #12831
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 智勛(Ks33) | 小心此人 | 侮辱同路人樓主「明顯當你雞啦」，並以「黃圈智力」加以嘲諷。 | [🔗](https://lih.kg/aLhanyV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/12831/12831.1_.png) |
+|  | 侮辱同路人 | 出言侮辱抗爭者，指刺傷何妖 (何君堯) 的董義士「佢好似係輕度」。 | [🔗](https://lih.kg/twBwekX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/12831/12831.2_.png) |
+|  | 狗隻 | 問Ks33(狗隻#12831)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2873622/page/1) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+曾用名稱：Zzzzz人
+```
+
