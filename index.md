@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Lihkg Libel Lists
 has_children: true
 nav_order: 2
