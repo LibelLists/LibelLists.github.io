@@ -1000,3 +1000,58 @@ nav_order: 3
 
 </div>
 
+## #14965
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 有村架純bb豬😘 | ⚠️ | 出言侮辱同路人，恥笑稱 612 基金「又眾臭呀」。 | [🔗](https://lih.kg/aGjuQCV) |
+|  | 親共少數派 | 用「黑暴」字眼 | [🔗](https://lih.kg/biucBkV) |
+|  | 狗隻 | 請問有村架純bb豬(狗隻#14965)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2304767) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+```
+
+## #15380
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 韋逸昇係我【1po空ac】 | ⚠️ | 分化同路人，抹黑前線抗爭者。 | [原po已死](https://lih.kg/aoRBysV) • [🔗](https://lih.kg/RtGKnV) • [🔗](https://lih.kg/nCxHMrX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/15380) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #16061
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 卧龍躍馬終黃土(Chosen1(春申君)) | ⚠️ | 言論偏幫黑警 | [🔗原po已死](https://lih.kg/fMpGMT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/16061/16061.1_.png) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：早死早超生，溫心老契，我改名關你撚事
+```
+
+## #16719
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 人權教師爺 | 已BAN | [詳細](./16719) | [🔗](./16719) • [🖼️警告內含噁心圖片](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2021/16719/16719.1_.png) |
+
+</div>
+```markdown
+圖片由 OFF囝戇鳩LIST作者圖庫 提供
+```
+
