@@ -31,3 +31,5 @@ https://zethogh.github.io/LibelLists/old_off_on9list.json
 ```
 
 ###### *1 此訂閱list由Zetho77GH轉換後提供 原作者為:eat-play(lihkg#1886•power_off)
+
+###### *2 人數更新時間為2022年4月9日
