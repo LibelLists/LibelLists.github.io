@@ -13,3 +13,5 @@ search_exclude: true
 ```
 https://raw.githubusercontent.com/shiaifglshav/ChiBoyDogList/main/ChiBoyDogList.json
 ```
+
+###### *1 人數更新時間為2022年4月9日
