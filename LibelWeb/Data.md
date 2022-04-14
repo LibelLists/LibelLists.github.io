@@ -1226,3 +1226,29 @@ nav_order: 3
 曾用名稱：高息股，愛情摩天輪，打邊爐家族-爸爸，財務自由之路-
 ```
 
+## #20459
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 長期都輸【空ac】 | 小心此人 | 出言侮辱同路人。 | [🔗](https://lih.kg/aLMsDJV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/20459/20459.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+```
+
+## #20867
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Sky_Croc |  | [詳細](./20867) | [🔗](./20867) |
+
+</div>
+```markdown
+Special Thanks：power_off(#1886)
+```
+
