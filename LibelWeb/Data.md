@@ -1048,10 +1048,24 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 人權教師爺 | 已BAN | [詳細](./16719) | [🔗](./16719) • [🖼️警告內含噁心圖片](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2021/16719/16719.1_.png) |
+| 人權教師爺 | 已BAN | [詳細](./16719) | [🔗](./16719) • [警告🖼️內含噁心影象](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2021/16719/16719.1_.png) |
 
 </div>
 ```markdown
 圖片由 OFF囝戇鳩LIST作者圖庫 提供
 ```
 
+## #16925
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 十八歲登基(先污辱後行房) | 侮辱同路人 | 對圖中蘋果女記者表示「為睇全裸，想入政府」。 | [🔗](https://lih.kg/aQQEOxV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/16925/16925.1_.png) |
+|  | 自認中國人 | 將中國運動員稱為「我國驕傲」，反映佢自認為係中國人。 | [🔗](https://lih.kg/bhtDvfV) • [🖼️](https://na.cx/i/REdEmME.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：半生完，大粗長耐硬，粑粑上的齒印
+```
