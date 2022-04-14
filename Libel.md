@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 【Libel】LIHKG 會員標籤插件
 nav_order: 1
 search_exclude: true
