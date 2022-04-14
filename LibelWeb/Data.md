@@ -799,11 +799,12 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 肥寶貝【已ban】 | 狗隻 | 請問肥寶貝(狗隻#12186)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1646271/page/1) |
+| 肥寶貝【已ban】 | 狗隻 | 請問肥寶貝(狗隻#12186)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1646271/page/1) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/banned/12186/) |
 
 </div>
 ```markdown
 由 老鳳List 提供
+圖片由 OFF囝戇鳩LIST作者圖庫 提供
 ```
 
 ## #12269
@@ -1094,3 +1095,117 @@ nav_order: 3
 
 </div>
 
+## #17799
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 朱智賢 | ⚠️ | 以踐踏香港人為樂，認為香港人都是弱智。 | [🔗](https://lih.kg/atakpJV) • [🔗](https://lih.kg/atakrcV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/17799) |
+|  | 狗隻 | 請問朱智賢(狗隻#17799)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1960962/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #18114
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 湖北街李彩華 | ⚠️ | 對被捕的抗爭人士冷嘲熱諷。 | [🔗](https://lih.kg/fCfupT) |
+|  | 狗隻 | 請問湖北街李彩華(狗隻#18114)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2075672/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #18271
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 葉問代表我的心(閱讀越讀越毒) | 小心此人 | 假藉連登仔發表自己心底真實想法「一定係後生又懶又爛賭又唔理財先至81歲都要做清潔」。 | [🔗](https://lih.kg/aKvnsmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/18271/18271.1_.png) |
+|  | 待定 | 狙擊cctoy稻草人 | [🔗](https://lihkg.com/thread/2012532/page/1) |
+|  | 搞分化 | 721前值,仲係度搞分化,周圍抹黑其他反對派組織 | [🔗](https://lihkg.com/thread/1335482/page/1) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 問題會員清單 & #241151 提供
+曾用名稱：一嘢轟落去！，酸民的野望，我要攬妙，我要攬女，天水圍加度素
+```
+
+## #18679
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 我愛巴塞(白宮經濟顧問) | 狗隻 | 請問我愛巴塞(狗隻#18679)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2359554/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：曾蔭權爵士閣下，白宮首席經濟顧問
+```
+
+## #19334
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Olivier吉魯 | 狗隻 | 請問Olivier吉魯(狗隻#19334)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1188059/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #19528
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 化骨龍呀 | 放負風向狗 | 2019年6月18日，呼籲抗爭者「希望你地還番條路出黎回家休息」。 | [🔗](https://lih.kg/OHikQV) • [🖼️](https://na.cx/i/04WwbwR.jpg) |
+|  | ⚠️ | 在囚女手足提出司法覆核，爭取女囚夏天著短褲，佢放負「唔係以前果套喇 唔好搞喇」。 | [🔗](https://lih.kg/bacQkdV) • [🖼️](https://na.cx/i/qx7y9iA.jpg) |
+
+</div>
+```markdown
+由 LITrack-主要名單 提供
+```
+
+## #19552
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 蓋世寶吊老母 | 小心此人 | 拎2014嘅事鞭屍左膠都唔緊要，標題叫做「香港人比晒提示烏克蘭人點抗爭同拎武器」係咪有啲缺德？ | [🔗](https://lih.kg/2900013) • [🖼️](https://na.cx/i/ZxBqqS8.jpg) |
+|  | 藍店支持者 | 自稱食「大家樂」，並反問另一波台狗「2022年都黎 仲分黃藍?」。 | [🔗](https://lih.kg/vsngCHX) • [🖼️](https://na.cx/i/sSo4Grs.jpg) |
+|  | 攬住塊鏡 | 開Post問「有冇鏡粉含淚買藍支持返Mirror(黃)?」，並且聲稱富臨、美心、吉野家係「黃店」。 | [🔗](https://lih.kg/2740258) • [🖼️](https://na.cx/i/FZaR5S8.jpg) |
+|  | 波台狗 | Google起底發現「蓋清」係隻波台狗，相關Google result竟然多達 2,700 項… | [🔗](https://bit.ly/3hifOw9) • [🖼️](https://na.cx/i/CO6xQjO.jpg) |
+
+</div>
+```markdown
+由 LITrack-主要名單 提供
+```
+
+## #19725
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Lancet | 正仆街 | 抹黑及膠化其他同路人，指呃飲呃食累小店蝕入肉的學生「黃絲好窮 求包養 條女要做雞」。 | [🔗](https://lih.kg/aNuiNbV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/19725/19725.1_.png) |
+|  | 狗隻 | 請問Lancet(狗隻#19725)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2867267/page/1) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+```
