@@ -20,3 +20,5 @@ https://v4kfdgew8t.github.io/xrsbkvnfay/LoFungList.json
 ```
 
 ###### *1 此List由老鳳授權V4KFDgEw8T(Lihkg#92230 • 你試下手動呼吸)代理
+
+###### *2 人數更新時間為2022年4月9日
