@@ -29,3 +29,5 @@ https://kinki-mochi.github.io/Inspection.json
 ```
 https://kinki-mochi.github.io/Recommendation.json
 ```
+
+###### *1 人數更新時間為2022年4月9日
