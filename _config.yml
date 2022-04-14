@@ -6,3 +6,4 @@ search.rel_url: false
 aux_links:
   "Lihkg Libel Lists on GitHub":
     - "//github.com/Zetho77GH/Lihkg-Libel-Lists"
+permalink: /:title/
