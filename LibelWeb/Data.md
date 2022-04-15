@@ -1659,3 +1659,112 @@ Special Thanks：power_off(#1886)
 曾用名稱：英雄想見樂瞳
 ```
 
+## #28558
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| COVID-19(🗿 用戶已刪除帳號 ) | ⚠️ | 出言侮辱同路人，稱黃之鋒將會「坐定粒六監獄食致癌物慘死獄中」。 | [🔗](https://lih.kg/axgodyV) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #28833
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 不可說不可說轉(已ban) | 狗隻 | 請問不可說不可說轉(狗隻#28833)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1730413/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #28878
+
+<div class="code-example" markdown="1">
+
+| 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 黃毓民（劉生）[麥龜死全家] | ⚠️ | 出言抹黑遇襲的同路人：「香港人既錢真係易呃」，近日連龍門都唔放過趁機抽水。 | [🔗](https://lih.kg/fFviCT) • [🔗](https://lih.kg/azvbmKV) • [🔗](https://lih.kg/qMuztNX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/28878) |
+|  | ⚠️ | 序言書室啲書賣89同64蚊，佢話「又搵水魚😂」 | [🔗](https://lih.kg/aPgHqrV) |
+|  | 狗隻 | 話香港人抵俾極權統治 | [🔗](https://lih.kg/2176069) |
+|  | 狗隻 | 請問雲達韋碧克(狗隻#28878)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2213275) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：獌德拉，雲達韋碧克，污點證人李宇軒，港獨死全家
+```
+
+## #28938
+
+<div class="code-example" markdown="1">
+
+| 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 司馬仲達【已ban】 | ⚠️ | 出言侮辱同路人。 | [原po已死](https://lih.kg/1570873) • [🔗](https://lih.kg/fomPCT) • [🔗](https://lih.kg/guNiwT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/28938) |
+|  | 小心此人 | 對12港人案被告之一的李宇軒侮辱指「佢本身自己著草去台灣已經係一個自私嘅行為」。 | [🔗](https://lih.kg/gOAsHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/28938/28938.1_.png) |
+|  | 狗隻 | 請問司馬仲達(狗隻#28938)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2341266/page/1) • [🖼️](https://na.cx/i/Kh7y8V9.png) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #29148
+
+<div class="code-example" markdown="1">
+
+| 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 無知一問 | ⚠️ | 自稱「前線老千: 真•小車手」的同事，盲撐對方所作所為，扭曲真正前線手足應有既準則。 | [原po已死](https://lih.kg/oKEEzvX) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：分手要狠，註冊感情台社工，贖罪，我攰喇，犯賤，希望你會上連登⋯，我是雞，我現時自己肯大便，三個月快樂..
+```
+
+## #29244
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 鳩先生 | 狗隻 | 請問鳩先生(狗隻#29244)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2726668/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：大家一起去仆街，tonight959
+```
+
+## #29514
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 墮天使夜羽 | ⚠️ | 對同路人單打打打，幸災樂禍。 | [🔗](https://lih.kg/azfnyqV) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #29784
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Alfonzo_McKinnie(球哥@@) |  | [詳細](./29784) | [🔗](./29784) |
+
+</div>
+
