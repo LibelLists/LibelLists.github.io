@@ -1832,7 +1832,7 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 社運工程師 | 小心此人 | 出言抹黑撤回參選宣言及政綱等文件的中大學生會。 | [🔗](https://lih.kg/gHkmyT)• [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/30988/30988.1_ .png) |
+| 社運工程師 | 小心此人 | 出言抹黑撤回參選宣言及政綱等文件的中大學生會。 | [🔗](https://lih.kg/gHkmyT)• [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/30988/30988.1_.png) |
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
 ```
