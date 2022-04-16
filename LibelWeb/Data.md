@@ -2364,3 +2364,111 @@ Special Thanks：power_off(#1886)
 曾用名稱：今年四歲，。今年﹁四歲﹏，今年六歲，今年四歲(藍絲)，今年四歲(5毛)，今年四歲_65cm
 ```
 
+## #37733
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 十卜Ching | ⚠️ | 分化同路人。  | [🔗](https://lih.kg/akNgjrV) • [🔗](https://lih.kg/nAMHNfX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/37733) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #37817
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 不羈的笑臉【4po空ac】 | ⚠️ | 嘲笑宣布退出香港眾志的黃之鋒。 | [🔗](https://lih.kg/pPjfHcX) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #37959
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 黃屍死全家落地獄【已ban】 | 曱甴 | 請問黃屍死全家落地獄(曱甴#37959)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2508734/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #38098
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 兩手【5poAC】 | 狗隻 | 請問兩手(狗隻#38098)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2703755/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：兩儀
+```
+
+## #38172
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 麥茶竇竇 | 小心此人 | 指香港封網「怪就怪搞攬炒班人」、又指周庭出獄「發覺 patreon 多左幾多錢，乜都補返哂啦」。 | [🔗](https://lih.kg/saynEcX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/38172/38172.1_.png) |
+| (持盈保泰) | 侮辱同路人 | 周庭出獄，佢回應「login patreon發覺多左幾多錢，乜都補返哂啦」。 | [🔗](https://lih.kg/hkeJeT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/38172/38172.2_.png) |
+|  | 狗隻 | 請問陳美滋風(狗隻#38172)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2701011/page/1) | 
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：七緒，陳師姐，半個睡房，納蘭姊姊，望北川這曖昧的眼，與你一起發夢，陳美芝飯，陳美滋風，BreakingMyHeart
+```
+
+## #38189
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| N_Bendtner | 愛支波台狗 | 「N賓」係著名波台狗，佢將台灣稱為「台灣省」。 | [🔗](https://lih.kg/2528747) • [🖼️](https://na.cx/i/e9g1c0A.jpg) |
+|  | 不安上路 | 「拎得5000蚊就要用安心出行」 | [🔗](https://lih.kg/gGERMT) • [🖼️](https://na.cx/i/UGHGXsf.jpg) |
+
+</div>
+```markdown
+由 LITrack-主要名單 & 老鳳List(老鳳：暫時取消)提供
+```
+
+## #38456
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| New_God_美斯 | TVB 擁躉 | TVB 擁躉，起下底就知佢幾鍾意睇 TVB。 | [🔗](https://lih.kg/aKGhosV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/38456/38456.1_.png) |
+|  | CCTVB打手 | 著名TVB打手，起下底就知佢幾鍾意睇 TVB。 | [🔗](https://lihkg.com/profile/38456) • [🖼️](https://na.cx/i/XmWTpKL.png) |
+|  | 狗隻 | 請問New_God_美斯(狗隻#38456)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1646963/page/1) | 
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #38539
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 宇城飛 |  | [詳細](./38539) | [🔗](./38539) |
+
+</div>
+
