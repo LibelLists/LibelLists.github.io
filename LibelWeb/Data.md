@@ -2360,7 +2360,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳List & #198590 提供
 曾用名稱：今年四歲(藍絲)，今年四歲(5毛)，今年四歲_65cm
 ```
 
