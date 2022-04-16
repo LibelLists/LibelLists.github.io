@@ -1951,3 +1951,162 @@ Special Thanks：power_off(#1886)
 
 </div>
 
+## #32527
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Tesla上到2000蚊 | ⚠️ | 扮盲撐手足，實質為扭曲應有既準則。 | [原po已死](https://lih.kg/oEJbJCX) • [🔗](https://lih.kg/oHOMJgX) • [🔗](https://lih.kg/aupCmsV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/32527) |
+|  | 狗隻 | 請問Tesla上到2000蚊(狗隻#32527)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2308352/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：威爾斯哥基，連登=抄，光頭。黃
+```
+
+## #33125
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 自強不sick | ⚠️ | 認為「有人收買學生搞港獨」 | [🔗](https://lihkg.com/thread/1746869/page/1) | 
+|  | 狗隻 | 請問自強不sick(狗隻#33125)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2599880/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #33651
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 摩兒迦娜 | ⚠️ | 出言抹黑遇襲的同路人，稱對方「又作故仔」。 | [🔗](https://lih.kg/qbRxjMX) | 
+|  | 狗隻 | 請問摩兒迦娜(狗隻#33651)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2537732/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #34147
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Robert-Pattinson | 狗隻 | 請問Robert-Pattinson(狗隻#34147)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2360780/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：陳雲哈根大師，反而，回頭可不可再活過，他喜歡的是你
+```
+
+## #34178
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 萊斯子 | 嘲諷同路人 | 同路人建議被判無罪手足去旅行散心，佢回應「不如你出機票錢」。 | [原po已死](https://lih.kg/aKsFunV) • [🖼️](https://na.cx/i/X6bcE7i.jpg) | 
+|  | 起左右腳 | 溫紹明裁定手足藏有武器及仿製火器罪名不成立 [https://lih.kg/aKsFunV(原po已死)](https://lih.kg/aKsFunV) 連續兩隻唔同名狗隻同一回覆對手足冷嘲熱諷 | [原po已死](https://lihkg.com/thread/2409897/page/1?post=13) | 
+|  | 狗隻 | 請問萊斯仔(狗隻#34178)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2411505/page/1) | 
+"date":1613560542000,"source":{"thread":"2411505","page":1,"messageNumber":"1"}
+
+</div>
+```markdown
+由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #34542
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 火包 | 藍絲言論 | 有同路人出Post鼓勵香港人，佢回應「叻啦叻啦，戇鳩仔」。 | [🔗](https://lih.kg/bfCMDuV) • [🖼️](https://na.cx/i/PGF9m4D.jpg) | 
+|  | 狗隻 | 請問火包(狗隻#34542)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2823257/page/1) | 
+
+</div>
+```markdown
+由 LITrack-主要名單 & 老鳳List 提供
+```
+
+## #34562
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 請問SomeE | 狗隻 | 請問SomeE(狗隻#34562)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1046653/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：艾夫華倒掛，春天的神息
+```
+
+## #34757
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 鞭你老母屍(冷氣軍師死全家)【已ban】 | 狗隻 | 請問鞭你老母屍(狗隻#34757)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1904647/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #34872
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 換著龜頭過河(Eric-Darkins) | ⚠️ | 出言侮辱同路人。 | [🔗](https://lih.kg/rCykdkX) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：三級懲教主任，吹奏的號角聲
+```
+
+## #35341
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 希比 | ⚠️ | 對星火負責人被捕及基金戶口七千萬被凍結一案幸災樂禍。 | [🔗](https://lih.kg/1789652) | 
+|  | 狗隻 | 請問希比(狗隻#35341)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1441068/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：迷雲事務處女職員
+```
+
+## #35348
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 夢不拾遺 | 愛支波台狗 | 連登起底發現佢係隻波台狗，不時發表支持所謂「防疫」、嘲諷同路人等類型言論。 | [🔗](https://lihkg.com/profile/35348) • [🖼️](https://na.cx/i/tBvHpcr.jpg) | 
+|  | 防疫風向狗 | 支持香港政府喺第五波疫情殺滅倉鼠，並批評反對者「好自私」云云。 | [🔗](https://lih.kg/2850679) • [🖼️](https://na.cx/i/b86SMqM.jpg) | 
+|  | 自認中國人 | 主張「支持習大哥武統台灣省」係公義。 | [🔗](https://lih.kg/2743704) • [🖼️](https://na.cx/i/R95whxr.jpg) | 
+|  | 嘲諷同路人 | 嘲諷因「國安法」及「涉嫌洗黑錢」被捕嘅阮民安。 | [🔗](https://lih.kg/ikENfT) • [🖼️](https://na.cx/i/GURWtD6.jpg) | 
+
+</div>
+```markdown
+由 LITrack-主要名單 提供
+```
+
