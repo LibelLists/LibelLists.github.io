@@ -2335,3 +2335,32 @@ Special Thanks：power_off(#1886)
 曾用名稱：阿笨與阿占
 ```
 
+## #37596
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 含撚(行人) | ⚠️ | 分化同路人，事實是黑警無理終止遊行，卻單方面指責民陣，另外又出言侮辱同路人。 | [🔗](https://lih.kg/aqbfDkV) • [🔗](https://lih.kg/aBeLjDV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/37596) | 
+|  | 狗隻 | 請問含撚(狗隻#37596)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1656546/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #37719
+
+<div class="code-example" markdown="1">
+
+| 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 今年四歲(智商30)[今年四歲_78cm] | 狗隻 | 請問今年四歲_78cm(狗隻#37719)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2403724/page/1) | 
+|  |  | [其他詳細](./37719) | [🔗](./37719) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：今年四歲(藍絲)，今年四歲(5毛)，今年四歲_65cm
+```
+
