@@ -14,8 +14,7 @@ search_exclude: true
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
 
-本page建議用腦觀看
-以下例子:
+本page建議用腦觀看，以下例子：
 
   <p>
      <img src="./Img/example1.png" />
