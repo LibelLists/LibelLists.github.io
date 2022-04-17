@@ -2908,3 +2908,119 @@ Special Thanks：power_off(#1886)
 曾用名稱：黃鳳鳴，星河，颺隸，大倒數，利物浦太善良
 ```
 
+## #47492
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 硬漢狩蜜洞 | 小心此人 | 覺得黑警於國家安全日向市民兜售的黑警首辦Figure「其實幾型」。 | [🔗](https://lih.kg/gRcqET) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/47492/47492.1_.png) |
+|  | 老鳳認證賤畜 | 被發現三番四次侮辱同路人、支持黑警、放負、支持中國。 | [🔗](https://lih.kg/gzeoxT) • [🖼️](https://na.cx/i/gV822PV.png) |
+|  | 狗隻 | 請問硬漢狩蜜洞(狗隻#47492)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2364350/page/1) | 
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+```
+
+## #47658
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Dean | ⚠️ | 對逃亡手足冷嘲熱諷，又批評在支那被逼認罪的 12 手足「on9咁都認罪 對你地好失望」。 | [🔗](https://lih.kg/2268523) • [🔗](https://lih.kg/aHocHvV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/47658) | 
+|  | 引人自爆狗 | 有同路人出Post鼓勵香港人，佢回應「證明自己係香港先啦」，意圖引人證明從而自爆。 | [🔗](https://lih.kg/bfCMEAV) • [🖼️](https://na.cx/i/jYLQQ38.png) |
+|  | 狗隻 | 請問Dean(狗隻#47658)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2191754/page/1) • [🖼️](https://na.cx/i/2OQ5EXt.png) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+曾用名稱：Gdragon，Zicoo
+```
+
+## #47964
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 奶奶豬 | ⚠️ | 合理化黑警的所作所為。 | [🔗](https://lih.kg/eOaERT) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：大壞蛋，Gel臣
+```
+
+## #48132
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| MisaMisa | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/mPDtqeX) | 
+|  | 狗隻 | 請問MisaMisa(狗隻#48132)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2371598/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+## #48452
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Tired_Loser(Gay關算盡) | 狗隻 | 請問Tired_Loser(狗隻#48452)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1705808/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：Fake_Hopper，Gay耀西
+```
+
+## #49336
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 美沙酮鍾欣桐<br>(錢大媽(共鏟煮意))<br>【已ban】 | 狗隻 | 請問美沙酮鍾欣桐(狗隻#49336)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1917967/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：容易哭泣的連豬
+```
+
+## #49448
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 系統回覆(HKP) | ⚠️ | 向打算自殺的手足「告別」。 | [🔗](https://lih.kg/oApEhrX) | 
+|  | 狗隻 | 請問系統回覆(狗隻#49448)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2157885/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：幾仟天近況幸福嗎，20170927
+```
+
+## #50328
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 玄學大師詹惟中 | 狗隻 | 請問玄學大師詹惟中(狗隻#50328)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1916303/page/1) | 
+|  |  | [其他詳細](./50328) | [🔗](./50328) |
+
+</div>
+```markdown
+由 老鳳List & #1886 提供
+```
+
