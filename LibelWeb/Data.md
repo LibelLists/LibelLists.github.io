@@ -2761,26 +2761,14 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-|  | ⚠️ | 出言抹黑 612 基金「大粒佬吃喝玩樂到冇晒咪要籌囉」。 | [🔗](https://lih.kg/rCuQNaX) | 
-|  | 五毛 | 發現人頭骸骨，佢第一時間打「手足![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」 | [🔗](https://lihkg.com/thread/2488948/page/8?post=187) | 
+| 曼徹斯特城足球會 | ⚠️ | 出言抹黑 612 基金「大粒佬吃喝玩樂到冇晒咪要籌囉」。 | [🔗](https://lih.kg/rCuQNaX) | 
+| (利物浦足球會) | 五毛 | 發現人頭骸骨，佢第一時間打「手足![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」 | [🔗](https://lihkg.com/thread/2488948/page/8?post=187) | 
 |  | ⚠️ | 話「坐緊監既手足變晒condom![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | [🔗](https://lihkg.com/thread/2503236/page/4?post=79) | 
 
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & 支囝狗隻LIST 提供
-```
-
-## #44559
-
-<div class="code-example" markdown="1">
-
-| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
-|:-----|:--|:-----------|:-----|
-| 請問一定星 | 狗隻 | 請問一定星(狗隻#44559)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1720722/page/1) | 
-
-</div>
-```markdown
-由 老鳳List 提供
+曾用名稱：肥車厘，崔俞娜，秀靜bb，꽃케이🌸
 ```
 
 ## #44559
@@ -2835,5 +2823,59 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 老鳳List 提供
+```
+
+## #45708
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 天人小隊(山區水泥) | ⚠️ | 至今仍指控612基金拎錢買音響，又稱捐612等於資助泛民律師，典型私怨撚。 | [🔗](https://lih.kg/pvahuyX) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：大概如此，力排眾議，天花板木柵，小心身後，天落豪雨
+```
+
+## #46587
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 肥婆做數大大力 | ⚠️ | 對宣布退出政治圈子的郭榮鏗冷嘲熱諷。 | [🔗](https://lih.kg/gpCgJT) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #47153
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 不漏洞奶奶 | 狗隻 | 問「其實人哋做緊訪問大鬧TVB真係好咩?」 | [🔗](https://lihkg.com/thread/1311551/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+## #47165
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 最愛mk妹 | 正仆街 | 對台鐵出軌身亡的平民幸災樂禍，懶風趣稱「慶祝清明」。 | [原po已死](https://lih.kg/gOBtHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/47165/47165.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：不來方，面盲症人士
 ```
 
