@@ -2612,7 +2612,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
 曾用名稱：屈機男
 ```
 
@@ -2693,7 +2693,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 提供
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
 ```
 
 ## #42340
@@ -2722,6 +2722,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
 曾用名稱：大丸，小樽今天不再天晴，樽晴☀
 ```
 
@@ -2871,7 +2872,7 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 最愛mk妹 | 正仆街 | 對台鐵出軌身亡的平民幸災樂禍，懶風趣稱「慶祝清明」。 | [原po已死](https://lih.kg/gOBtHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/47165/47165.1_.png) |
+| 最愛mk妹【5poAC】 | 正仆街 | 對台鐵出軌身亡的平民幸災樂禍，懶風趣稱「慶祝清明」。 | [原po已死](https://lih.kg/gOBtHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/47165/47165.1_.png) |
 
 </div>
 ```markdown
@@ -2891,5 +2892,19 @@ Special Thanks：power_off(#1886)
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
 曾用名稱：CarrieLamisMine，馬斯克的兒子
+```
+
+## #47425
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Flare | 狗隻 | 請問Flare(狗隻#47425)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2784349/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：黃鳳鳴，星河，颺隸，大倒數，利物浦太善良
 ```
 
