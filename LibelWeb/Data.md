@@ -2498,7 +2498,7 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 醫你$300(Hahahahhdjdjf)<br>【2po空ac】 | ⚠️ | 出言侮辱同路人；我與多數連登仔皆認為只要為自由抗爭，擁護香港價值嘅就係香港人。 | [🔗](https://lih.kg/fsmDNT) | 
+| 醫你$300<br>(Hahahahhdjdjf)<br>【2po空ac】 | ⚠️ | 出言侮辱同路人；我與多數連登仔皆認為只要為自由抗爭，擁護香港價值嘅就係香港人。 | [🔗](https://lih.kg/fsmDNT) | 
 
 </div>
 ```markdown
