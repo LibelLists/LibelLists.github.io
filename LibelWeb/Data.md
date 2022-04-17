@@ -2879,3 +2879,17 @@ Special Thanks：power_off(#1886)
 曾用名稱：不來方，面盲症人士
 ```
 
+## #47189
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 放射良心(黃藍政見Mirror黃) | ⚠️ | 對將要入獄的周庭幸災樂禍。 | [🔗](https://lih.kg/aFHDMxV) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：CarrieLamisMine，馬斯克的兒子
+```
+
