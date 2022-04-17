@@ -2747,7 +2747,7 @@ Special Thanks：power_off(#1886)
 |:-----|:--|:-----------|:-----|
 | 木木梟世界第一 | ⚠️ | 對面臨提堂的手足幸災樂禍。 | [🔗](https://lih.kg/prhtRAX) | 
 |  | 小心此人 | 恥笑被逼撤回參選宣言及政綱的中大學生會，又恥笑願意聘請已結業的《光時》手足的巴打。 | [🔗](https://lih.kg/sxhMzeX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/44267/44267.1_.png) |
-|  | 話手足係暴徒 | [🔗](https://lih.kg/tPDcyKX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/44267/44267.2_.png) |
+|  | 話手足係暴徒 | - | [🔗](https://lih.kg/tPDcyKX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/44267/44267.2_.png) |
 |  | 狗隻 | 請問木木梟世界第一(狗隻#44267)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2248782/page/1) | 
 
 </div>
