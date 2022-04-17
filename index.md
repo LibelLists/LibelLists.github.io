@@ -13,3 +13,10 @@ search_exclude: true
   <p>
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
+
+本page建議用腦
+以下例子:
+
+  <p>
+     <img src="./Img/example1.png" />
+  </p>
