@@ -3075,3 +3075,121 @@ Special Thanks：power_off(#1886)
 
 </div>
 
+## #51485
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 生命作賭注【3po空ac】 | 狗隻 | 本人聲稱收一收皮。老鳳決定list佢轉入監察名單 | [🔗](https://lihkg.com/thread/2191085/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #51615
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 緊火(另外呀...) | ⚠️ | 指責堅守理大的廚師義士未經許可就擅用理大廚房設施，另在其他貼文上又帶風不投泛民。 | [🔗](https://lih.kg/npyDMRX) • [🔗](https://lih.kg/1747241) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：妖之歌姬，奧門首家線上賭場，近海，橫切面，太天真，仕途，窮途是理
+```
+
+## #51920
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 交你老母稅(我係英國人呀屌) | 死乞兒 | 利用限時嘅 STEAM 現金優惠多開 paypal 帳號刷錢，被封鎖帳號後揚言「告到 steam 破產」。 | [🔗](https://lih.kg/bjOHdEX) • [🔗](https://lih.kg/bjOHfoX) • [🔗](https://lih.kg/bjOHgbX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/51920) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+## #51920
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 交你老母稅(我係英國人呀屌) | 死乞兒 | 利用限時嘅 STEAM 現金優惠多開 paypal 帳號刷錢，被封鎖帳號後揚言「告到 steam 破產」。 | [🔗](https://lih.kg/bjOHdEX) • [🔗](https://lih.kg/bjOHfoX) • [🔗](https://lih.kg/bjOHgbX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/51920) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：錢姐喎苦愁，戴你老母罩，有關消息人士，跌跌跌跌跌
+```
+
+## #51985
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 香港市民葉榮添 | ⚠️ | 分化同路人，認為立場哥哥 (陳裕匡) 係個仆街，周圍叫人畀錢贊助佢。 | [🔗](https://lih.kg/1680114) • [🔗](https://lih.kg/1754498) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/51985) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：香港仔，薯片
+```
+
+## #52215
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 咪撚戇鳩啦 | 狗隻 | 請問咪撚戇鳩啦(狗隻#52215)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2093983/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #52264
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 酒店自信湯圓(幼稚園食飯冠軍)【1po空ac】 | 狗隻 | 請問酒店自信湯圓(狗隻#52264)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2526182/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：邪神霸佔了我
+```
+
+## #52441
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 飛飛不停問我【2po空ac】 | ZA洗版狗 | 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbtrV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/52441/52441.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+```
+
+## #52658
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 花與愛麗絲 |  | [詳細](./52658) | [🔗](./52658) |
+
+</div>
+
