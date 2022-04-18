@@ -765,6 +765,7 @@ nav_order: 3
 | Taco_Tuesday | 支那人 | 問人「你係咪中國人![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」並強迫人接受支那人身份, 話「香港人咪又係中國人![](https://cdn.lihkg.com/assets/faces/normal/clown.gif) | [🔗](https://lih.kg/gEFyDT) • [🔗](https://lih.kg/aKnvMLV) |
 | (大雞樂) | ⚠️ | 話「你想返大陸揼骨，通關我可以帶你去」 | [🔗](https://lih.kg/gOLoBT) |
 |  | 支那種 | 開post逼人認支那人 | [🔗](https://lih.kg/2418915) |
+|  |  | [其他詳細](./11294) | [🔗](./11294) |
 
 </div>
 ```markdown
