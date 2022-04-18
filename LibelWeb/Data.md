@@ -3622,3 +3622,127 @@ Special Thanks：power_off(#1886)
 | 正義王 |  | [詳細](./57844) | [🔗](./57844) |
 
 </div>
+
+## #57914
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 麵咪妈(ChingChong(波台)) | 小心此人 | 對在囚手足幸災樂禍。 | [🔗](https://lih.kg/srxzehX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/57914/57914.1_.png) |
+|  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914) • [🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg) |
+|  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588) • [🖼️](https://na.cx/i/.jpg) |
+
+
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
+曾用名稱：真。禁極刀
+```
+
+## #58089
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 新界皇帝 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/anqGErV) | 
+|  | 狗隻 | [img]https://na.cx/i/e5wJqG9.png[/img] | [🔗](https://lihkg.com/thread/2517654/page/1?post=2) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST 提供
+曾用名稱：新高登仔
+```
+
+## #58223
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| wokne(mqnwbe) | ⚠️ | 言論懶幽默，唔識尊重死者。 | [🔗](https://lih.kg/fjKBpT) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：orion，Libra，frogking
+```
+
+## #58484
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 我叫欄杆【已ban】 | 狗隻 | 請問我叫欄杆(狗隻#58484)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1216048/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #59037
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 飲一杯咖啡 | 小心此人 | 對遭刑毀的黃店表示「點撚解要報狗？」 | [🔗](https://lih.kg/gOqntT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/59037/59037.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+```
+
+## #59357
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 估下我係邊撚個(Odi打手)【已ban】 | 狗隻 | 請問估下我係邊撚個(狗隻#59357)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2229587/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #59552
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 忍者龜頭很細 | 狗隻 | 請問忍者龜頭很細(狗隻#59552)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1709583/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #59920
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 解決鶳 | 嘲諷同路人 | 嘲諷明言會故意違反「國安法」嘅出獄社運人士古思堯「又花式餸頭」。 | [🔗](https://lih.kg/aRuhbyV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/59920/59920.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：松山英樹🌋，👹全力恥笑😬，大碎哥～_～，珍系吾難，>逃緊生”，>池美麗，龍力蓮燈囡
+```
+
+## #59976
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 留人門封鬼路 |  | [詳細](./59976) | [🔗](./59976) |
+
+</div>
+
