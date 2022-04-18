@@ -3746,3 +3746,64 @@ Special Thanks：power_off(#1886)
 
 </div>
 
+## #60000
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 閪嫂無限公司 | ⚠️ | 指宣布退出眾志的周庭是政棍，食完好處就走，最近又對被捕同路人表示「拉得好」。 | [🔗](https://lih.kg/pPjwbsX) • [🔗](https://lih.kg/aAcurHV) • [🔗](https://lih.kg/aGgFeqV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/60000) | 
+| (厭世無限) | 仆街仔 | 侮辱被打壓倒閉的蘋果日報「俾錢買廢紙 不了」。 | [🔗](https://lih.kg/hmkxzT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/60000/60000.1_.png) |
+|  | 狗隻 | 請問厭世無限(狗隻#60000)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2313045/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+曾用名稱：旅行者達人，傻人係福氣
+```
+
+## #60249
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 語無_倫次郎【已ban】 | 狗隻 | 請問語無_倫次郎(狗隻#60249)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1421261/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #60434
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 黑警冷血林鄭殺港 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/ooPhMiX) • [🔗](https://lih.kg/gbBaiT) • [🔗](https://lih.kg/gcOOzT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/60434) | 
+|  | 紅底 | 嘲諷比黑警搞既學生妹，話佢個處冇左 | [🔗](https://lihkg.com/thread/2037930/page/1?post=5) | 
+|  | 五毛互含 | 同五毛6帽王何家成互含 | [🔗](https://lihkg.com/thread/2440839/page/13?post=304) | 
+|  | 狗隻 | 請問黑警冷血林鄭殺港(狗隻#60434)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2298980/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：行床心理學家，我好愛我個前女友，不撤回不罷休
+```
+
+## #60563
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 大便會變大 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/etMbRT) | 
+| (土反田金艮日寺) | 狗隻 | 請問大便會變大(狗隻#60563)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2163873/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：伸手姨處，手足(連豬喊)師
+```
+
