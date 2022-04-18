@@ -20,7 +20,7 @@ Label users on LIHKG
 【Libel】LIHKG 會員標籤插件
 {: .text-center}
   
- 【[主頁](https://kitce.github.io/libel/)】 【[討論](https://lih.kg/2841778)】 【[GitHub](https://github.com/kitce/libel)】 【[TG頻道](https://t.me/LibelOfficialChannel)】 【[TG群組](https://t.me/LibelOfficialGroup)】
+ 【[主頁](https://kitce.github.io/libel/)】 【[討論](https://lih.kg/2971967)】 【[GitHub](https://github.com/kitce/libel)】 【[TG頻道](https://t.me/LibelOfficialChannel)】 【[TG群組](https://t.me/LibelOfficialGroup)】
  {: .text-center}
   
  Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
