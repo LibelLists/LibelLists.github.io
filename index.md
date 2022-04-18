@@ -15,6 +15,7 @@ search_exclude: true
   </p>
 
 本page建議用腦觀看，以下例子：
+{: .fs-6.text-red-300 }
 
   <p>
      <img src="./Img/example1.png" />
