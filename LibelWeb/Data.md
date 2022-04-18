@@ -3604,7 +3604,7 @@ Special Thanks：power_off(#1886)
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | N700S | 正仆街 | 對台鐵出軌身亡的平民幸災樂禍，稱「天滅台狗 耶穌擊殺」。 | [🔗](https://lih.kg/gOCJzT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/57827/57827.1_.png) |
-|  | 狗隻2 | 話「#yup##yup##yup#最憎台狗同新疆狗」 | [🔗](https://lihkg.com/thread/2507731/page/2?post=29) | 
+|  | 狗隻 | 話「![](https://cdn.lihkg.com/assets/faces/normal/agree.gif)![](https://cdn.lihkg.com/assets/faces/normal/agree.gif)![](https://cdn.lihkg.com/assets/faces/normal/agree.gif)最憎台狗同新疆狗」 | [🔗](https://lihkg.com/thread/2507731/page/2?post=29) | 
 |  | 狗隻 | 請問N700S(狗隻#57827)你屙尿嗰陣起左腳定右腳? | [🔗po內罪證已死](https://lihkg.com/thread/2501480/page/1) | 
 
 </div>
