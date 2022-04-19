@@ -3842,10 +3842,8 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 紅磚電王 | 狗隻 | 嘲諷民主黨保釋唔到 | [🔗](https://lihkg.com/thread/2432053/page/8) | 
-"date":1615818994477,"source":{"thread":"2432053","page":8,"messageNumber":"185"}
+| 紅磚電王 | 狗隻 | 嘲諷民主黨保釋唔到 | [🔗](https://lihkg.com/thread/2432053/page/8?post=185) | 
 |  | 藍店師![](https://cdn.lihkg.com/assets/faces/pig/wail.gif) | 藍店師食紅磡冰室。話「![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)黃店比屎你食唔通照食咩」 | [🔗](https://lihkg.com/thread/2447786/page/1?post=3) • [🔗](https://lihkg.com/thread/2447786/page/2?post=40) | 
-
 
 </div>
 ```markdown
