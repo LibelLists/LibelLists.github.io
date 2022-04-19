@@ -3808,3 +3808,146 @@ Special Thanks：power_off(#1886)
 曾用名稱：伸手姨處，手足(連豬喊)師
 ```
 
+## #60563
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 大便會變大 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/etMbRT) | 
+| (土反田金艮日寺) | 狗隻 | 請問大便會變大(狗隻#60563)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2163873/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：伸手姨處，手足(連豬喊)師
+```
+
+## #60916
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 多蒙特全隊空難(周俊樂(-10)【已ban】 ) | 狗隻 | 請問多蒙特全隊空難(狗隻#60916)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2085322/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #61106
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 紅磚電王 | 狗隻 | 嘲諷民主黨保釋唔到 | [🔗](https://lihkg.com/thread/2432053/page/8) | 
+"date":1615818994477,"source":{"thread":"2432053","page":8,"messageNumber":"185"}
+|  | 藍店師![](https://cdn.lihkg.com/assets/faces/pig/wail.gif) | 藍店師食紅磡冰室。話「![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)黃店比屎你食唔通照食咩」 | [🔗](https://lihkg.com/thread/2447786/page/1?post=3) • [🔗](https://lihkg.com/thread/2447786/page/2?post=40) | 
+
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+## #61348
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 炒壽師 | 小心此人 | 出言恥笑正式撤回參選宣言及政綱等文件的中大學生會。 | [🔗](https://lih.kg/sxhMxrX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/61348/61348.1_.png) |
+|  | 狗隻 | 請問大叔米(狗隻#61348)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1372846/page/1) | 
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂)  & 支囝狗隻LIST & 老鳳List提供
+曾用名稱：長頸叔叔，大叔米
+```
+
+## #61383
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 好奇心嘰嘰【已ban】 | 狗隻 | 請問好奇心嘰嘰(狗隻#61383)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2240673/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #61748
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 朝九晚十奴隸【已ban】 | 狗隻 | 請問朝九晚十奴隸(狗隻#61748)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1411936/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #62192
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 哈囉人 | 狗隻 | 請問哈囉人(狗隻#62192)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2511914/page/1) • [🔗](https://lih.kg/hbQLdT) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #62226
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| (MAGA)溫思勞(Yllevad) | 狗隻 | 請問(MAGA)溫思勞(狗隻#62226)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2322618/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：FIL，A貨Apple，妮娜，一蚊兩個，舐路神，就算不是他，整數派，小數派三點一四，溫思勞
+```
+
+## #62259
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 無助的人 | 放負風向狗 | 「政府叫你做就做啦，香港人反抗係個笑話黎」 | [🔗](https://lih.kg/ikpjmT) • [🖼️](https://na.cx/i/DzC0cTG.jpg) |
+| (世事有絕對) | ⚠️ | 「算數啦![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)香港人冇得救」 | [🔗](https://lih.kg/bewKbxV) • [🖼️](https://na.cx/i/i5D6STc.jpg) |
+|  | 膠化手足 | 「有講好嬲食黃店，所以冇當手足condom」 | [🔗](https://lih.kg/aMantEV) • [🖼️](https://na.cx/i/D0duQBz.jpg) |
+|  | ⚠️ | 「根據連登仔標準，你屌黃店姐係五毛分化撚，拉」 | [🔗](https://lih.kg/gwePKT) • [🖼️](https://na.cx/i/i4K58o8.jpg) |
+|  | 狗隻 | 請問世事有絕對(狗隻#62259)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2903402/page/1) | 
+
+</div>
+```markdown
+由 LITrack-主要名單 & 老鳳List 提供
+```
+
+## #62591
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 牧村實係雞 | 小心此人 | 認為關閉 fb 專頁的周庭「淨係想要名氣咋嘛，而家用政治攞夠光環咪做返影相打卡YouTuber」。 | [🔗](https://lih.kg/tKOvuJX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/62591/62591.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：方文山
+```
+
