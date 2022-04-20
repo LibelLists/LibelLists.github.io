@@ -3634,8 +3634,6 @@ Special Thanks：power_off(#1886)
 |  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914) • [🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg) |
 |  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588) • [🖼️](https://na.cx/i/.jpg) |
 
-
-
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
@@ -3856,13 +3854,13 @@ Special Thanks：power_off(#1886)
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 炒壽師 | 小心此人 | 出言恥笑正式撤回參選宣言及政綱等文件的中大學生會。 | [🔗](https://lih.kg/sxhMxrX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/61348/61348.1_.png) |
-|  | 狗隻 | 請問大叔米(狗隻#61348)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1372846/page/1) | 
+| 大叔米 | 小心此人 | 出言恥笑正式撤回參選宣言及政綱等文件的中大學生會。 | [🔗](https://lih.kg/sxhMxrX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/61348/61348.1_.png) |
+| (炒壽師) | 狗隻 | 請問大叔米(狗隻#61348)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1372846/page/1) | 
 
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂)  & 支囝狗隻LIST & 老鳳List提供
-曾用名稱：長頸叔叔，大叔米
+曾用名稱：長頸叔叔
 ```
 
 ## #61383
@@ -4195,6 +4193,7 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 問題會員清單 提供
+曾用名稱：大學生，大藍孩
 ```
 
 ## #68926
@@ -4223,7 +4222,7 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 問題會員清單 & 老鳳List 提供
-曾用名稱：太空肥婆，無糖白咖啡，多奶走甜，點解要咁對我，猢力威撕虎，キリト，黑色系，韓國人最無恥，巴啦巴啦脆雞寶，殺老師，西丈一郎
+曾用名稱：無糖白咖啡，多奶走甜，點解要咁對我，猢力威撕虎，キリト，黑色系，韓國人最無恥，巴啦巴啦脆雞寶，殺老師，西丈一郎，濕滑嘅司機
 ```
 
 ## #69335
@@ -4267,7 +4266,7 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 支囝狗隻LIST & 老鳳List 提供
-曾用名稱：，，，，，，，，，Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488
+曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488
 ```
 
 ## #69866
@@ -4376,6 +4375,7 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：佐木45，45閃電，專精莫拉的神人，超級拉姆
 ```
 
 ## #71519
