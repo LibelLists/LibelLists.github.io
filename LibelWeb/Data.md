@@ -40,6 +40,7 @@ nav_order: 3
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
+曾用名稱：廢青關愛座
 ```
 
 ## #169
@@ -48,7 +49,7 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:----|
-| 我笑他人太低B(反ON9人格) | 狗隻 | 請問我笑他人太低B(狗隻#169)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1656084)  |
+| 我笑他人太低B<br>(反ON9人格)【已ban】 | 狗隻 | 請問我笑他人太低B(狗隻#169)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1656084)  |
 
 </div>
 ```markdown
@@ -66,6 +67,7 @@ nav_order: 3
 </div>
 ```markdown
 由 老鳳List 提供
+曾用名稱：夜囝，夜囝😛，夜子+
 ```
 
 ## #389
@@ -79,6 +81,7 @@ nav_order: 3
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：金牛大王，金角大王，聖女貞糕Bell，新。石元泰博，金田新一，奧能巴斯，鳩摩羅蔔，林萌々子，草薙京子，王爾古雷，YasuhiroIshimoto，石丸幹二，野田樹潤，RenaTanaka，敏敏大木耳
 ```
 
 ## #555
@@ -92,6 +95,7 @@ nav_order: 3
 </div>
 ```markdown
 由 支囝狗隻LIST 提供
+曾用名稱：歌神張學友，歌神張學友🍍，D'Angelo_Ball，張學友ʕ≧ᴥ≦ʔ，R.Nadal，seulnayuel，歌神學友，N:OW，歌神Jacky，Mata.，粉紅蛙蛙，丸子熊，LalaLuluHakuMata，熊熊瑟琪，D'Lonzo_Ingram，JermaineCole，ICEMAN_2，鋼鏈手指，SkyBrown，Golden_Wind，托定咸周卓覓
 ```
 
 ## #569
@@ -105,6 +109,7 @@ nav_order: 3
 </div>
 ```markdown
 由 OFF囝戇鳩LIST 提供
+曾用名稱：童貞魔法師，拉登仔一號，連登大使
 ```
 
 ## #1149
@@ -123,7 +128,7 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 淫魔 | 狗隻 | 請問淫魔(狗隻#1210)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1678332) |
+| 淫魔【已ban】 | 狗隻 | 請問淫魔(狗隻#1210)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/1678332) |
 
 </div>
 ```markdown
@@ -141,6 +146,7 @@ nav_order: 3
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
+曾用名稱：繼續吹啦你，nonamex，no[blue]x[/blue]，hk.comGod
 ```
 
 ## #1315
@@ -149,7 +155,7 @@ nav_order: 3
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| nigga | 狗隻 | 請問nigga(狗隻#1315)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2851122) |
+| nigga<br>【2po空ac】 | 狗隻 | 請問nigga(狗隻#1315)你屙尿嗰陣起左腳定右腳? | [🔗](https://lih.kg/2851122) |
 
 </div>
 ```markdown
@@ -167,6 +173,7 @@ nav_order: 3
 </div>
 ```markdown
 由 老鳳List 提供
+曾用名稱：頂到最入中出，唐玄奘，賀昇株式会社，高須龍兒，進藤光
 ```
 
 ## #1426
@@ -180,6 +187,7 @@ nav_order: 3
 </div>
 ```markdown
 由 老鳳List 提供
+曾用名稱：沙洛文.卡勞,沙洛文。卡勞,渡邊麻友友,沙洛文`卡勞,我最愛王若嵐,徐懷鈺,我愛金盈,肉便器麻友,沙洛文，卡勞
 ```
 
 ##  #1627
