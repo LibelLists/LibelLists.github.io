@@ -4894,3 +4894,347 @@ Special Thanks：power_off(#1886)
 
 </div>
 
+## #78959
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Hugo8282(會考30分) | 狗隻 | 請問Hugo8282(狗隻#78959)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2770015/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：香鳥真巴打，劍術大師，劍劍好大師，呀陳仔
+```
+
+## #79038
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 戶口得番個位數(屌你老母怪獸) | 狗隻 | 請問戶口得番個位數(狗隻#79038)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2310835/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：牛熊之霸
+```
+
+## #79355
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 白虎娘 | 侮辱同路人 | 對圖中蘋果女記者表示「次次都會㩒佢鐘仔」。 | [🔗](https://lih.kg/tQOpoCX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/79355/79355.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+```
+
+## #79562
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 柳貫一plus | ⚠️ | 抹黑抗爭人士的努力，稱他們搞政治都是為錢。 | [🔗](https://lih.kg/gdzrLT) | 
+| (坂下真心世界) | 狗隻 | 請問柳貫一plus(狗隻#79562)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2212472/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：窮人咪撚學人生，征途，人生區議員，甲斐谷陸，柳貫一(等更新），柳貫一(黑格爾)，柳貫一(護晴手)，柳貫一即是全，柳（傳奇十號奧燒，迷彩柳貫一，隊長小嶋花梨，夢は逃げない，太宰治を読んだか，安部若菜，護士山本彩加，老女人，演員太田夢莉•，太田夢莉主義，LAPISARCH，山本彩さま，横山由依ょ，柳貫一
+```
+
+## #79563
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 士燮(我是粵族不是漢族) | 狗隻 | 請問士燮(狗隻#79563)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2340610/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：HKVDC_2017，HKVDC(休息中)，HKVDC離地絕望，HKRF，百粵箭神_熊渠
+```
+
+## #79756
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 三字經【空ac被認為係五毛】 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/njzhtyX) | 
+| (庇護工場經理) | 狗隻 | 請問戇鳩的一逼(狗隻#79756)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2082093/page/1) • [🖼️](https://na.cx/i/WGp0C0y.png) • [🖼️](https://na.cx/i/tyo8MTT.png) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：戇鳩的一逼
+```
+
+## #79793
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 係男人就頂硬上 | 曱甴 | download媽咪麵嘅腦掃瞄圖cut左cut右 再放張圖上去百毒 然後屈媽咪麵昆錢，詳情睇#171(回覆已被刪除) | [🔗](https://lihkg.com/thread/2280404/page/1) | 
+| (仲有三組啊咪撚煩) | ⚠️ | 何妖輸左去維園裸跑未？ | [🔗](https://lihkg.com/thread/1751186/page/1) | 
+|  | 曱甴 | 請問係男人就頂硬上(曱甴#79793)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1917968/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：好瘋狂，真係好肚餓，毒撚可以申請白卡，毒撚係弱智精神病，平常Some，藍絲十二子Mirror，我就係曾志偉
+```
+
+## #80373
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 粗眉雞眼 | ⚠️ | 出言侮辱突變 Cat A 犯的周庭。 | [🔗](https://lih.kg/aHsEgnV) | 
+|  | 谷針分化狗 | 以「少數服從多數」批評一針不打人士並加以指責，試圖分化有打針同冇打針嘅人。 | [🔗](https://lih.kg/vRrvnMX) • [🖼️](https://na.cx/i/JkvOCzr.png) |
+|  | 分化風向狗 | 2019年10月批評阮民安為年底舞台劇票房而表態。🔐阮民安及後仍持續表態，直至22年2月更被「國安處」拘捕。 | [🔗](https://lih.kg/1669921) • [🖼️](https://na.cx/i/wcvfhzr.png) |
+|  | 殘體字用家 | 用殘體字回應感情台巴打嘅性事煩惱。 | [🔗](https://lih.kg/aLgwgeV) • [🖼️](https://na.cx/i/F2UDfk6.png) |
+|  |  |  |  [本page的參考資料](https://lihkg.com/thread/194670/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+曾用名稱：5p仔上線咯
+```
+
+## #81273
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 跟方駿暉贏大錢<br>(馬交代左潘頓唔去) | ⚠️ | 向勇武割席，又認為港台《頭條新聞》被腰斬是「正常合理操作」。 | [🔗](https://lih.kg/atbofFV) • [🔗](https://lih.kg/axaMBcV) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：Peter_Wright，菅井大小姐，Bookmarker_23，20/4/2019戒賭，賭波馬輸到跳樓，跟方駿暉贏大錢，應承我唔好再賭波，唔怕！相信雷神！，馬場TQQQ-潘頓
+```
+
+## #81757
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 東籬天下第一 | 狗隻 | 蚑信（中信）打手 並且話「每日都抵制中資，煩唔煩？ | [🔗](https://lih.kg/2465723) • [🔗](https://lih.kg/gNJabT) | 
+| (孤毒腦人) | 狗隻 | 請問東籬天下第一(狗隻#81757)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2466588/page/1) |
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #81783
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 乃木坂飯 | 分化同路人 | 老屈連登創辦人「連尼住」出賣會員個人資料。 | [🔗](https://lih.kg/aQNxNiV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/81783/81783.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+```
+
+## #82398
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 轉生便轉身(靜雞雞時靜靜雞) | ⚠️ | 俾人講幾句就調轉槍頭話會報警篤灰，另外又曾留言煽動手足攪一般人婚禮。 | [🔗](https://lih.kg/amhCQrV) • [🔗](https://lih.kg/1722935) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：心思思，善長人翁，二手飯，八十手飯，我沒有害過人，先殺人先殺自己，小火龍火小，我是鋼鐵人，轉身便會轉生
+```
+
+## #82752
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 只露脾 | ⚠️ | 向宣布退出香港眾志的周庭稱「88 躝啦」。 | [🔗](https://lih.kg/azabiuV) | 
+|  | 狗隻 | 請問只露脾(狗隻#82752)你屙尿嗰陣起左腳定右腳?<br>欠老鳳一萬美金 | [🔗](https://lihkg.com/thread/2405025/page/1) • [🔗](https://lih.kg/gEvvpT) • [🔗](https://lih.kg/rjjOzzX) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+```
+
+## #82845
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 2盒thanks! | ⚠️ | 引用部份報道借題發揮，藉此抹黑整個抗爭：「事實上外國資金入黎支持暴亂」。 | [🔗](https://lih.kg/2079624) | 
+| (腳甲老泥妹) | 狗隻 | 請問腳甲老泥妹(狗隻#82845)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2732033/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+曾用名稱：浮浪人，兵敗嶼山島，浮氣者，悲傷逆流成河，畜農小隊，莎士比亞作者
+```
+
+## #82975
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 我要移民 | 狗隻 | 請問我要移民(狗隻#82975)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2899976/page/1) • [🔗](https://lih.kg/wgMxJaX) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：總是犯賤，Timetraveler
+```
+
+## #83060
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| BlackBerry | ⚠️ | 對放棄上訴的梁天琦表示：「幫政府製造重判案例恐嚇市民，呢隻根本係鬼王之王。」 | [🔗](https://lih.kg/fxpCiT) | 
+|  | 小心此人 | 分化已注射復必泰疫苗的市民，稱「好人好者點會去打疫苗，十成係藍絲」。 | [🔗](https://lih.kg/toJLJBX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/83060/83060.1_.png) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
+```
+
+## #84037
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 咖哩牛肋條 | 分化／批鬥撚 | 分化移咗民同留港嘅人 | [🔗](https://lih.kg/2447728) | 
+
+</div>
+```markdown
+由 問題會員清單 提供
+曾用名稱：Rammus，Asriel_dreemurr
+```
+
+## #84354
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 維度爾 | 狗隻 | 請問維度爾(狗隻#84354)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2573488/page/1) | 
+|  | ⚠️ | 本Page建議自行起底此用戶 | [🔗](https://lihkg.com/profile/84354) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：前列腺液，青山走犯胡力威，博雅大學胡力威，慾求不滿的胡力威，力威胡哲，新宿國師陳云根，國師陳雲，問答無用姦，皇天擊殺鄭國漢，梁美芬BB，吹寄制理，廖家俊
+```
+
+## #84392
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Bojan_Malisic【已ban】 | 狗隻 | 請問Bojan_Malisic(狗隻#84392)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1180584/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #85180
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 緣來是妳 | 狗隻 | 請問緣來是妳(狗隻#85180)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2621733/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：21312312312312
+```
+
+## #85242
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 真係無記性 | 小心此人 | 對被捕同路人幸災樂禍，又對被判入獄的手足稱「好事繼續來」。 | [🔗](https://lih.kg/stQkQpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.1_.png) |
+|  | 恥笑手足 |  | [🔗](https://lih.kg/aMoOewV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.2_.png) |
+|  | 支持監管網上言論 |  | [🔗](https://lih.kg/aQCsrmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.3_.png) |
+|  | 親共少數派 | 話721「搞完西環 吹雞入元朗 點知比人打撚到劈叻jack」抵死 | [🔗](https://lih.kg/aQkNwPV) | 
+|  | 狗隻 | 請問真係無記性(狗隻#85242)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1308732/page/1) • [🔗](https://lih.kg/uEOhAuX) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+```
+
+## #86386
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 古裝人【1po空ac】 | 分化／批鬥撚 | 話已經死咗嘅手足係眾籌呃錢 | [🔗](https://lih.kg/uReqPgX) | 
+
+</div>
+```markdown
+由 問題會員清單 提供
+```
+
+## #86449
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 神經病患者 | 狗隻 | 請問神經病患者(狗隻#86449)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2358430/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+## #86557
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| －-－lI<br>(我願意一直等落去)【3po空ac】 | ⚠️ | 拒向有輔警背景和主張自首的社工團隊割蓆，又對被捕義士幸災樂禍。 | [🔗](https://lih.kg/nksxipX) • [🔗](https://lih.kg/npyDHRX) • [🔗](https://lih.kg/nAMHPDX) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：Alien，肥尻大隻，我是壞咗的人
+```
+
