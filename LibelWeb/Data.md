@@ -2076,6 +2076,7 @@ Special Thanks：power_off(#1886)
 </div>
 ```markdown
 由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：萊斯仔
 ```
 
 ## #34542
@@ -3836,21 +3837,6 @@ Special Thanks：power_off(#1886)
 ```markdown
 由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
 曾用名稱：行床心理學家，我好愛我個前女友，不撤回不罷休
-```
-
-## #60563
-
-<div class="code-example" markdown="1">
-
-| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
-|:-----|:--|:-----------|:-----|
-| 大便會變大 | ⚠️ | 分化同路人。 | [🔗](https://lih.kg/etMbRT) | 
-| (土反田金艮日寺) | 狗隻 | 請問大便會變大(狗隻#60563)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2163873/page/1) | 
-
-</div>
-```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
-曾用名稱：伸手姨處，手足(連豬喊)師
 ```
 
 ## #60563
