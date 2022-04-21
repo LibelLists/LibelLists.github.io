@@ -6,21 +6,25 @@ nav_order: 3
 
 <div class="code-example" markdown="1">
 
+##注意：Search功能僅限於英數及部份符號
+{: .text-red-300 }
+
 | 本Page極大部份資料 | 來源於以下 | 少部份來自其他 |  |
 |:-----|:-----|:-----|:-----|
 | 舊OFF囝戇鳩LIST | OFF囝戇鳩LIST (209人) | OFF囝戇鳩LIST (47人) | LITrack-主要名單 |
 | LITrack-Off囝名單(經修訂) | 支囝狗隻LIST  | 問題會員清單 | 老鳳List |
 
-注意：Search功能僅限於英數及部份符號
-{: .fs-5.text-red-300 }
+資料搜集自20220410202822前之版本
+{: .fs-3 }
 
 </div>
 ```markdown
 極大多數【  】為本Page的標示
 ```
 
-## #35092
 <div class="code-example" markdown="1">
+
+## #35092
 
 | 會員名稱(現時名稱)  | 標籤 | 標籤原因  | 鏈結  |
 |:-----|:-----------|:-----------|:-----|
