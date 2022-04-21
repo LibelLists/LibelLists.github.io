@@ -4,14 +4,14 @@
    }
 },
    "subscriptions":[
-      {"url":"https://eat-play.github.io/on9_list/LIHKG-Label-List-power_off-1886.json","enabled":true,"name":"OFF囝戇鳩LIST (209人)"},
-      {"url":"https://eat-play.github.io/on9_list/LIHKG-Label-List-2-power_off-1886.json","enabled":true,"name":"OFF囝高汁LIST (4人)"},
-      {"url":"https://eat-play.github.io/on9_list/on9-data-1886.json","enabled":true,"name":"OFF囝戇鳩LIST (47人)"},
-      {"url":"https://kinki-mochi.github.io/Main.json","enabled":true,"name":"LITrack-主要名單"},
-      {"url":"https://kinki-mochi.github.io/Off.json","enabled":true,"name":"LITrack-Off囝名單(經修訂)"},
-      {"url":"https://kinki-mochi.github.io/Recommendation.json","enabled":true,"name":"LITrack-推介會員名單"},
+      {"url":"https://eat-play.github.io/on9_list/LIHKG-Label-List-power_off-1886.json","enabled":false,"name":"OFF囝戇鳩LIST (209人)"},
+      {"url":"https://eat-play.github.io/on9_list/LIHKG-Label-List-2-power_off-1886.json","enabled":false,"name":"OFF囝高汁LIST (4人)"},
+      {"url":"https://eat-play.github.io/on9_list/on9-data-1886.json","enabled":false,"name":"OFF囝戇鳩LIST (47人)"},
+      {"url":"https://kinki-mochi.github.io/Main.json","enabled":false,"name":"LITrack-主要名單"},
+      {"url":"https://kinki-mochi.github.io/Off.json","enabled":false,"name":"LITrack-Off囝名單(經修訂)"},
+      {"url":"https://kinki-mochi.github.io/Recommendation.json","enabled":false,"name":"LITrack-推介會員名單"},
       {"url":"https://kinki-mochi.github.io/Inspection.json","enabled":false,"name":"LITrack-觀察中會員名單"},
-      {"url":"https://raw.githubusercontent.com/shiaifglshav/ChiBoyDogList/main/ChiBoyDogList.json","enabled":true,"name":"支囝狗隻LIST (231人)"},
-      {"url":"https://v4kfdgew8t.github.io/rccnmlhnzv/questionableMemberList.json","enabled":true,"name":"問題會員清單"},
-      {"url":"https://v4kfdgew8t.github.io/xrsbkvnfay/LoFungList.json","enabled":true,"name":"老鳳List"}
+      {"url":"https://raw.githubusercontent.com/shiaifglshav/ChiBoyDogList/main/ChiBoyDogList.json","enabled":false,"name":"支囝狗隻LIST (231人)"},
+      {"url":"https://v4kfdgew8t.github.io/rccnmlhnzv/questionableMemberList.json","enabled":false,"name":"問題會員清單"},
+      {"url":"https://v4kfdgew8t.github.io/xrsbkvnfay/LoFungList.json","enabled":false,"name":"老鳳List"}
 ]}
