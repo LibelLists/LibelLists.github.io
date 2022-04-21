@@ -8,7 +8,8 @@ search_exclude: true
 
 【[Libel](https://kitce.github.io/libel/)】已公開的訂閱List名單
 
-注意Search功能只限英數
+注意：Search功能僅限於英數及部份符號
+{: .fs-5.text-red-300 }
 
   <p>
      <img src="./Img/P_List.png" alt="Lists" />
