@@ -7,3 +7,5 @@ aux_links:
   "Lihkg Libel Lists on GitHub":
     - "//github.com/Zetho77GH/Lihkg-Libel-Lists"
 permalink: /:title/
+
+search.tokenizer_separator: /[\s/]+/&#;
