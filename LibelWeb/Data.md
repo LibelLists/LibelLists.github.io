@@ -1641,6 +1641,19 @@ Special Thanks：power_off(#1886)
 曾用名稱：叉燒仔
 ```
 
+## #27716
+
+<div class="code-example" markdown="1">
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 寨乪 | Example提供者 | Example | [🔗](https://lihkg.com/thread/2970047/page/5?post=102) |
+
+</div>
+```markdown
+Example
+```
+
 ## #27866
 
 <div class="code-example" markdown="1">
