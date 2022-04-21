@@ -11,7 +11,7 @@ nav_order: 3
 | 舊OFF囝戇鳩LIST | OFF囝戇鳩LIST (209人) | OFF囝戇鳩LIST (47人) | LITrack-主要名單 |
 | LITrack-Off囝名單(經修訂) | 支囝狗隻LIST  | 問題會員清單 | 老鳳List |
 
-注意：Search功能僅限於英文及數字
+注意：Search功能僅限於英數及部份符號
 {: .fs-5.text-red-300 }
 
 </div>
