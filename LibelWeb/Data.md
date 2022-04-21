@@ -14,11 +14,9 @@ nav_order: 3
 | 舊OFF囝戇鳩LIST | OFF囝戇鳩LIST (209人) | OFF囝戇鳩LIST (47人) | LITrack-主要名單 |
 | LITrack-Off囝名單(經修訂) | 支囝狗隻LIST  | 問題會員清單 | 老鳳List |
 
-資料搜集自20220410202822前之版本
-{: .fs-3 }
-
 </div>
 ```markdown
+資料搜集自20220410202822前之版本
 極大多數【  】為本Page的標示
 ```
 
