@@ -8,4 +8,4 @@ aux_links:
     - "//github.com/Zetho77GH/Lihkg-Libel-Lists"
 permalink: /:title/
 
-search.tokenizer_separator: /[\s/]+/&#;
+search.tokenizer_separator: /[\s\-/]+/
