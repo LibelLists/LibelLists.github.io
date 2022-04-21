@@ -5216,8 +5216,8 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 真係無記性 | 小心此人 | 對被捕同路人幸災樂禍，又對被判入獄的手足稱「好事繼續來」。 | [🔗](https://lih.kg/stQkQpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.1_.png) |
-|  | 恥笑手足 |  | [🔗](https://lih.kg/aMoOewV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.2_.png) |
-|  | 支持監管網上言論 |  | [🔗](https://lih.kg/aQCsrmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.3_.png) |
+|  | 恥笑手足 | 張貼手足被判入罪消息，形容為「好事繼續來」。 | [🔗](https://lih.kg/aMoOewV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.2_.png) |
+|  | 支持監管網上言論 | 同路人因網上言論被捕，佢回應「D鍵盤戰士係要打擊下」。 | [🔗](https://lih.kg/aQCsrmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.3_.png) |
 |  | 親共少數派 | 話721「搞完西環 吹雞入元朗 點知比人打撚到劈叻jack」抵死 | [🔗](https://lih.kg/aQkNwPV) | 
 |  | 狗隻 | 請問真係無記性(狗隻#85242)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1308732/page/1) • [🔗](https://lih.kg/uEOhAuX) |
 
