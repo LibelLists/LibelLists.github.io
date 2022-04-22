@@ -6113,6 +6113,8 @@ Example
 
 </div>
 
+<div class="code-example" markdown="1">
+
 ## #111852
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
@@ -6324,6 +6326,8 @@ Example
 由 舊OFF囝戇鳩LIST 提供
 ```
 
+<div class="code-example" markdown="1">
+
 ## #117896
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
@@ -6331,4 +6335,86 @@ Example
 | 麵咪母老(FINDINDMEMO) |  | [詳細](./117896) | [🔗](./117896) |
 
 </div>
+
+<div class="code-example" markdown="1">
+
+## #117967
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 高天鷲：臭雞<br>(調理農務系系長)【空ac】 | 想做狗 | 不知羞恥有人唔做去做狗。 | [🔗](https://lih.kg/DRnFkV) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #118120
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Neutral | 侮辱同路人 | 對被逼結業嘅網店《光時》表示「扮黃呃夠錢仲唔走咩」。 | [🔗](https://lih.kg/aQKeBpV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/118120/118120.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #118226
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 深州者(係！各位連黃！) |  | [詳細](./118226) | [🔗](./118226) |
+
+</div>
+
+<div class="code-example" markdown="1">
+
+## #118312
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 您都岸鳩 | 狗隻 | 請問您都岸鳩(狗隻#118312)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2172372/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #118346
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Alex_Lawther | 狗隻 | 吹奏支那閪 | [🔗](https://lihkg.com/thread/2623837/page/1) | 
+| (要靜去自修室啦屌) | 狗隻/親共少數派 | 話2019玩大咗 | [🔗](https://lihkg.com/thread/2825476/page/1) | 
+|  | 狗隻/假膠 | 屈黃 | [🔗](https://lih.kg/iaqhHT) | 
+|  | 狗隻 | 睇支那閪女團 | [🔗](https://lih.kg/2502061) | 
+|  | 參考資料 | 熱民支持者 | [🔗](https://lih.kg/biuHoMV) | 
+|  | 狗隻 | 請問Alex_Lawther(狗隻#118346)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2299005/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+曾用名稱：收音龜頭2，收音龜頭，巴奥•薩基路加，YoungHysan奶油包
+```
+
+<div class="code-example" markdown="1">
+
+## #118551
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 史提夫和戴夫(做乜嘢啫喱) | 手機台on9 | 視「扮黃呃手足嘅先達佬」為同路人，反問指責先達佬的連登仔是否想更多黃店老板跳樓。 | [🔗](https://lih.kg/oHivFRX) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：權志龍的傳人，格雷的五十肩陰影，竹渕慶，貧僧法號MagicPro，我愛張娜拉，廣末我娘子，陳婷佳，食屎食著狗屎，臥刀。拔！
+```
 
