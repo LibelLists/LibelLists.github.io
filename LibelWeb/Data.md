@@ -5690,7 +5690,7 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 六度千人(為黎生討回公道) | ⚠️ | 合理化奸商炒口罩的行為，又出言縱容港女強制隔離期間去做PTGF。 | [🔗](https://lih.kg/fhnKPT) • [🔗](https://lih.kg/auAgLAV) • [🔗](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/98692) | 
+| 六度千人(為黎生討回公道) | ⚠️ | 合理化奸商炒口罩的行為，又出言縱容港女強制隔離期間去做PTGF。 | [🔗](https://lih.kg/fhnKPT) • [🔗](https://lih.kg/auAgLAV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/98692) | 
 
 </div>
 ```markdown
