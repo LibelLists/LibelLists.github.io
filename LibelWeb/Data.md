@@ -6418,3 +6418,138 @@ Example
 曾用名稱：權志龍的傳人，格雷的五十肩陰影，竹渕慶，貧僧法號MagicPro，我愛張娜拉，廣末我娘子，陳婷佳，食屎食著狗屎，臥刀。拔！
 ```
 
+## #118557
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 憤怒鳥【5po空ac】 | 狗隻 | 請問憤怒鳥(狗隻#118557)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2756405/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #118571
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 傻豬 | 小心此人 | 捉殘體字都唔畀，稱「收皮啦,正字特工」。 | [🔗](https://lih.kg/aOvQhLV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/118571/118571.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #119485
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 輸死你味呀清 | 正仆街 | 對被判入獄的黎智英稱「掋死 賣國賊 無佢香港唔會咁亂 死毒果 條友死十次都唔夠 最好禍必及家人」。 | [🔗](https://lih.kg/tbARykX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/119485/119485.1_.png) |
+|  | 狗隻 | 請問輸死你味呀清(狗隻#119485)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2477220/page/1 • [🔗](https://lih.kg/aMzfkhV)) | 
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：8526423，可唔可以做你隻兵，你尷唔尷尬呀
+```
+
+<div class="code-example" markdown="1">
+
+## #119543
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 麥泰萊【空ac】 | ZA洗版狗 | 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbspV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/119543/119543.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #119688
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 椰汁炸豬扒【已ban】 | 狗隻 | 請問椰汁炸豬扒(狗隻#119688)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1733815/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #119778
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 何東妹 | ⚠️ | 對偷渡台灣惟最終被支共拘捕的同路人冷嘲熱諷。 | [🔗](https://lih.kg/fRehQT) | 
+|  | 待定 | 嘲笑勇武抗爭者 | [🔗](https://lih.kg/beMFyFV) | 
+|  | 狗隻 | 請問何東妹(狗隻#119778)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2114666/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+曾用名稱：麥詩敏，mane，J塞豐乳中，杏林子，ManeMami
+```
+
+<div class="code-example" markdown="1">
+
+## #119906
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 噴火龍2017(高追低炒) | 狗隻 | 請問噴火龍2017(狗隻#119906)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2751030/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #120627
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 神不守社【已ban】 | 狗隻 | 請問神不守社(狗隻#120627)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2481885/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #120916
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 保安淫猿 | ⚠️ | 出言侮辱同路人。 | [🔗](https://lih.kg/aFcndxV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/120916/120916.1_.png) | 
+| 【已ban】 | 狗隻 | 請問保安淫猿(狗隻#120916)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2287460/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #121393
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 谷德昭勁 | ⚠️ | 對巴士撞樹意外受害者幸災樂禍，表示「希望死幾隻暴徒」，近日又留言要求手足收手。 | [🔗](https://lih.kg/nCxJgHX) • [🔗](https://lih.kg/oycfgQX) |
+|  | 狗隻 | 請問谷德昭勁(狗隻#121393)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1812320/page/1) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
+```
+
