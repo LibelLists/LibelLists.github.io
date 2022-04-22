@@ -5645,8 +5645,8 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 兒登垃圾戇尻 | 藍絲言論 | 有13歲同路人獻花悼念梁凌杰先生，被票控「亂拋垃圾」，佢回應「以後有人亂拋垃圾就影相拍片報警…(略)…呀黃屍」。 | [🔗](https://lih.kg/bgwjfcV) • [🖼️](https://na.cx/i/LJoi7y6.jpg) |
-| (話你呀) | 愛支冇錢收 | 2017年曾報名參加「七一愛國遊行，1000蚊但淨係去3個鐘，可以戴口罩」。 | [🔗](https://lih.kg/jdNRsV) • [🖼️](https://na.cx/i/7zRAqkM.jpg) |
-|  | 嘲諷同路人 | 阮民安因「國安法」被捕，佢回應「呢到有屌過法官笑過差佬話打針打死人嗰班睇路#hehe#dog」。 | [🔗](https://lih.kg/imaOkT) • [🖼️](https://na.cx/i/9WzFBsr.jpg) |
+| (話你呀) | 愛支冇錢收 | 2017年曾報名參加「七一愛國遊行，1000蚊但淨係去3個鐘，可以戴口罩」。 | [🔗](https://lih.kg/iGOeEV) • [🔗](https://lih.kg/jdNRsV) • [🖼️](https://na.cx/i/7zRAqkM.jpg) |
+|  | 嘲諷同路人 | 阮民安因「國安法」被捕，佢回應「呢到有屌過法官笑過差佬話打針打死人嗰班睇路#hehe#dog」。 | [原po已死](https://lih.kg/imaOkT) • [🖼️](https://na.cx/i/9WzFBsr.jpg) |
 |  | 狗隻<br>【po內罪證極多注意】 | 請問兒登垃圾戇尻(狗隻#98386)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2003630/page/1) |
 
 </div>
