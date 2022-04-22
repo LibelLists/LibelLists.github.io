@@ -5357,6 +5357,8 @@ Example
 
 </div>
 
+<div class="code-example" markdown="1">
+
 ## #91227
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
@@ -5364,7 +5366,6 @@ Example
 | 純白鎮居屋妹 | 侮辱同路人 | (留言已死) 出言侮辱同路人，指「好人好姐邊會坐監」。 | [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/91227/91227.1_.png) |
 | 【已ban】 | 膠化手足 | (留言已死) 人骨發現案，佢回應「守![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」。 | [🔗](https://lih.kg/taLuniX) • [🖼️](https://na.cx/i/p1dZuj9.png) |
 |  | CCTVB打手 | Google起底發現佢非常鍾意睇CCTVB，係CCTVB Post內狙擊名單常客。 | [🔗](https://bit.ly/3oPdqRA) • [🖼️](https://na.cx/i/zh4t66U.png) |
-|  | 五毛 | 發現人頭骸骨，佢第一時間打「守![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」 | [🔗](https://lihkg.com/thread/2488948/page/4?post=82) |
 
 </div>
 ```markdown
@@ -5438,6 +5439,8 @@ Example
 | Tony_Stark |  | [詳細](./92299) | [🔗](./92299) |
 
 </div>
+
+<div class="code-example" markdown="1">
 
 ## #92376
 
