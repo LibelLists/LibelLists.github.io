@@ -7634,3 +7634,117 @@ Example
 
 </div>
 
+<div class="code-example" markdown="1">
+
+## #147138
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| CincoMao(侵正一垃圾仔) | 狗隻 | 請問CincoMao(狗隻#147138)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2319597/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：Benchow13343
+```
+
+<div class="code-example" markdown="1">
+
+## #147671
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| (SL个UT) | 變態佬 | 對東涌雙屍命案的女死者表示「咁靚 唔介意姦屍」。 | [🔗](https://lih.kg/turhKzX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/147671/147671.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+曾用名稱：扎馬斯，尚花幸仁露
+```
+
+<div class="code-example" markdown="1">
+
+## #148002
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 連登鮑姐 | ⚠️ | 對周庭喺佐敦裕華門口俾狗圍感到「好爽」。 | [🔗](https://lih.kg/gaPPKT) | 
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：最後一位電車男
+```
+
+<div class="code-example" markdown="1">
+
+## #148447
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 滿地花生 | 仆街仔 | 對東涌雙屍命案的女死者表示「冇被性侵痕跡？有冇咁浪費啊」。 | [🔗](https://lih.kg/turhFpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/148447/148447.1_.png) |
+
+</div>
+```markdown
+由 OFF囝戇鳩LIST 提供
+曾用名稱：我不想一個快活
+```
+
+<div class="code-example" markdown="1">
+
+## #149342
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 杰寶倫(葉小妞) | 狗隻 | 請問杰寶倫(狗隻#149342)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1190624/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #149494
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 回憶小子 | 回憶小狗![](https://cdn.lihkg.com/assets/faces/dog/bark.gif) | 1. 話831勇武手足扺死問「係班前線自己要搭港鐵，怪得邊個？」「又要靠港鐵走佬，又要玩撚串港鐵party 呢d係咪叫輸打贏要？定叫自作自受」2. 話「反中撚炒哂車」3. 問「有督察同Big4兩個offer, 你會揀邊個」 | 1. [🔗](https://lih.kg/1523092) • 2. [🔗](https://lih.kg/886259) • 3. [🔗](https://lih.kg/2296169) | 
+|  | 親共少數派 | 1. 話阻人影大頭嘅手足係MK仔 2. 煲大西方國家搞鳩同分裂其他國家嘅歷史 | [🔗](https://lih.kg/1603961) • [🔗](https://lih.kg/2751755) | 
+| 【被指有可能為沙田you真身】 | 回憶小狗 | 請問回憶小狗(狗隻#149494)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1926109/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+```
+
+<div class="code-example" markdown="1">
+
+## #149673
+
+| 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 手joke(徵ps4) | 狗隻 | 手足被捕，佢話「手joke![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lihkg.com/thread/2572364/page/1) | 
+| [馬鞍山本燿司] | 狗隻 | 請問手joke(徵ps4)(狗隻#149673)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2529816/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+曾用名稱：KirmitFrog，Kermit
+```
+
+<div class="code-example" markdown="1">
+
+## #149978
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 集思港益 | ⚠️ | 分化同路人、模糊五大訴求的焦點、近日更變本加厲要求大家不應全盤否定警隊的價值。 | [🔗](https://lih.kg/1786387) • [🔗](https://lih.kg/1708683) • [🔗](https://lih.kg/1954818) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/149978) | 
+|  | 【本page資料】 | 此人立帖為證決定退出連登至今 | [🔗](https://lihkg.com/thread/972456/page/1) |
+
+</div>
+```markdown
+由 舊OFF囝戇鳩LIST 提供
+曾用名稱：joe2017，MrJoe，PlanckTime，KMeansClustering，hihi.hk，港網名，輕輕地砵，宣膠士，送膠員
+```
+
