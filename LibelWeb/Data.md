@@ -7740,7 +7740,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 集思港益 | ⚠️ | 分化同路人、模糊五大訴求的焦點、近日更變本加厲要求大家不應全盤否定警隊的價值。 | [🔗](https://lih.kg/1786387) • [🔗](https://lih.kg/1708683) • [🔗](https://lih.kg/1954818) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/149978) | 
-|  | 【本page資料】 | 此人立帖為證決定退出連登至今 | [🔗](https://lihkg.com/thread/972456/page/1) |
+|  | 【本page資料】 | 此人立帖為證決定退出連登至今仍在 | [🔗](https://lihkg.com/thread/972456/page/1) |
 
 </div>
 ```markdown
