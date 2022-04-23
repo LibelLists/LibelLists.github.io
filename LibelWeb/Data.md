@@ -7382,7 +7382,7 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 冬令時間(加速世界) | 狗隻 | 手足被捕要認人，佢話「認人? 認左幾年又點 ![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)\n」 | [🔗](https://lih.kg/aPCaAHV) | 
+| 冬令時間(加速世界) | 狗隻 | 手足被捕要認人，佢話「認人? 認左幾年又點 ![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/aPCaAHV) | 
 
 </div>
 ```markdown
