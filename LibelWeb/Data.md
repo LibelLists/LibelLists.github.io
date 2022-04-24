@@ -8522,8 +8522,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 林鄭不能移 | ⚠️ | 對抗爭手足幸災樂禍。 | [🔗](https://lih.kg/owkbyNX) • [🔗](https://lih.kg/rrKrEpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/175258) | 
-| 【已ban】 | 小心此人 | 對質疑安心出行安全性的港人稱「又妖魔化」，近日又出言侮辱12港人之一的李宇軒。 | [🔗](https://lih.kg/aKituQV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/175258/175258.1_.png) |
-|  | 侮辱手足 |  | [🔗](https://lih.kg/sNoPqvX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/175258/175258.2_.png) |
+| 【已ban】 | 小心此人 | 對質疑安心出行安全性的港人稱「又妖魔化」，近日又出言侮辱12港人之一的李宇軒。 | [🔗](https://lih.kg/aKituQV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/175258/175258.1_.png) • [🔗](https://lih.kg/sNoPqvX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/175258/175258.2_.png) |
 |  | ⚠️ | 1. 話「打得好入元郎搞事大大力打![](https://cdn.lihkg.com/assets/faces/normal/kill.gif)![](https://cdn.lihkg.com/assets/faces/normal/kill.gif)」2. 話香港人收晒皮「你地收晒皮嫁啦仲反共笑死人咩」3. 嘲諷手足,話「理大要condom」 | 1. [🔗](https://lih.kg/aMDCnRV) • 2. [🔗](https://lih.kg/sMdwyHX) • 3. [🔗](https://lih.kg/sMdwywX) | 
 |  | 狗隻 | 請問林鄭不能移(狗隻#175258)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2226018/page/1) | 
 
