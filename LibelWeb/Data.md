@@ -8287,7 +8287,6 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 宇都宮條仔 | 港豬⚠️ | 不忿被指責有玩過原神，稱「講到咁威咪睇下自己全屋啲嘢係咪真係冇一件係支那制」。 | [🔗](https://lih.kg/geyqhT) • [🔗](https://lih.kg/qQmbgpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/166726) | 
-"date":1601164800000
 
 </div>
 ```markdown
