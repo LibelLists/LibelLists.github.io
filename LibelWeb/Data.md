@@ -10324,6 +10324,8 @@ Example
 由 舊OFF囝戇鳩LIST 提供
 ```
 
+<div class="code-example" markdown="1">
+
 ## #228143
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
