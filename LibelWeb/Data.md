@@ -9298,8 +9298,8 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 叻叻主教 | ⚠️ | Blame the victim，又留言指黑警所使用的武力十分克制和被動，又經常藉機抹黑手足。 | [🔗](https://lih.kg/qGhjxhX) • [🔗](https://lih.kg/aDAMeOV) • [🔗](https://lih.kg/guAeHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/199771) | 
-| 【已ban】 | 正仆街 | 經常藉機抹黑同路人。 | [🔗](https://lih.kg/aHKkjmV) • [🔗](https://lih.kg/aJrnRJV) • [🔗](https://lih.kg/aKqDhzV) • [🔗](https://lih.kg/aMxryrV) • [🔗](https://lih.kg/aNbPiwV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/199771) |
+| 叻叻主教 | ⚠️ | Blame the victim，又留言指黑警所使用的武力十分克制和被動，又經常藉機抹黑手足。 | [🔗](https://lih.kg/qGhjxhX) • [原po已死](https://lih.kg/aDAMeOV) • [🔗](https://lih.kg/guAeHT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/199771) | 
+| 【已ban】 | 正仆街 | 經常藉機抹黑同路人。 | [🔗](https://lih.kg/aHKkjmV) • [🔗](https://lih.kg/aJrnRJV) • [🔗](https://lih.kg/aKqDhzV) • [🔗](https://lih.kg/aMxryrV) • [原po已死](https://lih.kg/aNbPiwV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/199771) |
 |  | 狗隻 | 請問叻叻主教(狗隻#199771)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2133334/page/1) | 
 
 </div>
