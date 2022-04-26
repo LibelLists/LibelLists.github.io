@@ -9231,7 +9231,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 43碎（唔玩膠） | 親共少數派 | 1. 話得連登會注重黃藍，話食咗藍店好耐 2. 嘲諷人哋曾經出po呼籲支援理大 | 1. [🔗](https://lih.kg/iaphfT) • 2. [🔗](https://lih.kg/aLoniRV) | 
 |  | 支那種 | 嘲諷19年推po上熱門嘅文宣手法，但講錯做熱搜，疑似玩開微博 | [🔗](https://lih.kg/hEhgKT) | 
-|  | 假膠 | 1. 屈黃，話用youtube已經算黃 2. 扮演鏡粉屈人係TVB PR | [🔗](https://lih.kg/bbCjhtV) • 2. [🔗](https://lih.kg/hjQymT) | 
+|  | 假膠 | 1. 屈黃，話用youtube已經算黃 2. 扮演鏡粉屈人係TVB PR | 1. [🔗](https://lih.kg/bbCjhtV) • 2. [🔗](https://lih.kg/hjQymT) | 
 
 </div>
 ```markdown
