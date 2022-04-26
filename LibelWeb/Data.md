@@ -5751,13 +5751,13 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 終於結束的起點 | 侮辱同路人 | 對圖中蘋果女記者表示「想屌」。 | [🔗](https://lih.kg/aQQEOKV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/99883/99883.1_.png) • [🖼️](https://na.cx/i/.jpg) |
-|  | 支持中國貨 | 建議其他會員用「淘寶」買電話電池。 | [🔗](https://lih.kg/aLMgqvV) • [🖼️](https://na.cx/i/.jpg) |
-|  | 攬住塊鏡 | 「Viu同鬼滅之刃都係黃」，只有風向狗先會強調呢個說法。 | [🔗](https://lih.kg/2303381) • [🖼️](https://na.cx/i/.jpg) |
+| 終於結束的起點 | 侮辱同路人 | 對圖中蘋果女記者表示「想屌」。 | [🔗](https://lih.kg/aQQEOKV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/99883/99883.1_.png) |
+|  | 支持中國貨 | 建議其他會員用「淘寶」買電話電池。 | [🔗](https://lih.kg/aLMgqvV) • [🖼️](https://na.cx/i/E1GVDkD.png) |
+|  | 攬住塊鏡 | 「Viu同鬼滅之刃都係黃」，只有風向狗先會強調呢個說法。 | [🔗](https://lih.kg/2303381) • [🖼️](https://na.cx/i/LnytdVP.png) |
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
 ```
 
 <div class="code-example" markdown="1">
@@ -5797,12 +5797,12 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | Sinfonia15 | 小心此人 | 認為「事實台灣的確係中國的一部分」。 | [🔗](https://lih.kg/hviKvT) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/100680/100680.1_.png) |
-| (Urbosa386) | 愛支風向狗 | 經常開Post強調「中國人」較其他民族優越，又宣稱「香港永遠是中國的一部分」。 | [🔗](https://lihkg.com/profile/100680) • [🖼️] |
-|  | 澳門藍絲狗 | 宣稱「事實台灣的確係中國的一部分」，及後被發現經常轉貼澳門藍絲言論。 | [🔗](https://lih.kg/babotnV) • [🖼️] |
+| (Urbosa386) | 愛支風向狗 | 經常開Post強調「中國人」較其他民族優越，又宣稱「香港永遠是中國的一部分」。 | [🔗](https://lihkg.com/profile/100680) |
+|  | 澳門藍絲狗 | 宣稱「事實台灣的確係中國的一部分」，及後被發現經常轉貼澳門藍絲言論。 | [🔗](https://lih.kg/babotnV) • [🖼️](https://na.cx/i/RCp9LvB.jpg) • [🖼️](https://na.cx/i/2Bm6U3v.jpg) |
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 部份圖片#70286 提供
 曾用名稱：ALBIO，UNUSUAL，_GENIC，小日子_JOEY，C-KuLaSu，GENIC，Hoenn，開啟快樂，theEspeon，エーフィ，TheEcon，TenorGLac，EEFI，想得太遠
 ```
 
@@ -6038,8 +6038,8 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 我屌你都嫌哂精 | 仆街仔 | 對入獄手足冷嘲熱諷，稱「聽聞赤柱好住d 一車車手joke爭住入」。 | [🔗](https://lih.kg/tkteqPX)  • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/109211/109211.1_.png) |
-| (我親屌你呀) | 引戰風向狗 | 樓主向曾罷工而仍然在職嘅醫護致敬，佢就惡意攻擊醫護，帶風向引戰貶低醫護工作。 | [🔗](https://lih.kg/wewuguX) • [🖼️] |
-| 【空ac】 | 嘲諷同路人 | 以大量惡毒言論嘲諷因抗爭被判監嘅消防員手足。 | [🔗](https://lih.kg/aJctsoV) • [🖼️] |
+| (我親屌你呀) | 引戰風向狗 | 樓主向曾罷工而仍然在職嘅醫護致敬，佢就惡意攻擊醫護，帶風向引戰貶低醫護工作。 | [🔗](https://lih.kg/wewuguX) • [🖼️](https://na.cx/i/nhoT9yQ.png) |
+| 【空ac】 | 嘲諷同路人 | 以大量惡毒言論嘲諷因抗爭被判監嘅消防員手足。 | [🔗](https://lih.kg/aJctsoV) • [🖼️](https://na.cx/i/xoK4wNk.png) |
 
 </div>
 ```markdown
