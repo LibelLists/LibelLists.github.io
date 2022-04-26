@@ -3714,7 +3714,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 麵咪妈(ChingChong(波台)) | 小心此人 | 對在囚手足幸災樂禍。 | [🔗](https://lih.kg/srxzehX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/57914/57914.1_.png) |
 |  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914) • [🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg) |
-|  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588) • [🖼️](https://na.cx/i/.jpg) |
+|  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588) • [🖼️](https://na.cx/i/SyewbDZ.png) |
 
 </div>
 ```markdown
