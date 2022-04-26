@@ -5576,7 +5576,7 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 仲要加啲橙皮TIM | 藍店師![](https://cdn.lihkg.com/assets/faces/pig/wail.gif) | 藍絲言論，推薦大家食藍店，話「味苑好食是良知![](https://cdn.lihkg.com/assets/faces/normal/smile.gif)」，話「黃屍食開屎![](https://cdn.lihkg.com/assets/faces/dog/smile.gif)![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)」 | [🔗](https://lih.kg/sMkAozX) • [🔗](https://lih.kg/sMkAoFX) | 
+| 仲要加啲橙皮TIM | 藍店師![](https://cdn.lihkg.com/assets/faces/pig/wail.gif) | 1. 藍絲言論，推薦大家食藍店，話「味苑好食是良知![](https://cdn.lihkg.com/assets/faces/normal/smile.gif)」2. 話「黃屍食開屎![](https://cdn.lihkg.com/assets/faces/dog/smile.gif)![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)」 | 1. [🔗](https://lih.kg/sMkAozX) • 2. [🔗](https://lih.kg/sMkAoFX) | 
 |  | 五毛 | 話「終於睇到你件濕鳩黃屍上水」 | [🔗](https://lih.kg/aODrhBV) | 
 
 </div>
