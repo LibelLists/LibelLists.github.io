@@ -814,14 +814,14 @@ nav_order: 3
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | Taco_Tuesday | 支那人 | 問人「你係咪中國人![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」並強迫人接受支那人身份, 話「香港人咪又係中國人![](https://cdn.lihkg.com/assets/faces/normal/clown.gif) | [🔗](https://lih.kg/gEFyDT) • [🔗](https://lih.kg/aKnvMLV) |
-| (大雞樂) | ⚠️ | 話「你想返大陸揼骨，通關我可以帶你去」 | [🔗](https://lih.kg/gOLoBT) |
+| (Taco_TUE) | ⚠️ | 話「你想返大陸揼骨，通關我可以帶你去」 | [🔗](https://lih.kg/gOLoBT) |
 |  | 支那種 | 開post逼人認支那人 | [🔗](https://lih.kg/2418915) |
 |  |  | [其他詳細](./11294) | [🔗](./11294) |
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 提供
-曾使用名稱：萬世師表欣師，長澤雅美老公，Taco_Yumi，提名自己諾貝爾獎
+由 支囝狗隻LIST & 問題會員清單 & #86378 提供
+曾使用名稱：萬世師表欣師，長澤雅美老公，Taco_Yumi，提名自己諾貝爾獎，大雞樂
 ```
 
 <div class="code-example" markdown="1">
@@ -2605,7 +2605,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 麥當勞叔叔 | 正戇鳩 | 用支那 APP 仲死撐。 | [🔗](https://lih.kg/tghRbJX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/39305/39305.1_.png) |
-|  | ⚠️ | [🔗](https://lih.kg/tghRcpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/39305/39305.2_.png) |
+|  | ⚠️ |  | [🔗](https://lih.kg/tghRcpX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/39305/39305.2_.png) |
 
 </div>
 ```markdown
@@ -3195,19 +3195,6 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-```
-
-<div class="code-example" markdown="1">
-
-## #51920
-
-| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
-|:-----|:--|:-----------|:-----|
-| 交你老母稅(我係英國人呀屌) | 死乞兒 | 利用限時嘅 STEAM 現金優惠多開 paypal 帳號刷錢，被封鎖帳號後揚言「告到 steam 破產」。 | [🔗](https://lih.kg/bjOHdEX) • [🔗](https://lih.kg/bjOHfoX) • [🔗](https://lih.kg/bjOHgbX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/51920) | 
-
-</div>
-```markdown
-由 舊OFF囝戇鳩LIST 提供
 曾用名稱：錢姐喎苦愁，戴你老母罩，有關消息人士，跌跌跌跌跌
 ```
 
@@ -3585,8 +3572,8 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 李穎蔚【已ban】 | 分化風向狗 | (留言已死) 被其他會員指責佢分化當時正準備罷工爭取封關嘅醫護。 | [🔗](https://lih.kg/oeeFDOX) • [🖼️](https://na.cx/i/FuZjHJj.png) |
-|  | 正仆街 | (留言已死) 一名女子接種「復必泰」後抽搐，佢回應「捽完粒豆豆？」。 | [🔗](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/55458/55458.1_.png) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/55458/55458.1_.png) |
+| 李穎蔚【已ban】 | 分化風向狗 | (留言已死) 被其他會員指責佢分化當時正準備罷工爭取封關嘅醫護。 | [🔗](https://lihkg.com/thread/1845662/page/1?post=14) • [🖼️](https://na.cx/i/FuZjHJj.png) |
+|  | 正仆街 | (留言已死) 一名女子接種「復必泰」後抽搐，佢回應「捽完粒豆豆？」。 | [🔗](https://lihkg.com/thread/2529281/page/5?post=110) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/55458/55458.1_.png) |
 
 </div>
 ```markdown
@@ -5225,7 +5212,7 @@ Example
 |  | 恥笑手足 | 張貼手足被判入罪消息，形容為「好事繼續來」。 | [🔗](https://lih.kg/aMoOewV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.2_.png) |
 |  | 支持監管網上言論 | 同路人因網上言論被捕，佢回應「D鍵盤戰士係要打擊下」。 | [🔗](https://lih.kg/aQCsrmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/85242/85242.3_.png) |
 |  | 親共少數派 | 話721「搞完西環 吹雞入元朗 點知比人打撚到劈叻jack」抵死 | [🔗](https://lih.kg/aQkNwPV) | 
-|  | 狗隻 | 請問真係無記性(狗隻#85242)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1308732/page/1) • [🔗](https://lih.kg/uEOhAuX) |
+|  | 狗隻 | 請問真係無記性(狗隻#85242)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1308732/page/1) • [🔗](https://lih.kg/uEOhAuX) • [🖼️](https://na.cx/i/56mCrLM.jpg) • [🖼️](https://na.cx/i/1vvGTqN.jpg) |
 
 </div>
 ```markdown
@@ -5323,7 +5310,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 朱元璋 | 分化風向狗 | 🔐即使政見相近，對個別事件立場同可承擔嘅「成本」都可能唔同，但佢將呢個情況嘲諷為「黃絲」雙重標準，明顯帶緊風向分化同路人。 | [🔗](https://lih.kg/2830292) • [🖼️](https://na.cx/i/FbcM6JL.jpg) |
 |  | ⚠️ | 主張「所有醫護都應該要死全家」，完全唔考慮實質情況就打稻草人鬧晒全世界。 | [🔗](https://lih.kg/2877617) • [🖼️](https://na.cx/i/97vyMJL.jpg) |
-|  | 正仆街 | 有會員轉貼烏克蘭女童避難嘅照片，佢留言「好想屌:P」。 | [🔗](https://lih.kg/inKOMT) • [🖼️](https://na.cx/i/fDZr6JL.jpg) |
+|  | 正仆街 | 有會員轉貼烏克蘭女童避難嘅照片，佢留言「好想屌![](https://cdn.lihkg.com/assets/faces/normal/tongue.gif)」。 | [🔗](https://lih.kg/inKOMT) • [🖼️](https://na.cx/i/fDZr6JL.jpg) |
 
 </div>
 ```markdown
@@ -5364,9 +5351,9 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 純白鎮居屋妹 | 侮辱同路人 | (留言已死) 出言侮辱同路人，指「好人好姐邊會坐監」。 | [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/91227/91227.1_.png) |
-| 【已ban】 | 膠化手足 | (留言已死) 人骨發現案，佢回應「守![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」。 | [🔗](https://lih.kg/taLuniX) • [🖼️](https://na.cx/i/p1dZuj9.png) |
-|  | CCTVB打手 | Google起底發現佢非常鍾意睇CCTVB，係CCTVB Post內狙擊名單常客。 | [🔗](https://bit.ly/3oPdqRA) • [🖼️](https://na.cx/i/zh4t66U.png) |
+| 純白鎮居屋妹 | 侮辱同路人 | (留言已死) 出言侮辱同路人，指「好人好姐邊會坐監」。 | [🔗](https://lihkg.com/thread/2369320/page/1)[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/91227/91227.1_.png) |
+| 【已ban】 | 膠化手足 | (留言已死) 人骨發現案，佢回應「守![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」。 | [🔗](https://lihkg.com/thread/2488948/page/4?post=82) |
+|  | CCTVB打手 | Google起底發現佢非常鍾意睇CCTVB，係CCTVB Post內狙擊名單常客。 | [Google起底](https://bit.ly/3oPdqRA) • [🖼️](https://na.cx/i/zh4t66U.png) |
 
 </div>
 ```markdown
@@ -5648,7 +5635,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 兒登垃圾戇尻 | 藍絲言論 | 有13歲同路人獻花悼念梁凌杰先生，被票控「亂拋垃圾」，佢回應「以後有人亂拋垃圾就影相拍片報警…(略)…呀黃屍」。 | [🔗](https://lih.kg/bgwjfcV) • [🖼️](https://na.cx/i/LJoi7y6.jpg) |
 | (話你呀) | 愛支冇錢收 | 2017年曾報名參加「七一愛國遊行，1000蚊但淨係去3個鐘，可以戴口罩」。 | [🔗](https://lih.kg/iGOeEV) • [🔗](https://lih.kg/jdNRsV) • [🖼️](https://na.cx/i/7zRAqkM.jpg) |
-|  | 嘲諷同路人 | 阮民安因「國安法」被捕，佢回應「呢到有屌過法官笑過差佬話打針打死人嗰班睇路#hehe#dog」。 | [原po已死](https://lih.kg/imaOkT) • [🖼️](https://na.cx/i/9WzFBsr.jpg) |
+|  | 嘲諷同路人 | 阮民安因「國安法」被捕，佢回應「呢到有屌過法官笑過差佬話打針打死人嗰班睇路![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)」。 | [原po已死](https://lih.kg/imaOkT) • [🖼️](https://na.cx/i/9WzFBsr.jpg) |
 |  | 狗隻<br>【po內罪證極多注意】 | 請問兒登垃圾戇尻(狗隻#98386)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2003630/page/1) |
 
 </div>
@@ -6081,8 +6068,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 神威牛丸 | ⚠️ | 對被黑警侮辱的手足加以指責。 | [🔗](https://lih.kg/atBHDfV) | 
-| (動態Ching0) | 小心此人 | 分化同路人，又對辭任西貢區議員的范國威落井下石。 | [🔗](https://lih.kg/2415873) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/111253/111253.1_.png) |
-|  | 侮辱同路人 |  | [🔗](https://lih.kg/aLEFPuV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/111253/111253.2_.png) |
+| (動態Ching0) | 小心此人 | 侮辱/分化同路人，又對辭任西貢區議員的范國威落井下石。 | [🔗](https://lih.kg/2415873) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/111253/111253.1_.png) • [🔗](https://lih.kg/aLEFPuV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/111253/111253.2_.png) |
 |  | 狗隻 | 請問透の現金術師(狗隻#111253)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2577694/page/1) | 
 
 </div>
@@ -6601,7 +6587,7 @@ Example
 
 | 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| AMC(brielarson)[汪達馬克莫夫] | 狗隻 | 老鳳追擊緊CCTVB違規商業打手post嗰陣，對老鳳作出侮辱，等同自認CCTVB打手:) | [🔗](https://lih.kg/tChfwrX) • [🔗](https://lih.kg/2570899) | 
+| AMC(brielarson)[汪達馬克莫夫] | 狗隻 | 老鳳追擊緊CCTVB違規商業打手post嗰陣，對老鳳作出侮辱，等同自認CCTVB打手![](https://cdn.lihkg.com/assets/faces/normal/smile.gif) | [🔗](https://lih.kg/tChfwrX) • [🔗](https://lih.kg/2570899) | 
 
 </div>
 ```markdown
@@ -7511,8 +7497,8 @@ Example
 |:-----|:--|:-----------|:-----|
 | 慾樹林風 | 假膠 | 1. 以「食黃店咪得囉」嘲諷其他人以唔同方式去抗共 2. 屈黃 3. 鳩叫手足去嘲諷 | 1. [🔗](https://lih.kg/aNrFpwV) • 2. [🔗](https://lih.kg/vmjsGsX) • 3. [🔗](https://lih.kg/hGtkET) | 
 | (水坑口街38號) | 分化／批鬥撚 | 批鬥移民嘅人無資格繼續反共 | [🔗](https://lih.kg/bbwtAqV) | 
-|  | 參考資料 | 熱民支持者 | [參考資料](https://lih.kg/bdxpMGV) | 
 |  | 被統戰 | 曾經提議示威應舉支那國旗，並其他會員點出奇怪之處 | [🔗](https://lih.kg/1392471) | 
+|  | 參考資料 | 熱民支持者 | [參考資料](https://lih.kg/bdxpMGV) | 
 
 </div>
 ```markdown
@@ -7600,7 +7586,7 @@ Example
 </div>
 ```markdown
 由 老鳳List 提供
-被指為沙田you分身之一曾用名稱：羅志祥暑期工掃街
+被指為沙田you分身之一 曾用名稱：羅志祥暑期工掃街
 ```
 
 <div class="code-example" markdown="1">
@@ -7962,7 +7948,7 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 耳屎為鑑【已ban】 | 分化風向狗 | (原Post已死) 以杜撰標題批評時事評論員吳志森，並拒絕引述原句，結果被高質同路人駁斥；呢隻標題狗嘅所有Post同留言都死晒。 | [🔗](https://lih.kg/2169688) • [🖼️](https://na.cx/i/q2rRAmH.png) |
+| 耳屎為鑑【已ban】 | 分化風向狗 | (link非原po)以杜撰標題批評時事評論員吳志森，並拒絕引述原句，結果被高質同路人駁斥；呢隻標題狗嘅所有Post同留言都死晒。 | [🔗](https://lih.kg/2169688) • [🖼️](https://na.cx/i/q2rRAmH.png) |
 
 </div>
 ```markdown
@@ -8621,7 +8607,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 音樂人 | 小心此人 | 出言侮辱抗爭者。 | [🔗](https://lih.kg/szNnojX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/181172/181172.1_.png) • [🔗](https://lih.kg/aPbFzNV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/181172/181172.2_.png) |
 | 【1po空ac】 | 狗隻 | 佢想屈清潭洞崔玹碩(手足#52779)割過董栢輝義士 但係佢冇搵證據 | [🔗](https://lih.kg/aPbFAaV) | 
-|  | 狗隻 | 女手足罪成，佢話「益埋手足先#hehe#pig 幫前線巴出埋火先入去![](https://cdn.lihkg.com/assets/faces/pig/hehe.gif) 唔好浪費左比差佬![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | [原po已死](https://lih.kg/bgGvykV) | 
+|  | 狗隻 | 女手足罪成，佢話「益埋手足先![](https://cdn.lihkg.com/assets/faces/pig/hehe.gif) 幫前線巴出埋火先入去![](https://cdn.lihkg.com/assets/faces/pig/hehe.gif) 唔好浪費左比差佬![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | [原po已死](https://lih.kg/bgGvykV) | 
 |  | 狗隻 | 請問音樂人(狗隻#181172)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2517143/page/1) • [🔗](https://lih.kg/tjKdNPX) | 
 
 </div>
@@ -9670,12 +9656,12 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 瀨屎貢丸 | ⚠️ | 對輕生者留言稱「香港又少一隻曱甴，爽！」。 | [🔗](https://lih.kg/fptzbT) | 
-| 【已永久封鎖該】 | 狗隻 | 請問瀨屎貢丸(狗隻#210822)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1982070/page/1) | 
+| 【已永久封鎖*1】 | 狗隻 | 請問瀨屎貢丸(狗隻#210822)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1982070/page/1) | 
 
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & 老鳳List 提供
-曾用名稱：毅進三級榮譽生
+*1詳見thread/1983904 曾用名稱：毅進三級榮譽生
 ```
 
 <div class="code-example" markdown="1">
@@ -10443,7 +10429,7 @@ Example
 </div>
 ```markdown
 由 LITrack-Off囝名單(經修訂) & 老鳳List 提供
-曾用名稱：老鴿
+曾用名稱：有冇feel，老鴿
 ```
 
 <div class="code-example" markdown="1">
@@ -10480,7 +10466,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 廟大燈籠細 | 狗隻 | 話「成班on9屈鳩柏林仔。![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」 | [🔗](https://lih.kg/1327541) | 
-|  | ⚠️ | 12港人籌錢,佢話「乞錢#![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)#b」 | [🔗](https://lih.kg/aPBvyQV) | 
+|  | ⚠️ | 12港人籌錢,佢話「乞錢![](https://cdn.lihkg.com/assets/faces/big/sosad.gif)」 | [🔗](https://lih.kg/aPBvyQV) | 
 
 </div>
 ```markdown
@@ -10508,7 +10494,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 姓向大妹楊玉環 | ⚠️ | 伏人用支那 admin 起嘅 cloud drive 仲死撐 google apple 夠有私隱問題。 | [🔗](https://lih.kg/rttBzcX) • [🔗](https://lih.kg/rttBAfX) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/232077) | 
-|  | 五毛 | 發現人頭骸骨，佢第一時間打「손발（手足）![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)#wail2#pig![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)#wail2#pig」 | [🔗](https://lih.kg/aMQsKJV)• [🖼️](https://na.cx/i/TEJyyOY.png) |
+|  | 五毛 | 發現人頭骸骨，佢第一時間打「손발（手足）![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | [🔗](https://lih.kg/aMQsKJV)• [🖼️](https://na.cx/i/TEJyyOY.png) |
 |  | 支那種 | 1. 話用百度雲無問題 2. 認為用殘體無問題 3. 留意開支那明星 | 1. [🔗](https://lih.kg/rttBtjX) • 2. [🔗](https://lih.kg/gwDEJT) • 3. [🔗](https://lih.kg/aOkCqrV) | 
 |  | 分化／批鬥撚 | 批鬥唔同抗爭方式 | [🔗](https://lih.kg/aRhLawV) | 
 
@@ -10621,7 +10607,7 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 長腿姐姐幾多點 | ⚠️ | 出言侮辱在 starbucks 靜坐拒惠顧的抗爭者。 | [🔗](https://lih.kg/asKsFsV) | 
-| 滴基篤【空ac】 | 狗隻 | 請問長腿姐姐幾多點(狗隻#236075)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2227887/page/1) | 
+| (滴基篤)【空ac】 | 狗隻 | 請問長腿姐姐幾多點(狗隻#236075)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2227887/page/1) | 
 
 </div>
 ```markdown
@@ -10867,7 +10853,7 @@ Example
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 我們都被忘了 | 嘲諷同路人 | 嘲諷梁凌杰先生及因「深切哀悼和感激梁凌杰先生」而被捕嘅港大學生會成員，「經一事長一智，傷人就傷人，衝出來悼念有咩意義:o)xx(」。 | [🔗](https://lih.kg/hxKuQT) • [🖼️](https://na.cx/i/9VFGkxX.jpg) |
+| 我們都被忘了 | 嘲諷同路人 | 嘲諷梁凌杰先生及因「深切哀悼和感激梁凌杰先生」而被捕嘅港大學生會成員，「經一事長一智，傷人就傷人，衝出來悼念有咩意義![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/dead.gif)」。 | [🔗](https://lih.kg/hxKuQT) • [🖼️](https://na.cx/i/9VFGkxX.jpg) |
 
 </div>
 ```markdown
