@@ -4,8 +4,6 @@ title: Libel Web
 nav_order: 3
 ---
 
----
-
 <div class="code-example" markdown="1">
 
 ## 注意：Search功能僅限於英數及部份符號
