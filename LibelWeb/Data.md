@@ -32,7 +32,7 @@ nav_order: 3
 
 </div>
 ```markdown
-由 (Sample) Libel認證【戇鳩】會員名單 提供
+由 (Sample) Libel認證【戇鳩】會員名單 & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
 ```
 
 ---
