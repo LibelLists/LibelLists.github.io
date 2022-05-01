@@ -13,9 +13,6 @@ search_exclude: true
 
 <div class="code-example" markdown="1">
 
-## 注意：Search功能僅限於英數及部份符號
-{: .text-red-300 }
-
 | Libel Web資料 | 來源於以下各清單 |  |  |
 |:-----|:-----|:-----|:-----|
 | 舊OFF囝戇鳩LIST | OFF囝戇鳩LIST (209人) | OFF囝戇鳩LIST (47人) | LITrack-主要名單 |
