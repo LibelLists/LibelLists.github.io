@@ -6,7 +6,7 @@ nav_order: 1
 search_exclude: true
 ---
 
-# 目的
+# 關於
 
 - 建立Libel Web最大目的為資料記錄
 - 以防連尼住及望遠團隊以未知手段收Libel皮導至資料流失(此處個人認為插件與連登之間有利益衝突之疑)
