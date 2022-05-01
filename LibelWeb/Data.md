@@ -1389,11 +1389,10 @@ has_children: true
 |:-----|:--|:-----------|:-----|
 | 葉問代表我的心(閱讀越讀越毒) | 小心此人 | 假藉連登仔發表自己心底真實想法「一定係後生又懶又爛賭又唔理財先至81歲都要做清潔」。 | [🔗](https://lih.kg/aKvnsmV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/18271/18271.1_.png) |
 |  | 待定 | 狙擊cctoy稻草人 | [🔗](https://lihkg.com/thread/2012532/page/1) |
-|  | 搞分化 | 721前值,仲係度搞分化,周圍抹黑其他反對派組織 | [🔗](https://lihkg.com/thread/1335482/page/1) |
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 問題會員清單 & #241151 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 問題會員清單 提供
 曾用名稱：一嘢轟落去！，酸民的野望，我要攬妙，我要攬女，天水圍加度素
 ```
 
