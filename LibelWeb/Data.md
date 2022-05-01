@@ -427,6 +427,21 @@ has_children: true
 
 <div class="code-example" markdown="1">
 
+## #4213
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Tweety | 狗隻 | 請問Tweety(狗隻#4213)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2951665/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #4461
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
@@ -9511,6 +9526,22 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #167776
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 男朋友好好聞【3po空ac】 | 狗隻 | 請問男朋友好好聞(狗隻#167776)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2951665/page/1) |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：我要發脾氣
 ```
 
 ---
