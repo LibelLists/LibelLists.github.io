@@ -20,7 +20,7 @@ Label users on LIHKG
 【Libel】LIHKG 會員標籤插件
 {: .text-center}
   
- 【[主頁](https://kitce.github.io/libel/)】 【[討論](https://lih.kg/2971967)】 【[GitHub](https://github.com/kitce/libel)】 【[TG頻道](https://t.me/LibelOfficialChannel)】 【[TG群組](https://t.me/LibelOfficialGroup)】
+ 【[主頁](https://kitce.github.io/libel/){: .btn .btn-purple }】 【[討論](https://lih.kg/2971967){: .btn }】 【[GitHub](https://github.com/kitce/libel){: .btn }】 【[TG頻道](https://t.me/LibelOfficialChannel){: .btn }】 【[TG群組](https://t.me/LibelOfficialGroup){: .btn }】
  {: .text-center}
   
  Libel認證【戇鳩】會員名單 [https://kitce.github.io/libel/data/mock/subscriptions/sample1.json](https://kitce.github.io/libel/data/mock/subscriptions/sample1.json)
@@ -30,16 +30,16 @@ Label users on LIHKG
 
 其他推薦的插件
 {: .text-center}
-[顯示回覆用戶資料](https://lihkg.com/thread/1268574/page/1)
+[顯示回覆用戶資料](https://lihkg.com/thread/1268574/page/1){: .btn }
 {: .text-center}
-[顯示引用回覆資料](https://lihkg.com/thread/2377639/page/1)
+[顯示引用回覆資料](https://lihkg.com/thread/2377639/page/1){: .btn }
 {: .text-center}
-[共業 REDSTOP](https://redstop.info/download)
+[共業 REDSTOP](https://redstop.info/download){: .btn }
 {: .text-center}
 
 非插件式【Libel】
 {: .text-center}
 你試下手動呼吸(#92230)的TG bot
 {: .text-center}
-TG： [@unofficial_libel_bot](https://t.me/unofficial_libel_bot)
+TG： [@unofficial_libel_bot](https://t.me/unofficial_libel_bot){: .btn }
 {: .text-center}
