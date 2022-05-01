@@ -6,7 +6,7 @@ nav_order: 1
 search_exclude: true
 ---
 
-## 【[主頁](https://bit.ly/lihkg_on9_list){: .btn .btn-purple }】 【[GitHub](https://github.com/eat-play/on9_list){: .btn }】
+## [主頁](https://bit.ly/lihkg_on9_list){: .btn .btn-purple } 　[GitHub](https://github.com/eat-play/on9_list){: .btn }
 
 ---
 
