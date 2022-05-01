@@ -5,7 +5,7 @@ parent: Lihkg Libel Lists
 nav_order: 3
 search_exclude: true
 ---
-## 【[主頁](https://lih.kg/2908480){: .btn .btn-purple }】 【[GitHub](https://github.com/shiaifglshav/ChiBoyDogList){: .btn }】
+## [主頁](https://lih.kg/2908480){: .btn .btn-purple } 　[GitHub](https://github.com/shiaifglshav/ChiBoyDogList){: .btn }
 
 ---
 
