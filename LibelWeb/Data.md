@@ -969,10 +969,11 @@ nav_order: 3
 |:-----|:--|:-----------|:-----|
 | 范加尔(范加二人之境) | ⚠️ | 抹黑受襲的黃店，希望其負責人盡快被送中一了百了，近日又對被判入獄的同路人幸災樂禍。 | [🔗](https://lih.kg/azoPObV) • [🔗](https://lih.kg/qMuzszX) • [🔗](https://lih.kg/aGiukaV) • [🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/12034) |
 |  | 狗隻 | 請問Maguire(狗隻#12034)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/1816643/page/1) |
+|  | 支那種 | 用殘體 | [🔗](https://lih.kg/izkJqT) |
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳List &11663 提供
 曾用名稱：范加爾愛猁軍亞，Maguire，英超新冠軍利物浦，點解會變成咁？，鑬鈔鈀，范加爾，范紐卡斯爾，琳兵鬥者范加爾，范加爾反對無val
 ```
 
@@ -18371,3 +18372,132 @@ Example
 未知是否已ban
 ```
 
+---
+
+<div class="code-example" markdown="1">
+
+## #420424
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 張牧之 | 狗隻 | 請問張牧之(狗隻#420424)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2939915/page/1) | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #420554
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 狗肉師  | 狗隻 | 認為公屋仔跳樓=亂拋垃圾![](https://cdn.lihkg.com/assets/faces/big/sosad.gif)![](https://cdn.lihkg.com/assets/faces/big/good.gif) | [🔗](https://lihkg.com/thread/2951525/page/1) • [🖼️](https://na.cx/i/W2wS4ba.png) |
+|  | 狗隻 | 請問狗肉師(狗隻#420554)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2951579/page/1) |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #422213
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 大碌鳩亂咁fing | 嘲諷同路人 | 有同路人以抗爭口號為標題出Post鼓勵香港人，佢回應「過氣」。 | [🔗](https://lih.kg/ibMpBT) • [🖼️](https://na.cx/i/pmm1dbF.jpg) |
+|  | 狗隻 | 請問大碌鳩亂咁fing(狗隻#422213)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2823253/page/1) | 
+
+</div>
+```markdown
+由 LITrack-主要名單 & 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #422700
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 無知冇罪 | 狗隻 | 惡意發表毫無良知癌屍言論，並且使用殘體字「带」 | [🔗](https://lihkg.com/thread/2890277/page/1) • [🖼️](https://na.cx/i/BHmV2z5.png) |
+| 【空ac】 | 狗隻 | 請問無知冇罪(狗隻#422700)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2890277/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #423254
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 摩囉星 | ⚠️ | 消費死者陳彥霖並試圖製造fake news | [🔗](https://lihkg.com/thread/2907919/page/2) | 
+| (燥底嘈交師) | 支那種 | 用殘體 | [🔗](https://lih.kg/2876978) |
+
+</div>
+```markdown
+由 支囝狗隻LIST & #92230 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #425237
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 卑詩 | 同一句 | 每個po都講同一句：「On9，邊個話多人打針唔爆，多人打針係令爆嗰陣少人死。 唔識字就返去讀多D書，冇生個腦出嚟就縮返入老母閪度揾啦」 | [原po已死](https://lih.kg/bhnstzV) • [🔗](https://lih.kg/iiFPfT) • [🔗](https://lih.kg/bhovBjV) | 
+| 【5po空ac】 | 同一句 | 講同一句：「初一至初三新年流流冇人驗，初四開返咪初五一砲囉，雖然爆就遲早㗎喇」 | [🔗](https://lih.kg/bhnvPQV) • [🔗](https://lih.kg/bhnkxFV) | 
+|  | ？ | 1. 話武漢地政府相對處理得好，比其他國家少人死好多，佢地又封得準好多 2. 話「正常餐廳個app scan完你針卡只係驗真假，冇存，佢冇得返睇。同埋如果你針卡入安心，佢根本唔會scan你」 3. 女子攜嬰到大興邨拜年遭圍封　苦等奶粉10小時　煲粥水為女兒充飢，佢話「有粥食仲想點？叫政府派個奶媽上門好唔好？![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」 | 1. [🔗](https://lih.kg/ihJLNT) • 2. [🔗](https://lih.kg/vNbBfaX) • 3. [🔗](https://lih.kg/vQcGxPX) | 
+|  | 打支那字 | 打支那字「影响」 | [🔗](https://lih.kg/bhpypLV) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #426596
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 向山鐵也 | 狗隻 | 惡意支持獨裁政權攻打自由民主國家 | [🔗](https://lih.kg/2911858) | 
+|  | 狗隻 | 抹黑醫護 | [🔗](https://lih.kg/2892773) | 
+|  | 狗隻 | 請問向山鐵也(狗隻#426596)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2911873/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #429329
+
+| 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 合味道檸樂 | 狗隻 | 屈美國整病毒 | [🔗](https://lihkg.com/thread/2930375/page/1) • [🖼️](https://na.cx/i/7N6p978.png) |
+|  | 曱甴 | 請問合味道檸樂(曱甴#429329)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2930518/page/1) | 
+
+</div>
+```markdown
+由 支囝狗隻LIST & 老鳳List 提供
+```
