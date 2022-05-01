@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 閞於Libel Web
-parent: Data
+parent: Libel Web
 nav_order: 1
 search_exclude: true
 ---
