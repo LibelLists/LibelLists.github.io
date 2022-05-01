@@ -9,7 +9,7 @@ search_exclude: true
 # 關於
 
 - 建立Libel Web最大目的為資料記錄
-- 以防　連尼住及望遠團隊　{: .text-yellow-100 }　以未知手段收Libel皮導至資料流失(此處個人認為插件與連登之間有利益衝突之疑)
+- 以防　<a style="color:yellow"><b>連尼住及望遠團隊</b></a>　以未知手段收Libel皮導至資料流失(此處個人認為插件與連登之間有利益衝突之疑)
 - Libel原目的 係以插件功能取代連登原功能「封鎖功能」為主
 
 <div class="code-example" markdown="1">
