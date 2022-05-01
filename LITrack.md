@@ -6,7 +6,7 @@ nav_order: 2
 search_exclude: true
 ---
 
-## 【[主頁](https://tiny.cc/LITrack_GS){: .btn .btn-purple }】 【[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io){: .btn }】
+## [主頁](https://tiny.cc/LITrack_GS){: .btn .btn-purple } 　[GitHub](https://github.com/Kinki-Mochi/Kinki-Mochi.github.io){: .btn }
 
 ---
 
