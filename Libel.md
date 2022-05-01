@@ -17,7 +17,7 @@ Label users on LIHKG
 
 ---
 
-【Libel】LIHKG 會員標籤插件
+　Libel{: .label .label-yellow }　LIHKG 會員標籤插件
 {: .text-center}
   
  【[主頁](https://kitce.github.io/libel/){: .btn .btn-purple }】 【[討論](https://lih.kg/2971967){: .btn }】 【[GitHub](https://github.com/kitce/libel){: .btn }】 【[TG頻道](https://t.me/LibelOfficialChannel){: .btn }】 【[TG群組](https://t.me/LibelOfficialGroup){: .btn }】
