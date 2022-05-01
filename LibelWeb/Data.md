@@ -4798,12 +4798,12 @@ Example
 | 會員名稱[現時名稱]  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | kai龍(苗撚) | 待定 | 谷針撚 | [🔗](https://lihkg.com/thread/2874471/page/1) • [🔗](https://lih.kg/aOGyysV) | 
-|  | 被統戰 | 打cctoy同連登仔稻草人 | [🔗](https://lih.kg/bhMuwvV) | 
-|  | 被統戰 | 將熱狗歸類埋做cctoy，明明熱狗自己都會打cctoy稻草人 | [🔗](https://lih.kg/wfwoeyX) | 
+|  | 被統戰 | 1. 打cctoy同連登仔稻草人 2. 將熱狗歸類埋做cctoy，明明熱狗自己都會打cctoy稻草人 | 1. [🔗](https://lih.kg/bhMuwvV) • 2. [🔗](https://lih.kg/wfwoeyX) | 
+|  | 狗隻 | 請問kai龍(苗撚)(狗隻#66324)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2951665/page/1) |
 
 </div>
 ```markdown
-由 問題會員清單 提供
+由 問題會員清單 & 老鳳List 提供
 曾用名稱：數學廢柴，數學白痴，Elias，Jean，剛江有害，吾不會數學，吾不懂數學，葉姑成，今朝無酒，數學多莉雅，終極連登數學白痴，膠智的kai龍，vkai龍(五毛)
 ```
 
