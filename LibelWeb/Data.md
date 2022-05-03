@@ -20037,7 +20037,7 @@ Example
 由 老鳳List & #275331 提供
 ```
 
-<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: Black;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
+<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
 
 <button onclick="topFunction()" id="G2TopBtn" title="Go to top">Top</button> 
 
