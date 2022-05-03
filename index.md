@@ -17,9 +17,19 @@ search_exclude: true
      <img src="./Img/P_List.png" alt="Lists" />
   </p>
 
+<dl>
+
+<dt>
 本page建議用腦觀看，以下例子：
 {: .fs-6.text-red-300 }
 
-  <p>
-     <img src="./Img/example1.png" />
-  </p>
+![](./Img/example1.png)
+</dt>
+<dd>
+
+於Libel Web內
+
+![](./Img/example2.png)
+
+</dd>
+</dl>
