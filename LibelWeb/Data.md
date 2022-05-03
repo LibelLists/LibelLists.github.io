@@ -3,6 +3,7 @@ layout: default
 title: Libel Web
 nav_order: 3
 has_children: true
+permalink: /LibelWeb
 ---
 
 <div class="code-example" markdown="1">
