@@ -23,6 +23,6 @@ search_exclude: true
 
 ![](./Img/example1.png)
 
-於Libel Web內
+以搜尋功能或於Libel Web自行尋找，以下例子：
 
 ![](./Img/example2.png)
