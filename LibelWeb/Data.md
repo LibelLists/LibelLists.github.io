@@ -18691,6 +18691,8 @@ Example
 由 老鳳List & #275331 提供
 ```
 
+<span class="fs-3">
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button> 
+</span>
   
 <script>var mybutton = document.getElementById("myBtn");window.onscroll = function() {scrollFunction()};function scrollFunction() {if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {mybutton.style.display = "block";} else {mybutton.style.display = "none";}}function topFunction() {document.body.scrollTop = 0;document.documentElement.scrollTop = 0;}</script>
