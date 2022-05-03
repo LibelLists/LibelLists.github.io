@@ -19,7 +19,7 @@ has_children: true
 </div>
 ```markdown
 資料搜集自2022年4月10日前之版本
-極大多數【  】為本Page的標示
+極大多數【  】為本Page的標示　google search或需用戶自行更改設定
 ```
 
 ---
