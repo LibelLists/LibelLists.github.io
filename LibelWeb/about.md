@@ -31,21 +31,21 @@ search_exclude: true
 以下為常見標示
 
 【已ban】
-{: .label }
+{: .label .label-purple }
 【空ac】
-{: .label }
+{: .label .label-purple }
 【1po空ac】
-{: .label }
+{: .label .label-purple }
 【2po空ac】
-{: .label }
+{: .label .label-purple }
 【3po空ac】
-{: .label }
+{: .label .label-purple }
 【4po空ac】
-{: .label }
+{: .label .label-purple }
 【5po空ac】
-{: .label }
+{: .label .label-purple }
 【6po ac】
-{: .label }
+{: .label .label-purple }
 
 </div>
 ```markdown
