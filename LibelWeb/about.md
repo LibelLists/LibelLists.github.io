@@ -30,7 +30,22 @@ search_exclude: true
 
 以下為常見標示
 
-【已ban】　　【空ac】　　【1po空ac】　　【2po空ac】<br>【3po空ac】　　【4po空ac】　　【5po空ac】　　【6po ac】
+【已ban】
+{: .label }
+【空ac】
+{: .label }
+【1po空ac】
+{: .label }
+【2po空ac】
+{: .label }
+【3po空ac】
+{: .label }
+【4po空ac】
+{: .label }
+【5po空ac】
+{: .label }
+【6po ac】
+{: .label }
 
 </div>
 ```markdown
