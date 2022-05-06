@@ -5324,13 +5324,13 @@ Example
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 大東亜共栄圏 | 狗隻 | 話「開始羨慕當年有份衝嘅手足，而家佢哋可以日日堂食![](https://cdn.lihkg.com/assets/faces/pig/wail.gif)」 | [🔗](https://lih.kg/2838125) | 
-| (NiggerSlayer88) | on9 | 唔要中國製 / 奶共品牌, 但又玩原神 | [🔗](https://lih.kg/2935526) • [🖼️](https://na.cx/i/DYFZexH.png) |
+| (撐警女權BLM鏡粉) | on9 | 唔要中國製 / 奶共品牌, 但又玩原神 | [🔗](https://lih.kg/2935526) • [🖼️](https://na.cx/i/DYFZexH.png) |
 |  | 狗隻 | 請問大東亜共栄圏(狗隻#69753)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2867404/page/1) | 
 
 </div>
 ```markdown
 由 支囝狗隻LIST & 老鳳List 提供
-曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488
+曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488，NiggerSlayer88
 ```
 
 ---
