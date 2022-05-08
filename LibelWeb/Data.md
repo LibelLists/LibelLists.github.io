@@ -20132,7 +20132,7 @@ Example
 ```
 
 
-<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;} .main-header{bottom:0px;overflow-x: hidden;} .main-content-wrap{overflow-y: scroll;}</style>
+<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
 
 <button onclick="topFunction()" id="G2TopBtn" title="Go to top">Top</button> 
 
