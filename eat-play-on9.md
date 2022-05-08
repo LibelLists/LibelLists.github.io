@@ -11,8 +11,10 @@ search_exclude: true
 ---
 
 #### OFF囝戇鳩LIST (209人)
+<div>
 <div class="offlist1">
 https://eat-play.github.io/on9_list/LIHKG-Label-List-power_off-1886.json
+</div>
 </div>
 
 #### OFF囝戇鳩LIST (47人)
