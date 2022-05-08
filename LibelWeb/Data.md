@@ -6,6 +6,8 @@ has_children: true
 permalink: /LibelWeb
 ---
 
+<div class="scroll-container">
+  
 <div class="code-example" markdown="1">
 
 ## 注意：Search功能僅限於英數及部份符號
@@ -20131,8 +20133,8 @@ Example
 此用戶註冊日期為2022年4月12日
 ```
 
-
-<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;} .main-content-wrap{overflow-y: scroll;}</style>
+</div>
+<style>body {font-family: Arial, Helvetica, sans-serif;font-size: 20px;}#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;} .scroll-container{overflow-y: scroll;}</style>
 
 <button onclick="topFunction()" id="G2TopBtn" title="Go to top">Top</button> 
 
