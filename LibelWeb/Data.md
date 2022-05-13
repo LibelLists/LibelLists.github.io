@@ -202,7 +202,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #1315 • nigga
+## #1315 nigga
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
