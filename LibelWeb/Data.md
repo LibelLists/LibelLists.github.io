@@ -1352,7 +1352,7 @@ permalink: /LibelWeb
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 人權教師爺 | 【已BAN】 | [詳細](./LibelWeb/Data/16719){: .btn } | [🔗](./LibelWeb/Data/16719) • [警告🖼️內含噁心影象](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2021/16719/16719.1_.png){: .btn } | 
+| 人權教師爺 | 【已BAN】 | [詳細](./LibelWeb/Data/16719){: .btn } | [🔗](./LibelWeb/Data/16719){: .btn .mr-2  }[警告🖼️內含噁心影象](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2021/16719/16719.1_.png){: .btn } | 
 
 </div>
 ```markdown
