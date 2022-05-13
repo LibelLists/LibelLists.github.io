@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Libel Web
 nav_order: 3
