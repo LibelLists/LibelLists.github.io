@@ -30,7 +30,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #35092 • 財爺 • [連登起底](https://lihkg.com/profile/35092){: .btn } • 註冊日期: 2016年11月28日
+## #35092 • 財爺 • <span class="fs-3">[連登起底](https://lihkg.com/profile/35092){: .btn }</span> • 註冊日期: 2016年11月28日
 
 | 標籤時會員名稱  | 標籤 | 標籤原因  | 鏈結  |
 |:-----|:-----------|:-----------|:-----|
