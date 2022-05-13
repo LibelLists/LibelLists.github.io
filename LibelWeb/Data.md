@@ -202,7 +202,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #1315
+## #1315 • nigga • [連登起底](https://lihkg.com/profile/1315){: .btn } • 註冊日期: 2016年11月25日
 
 | 會員名稱(現時名稱)  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
