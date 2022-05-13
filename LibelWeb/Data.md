@@ -1336,7 +1336,7 @@ permalink: /LibelWeb
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 卧龍躍馬終黃土 | ⚠️ | 言論偏幫黑警 | [🔗原po已死](https://lih.kg/fMpGMT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/16061/16061.1_.png){: .btn } | 
+| 卧龍躍馬終黃土 | ⚠️ | 言論偏幫黑警 | [原po已死](https://lih.kg/fMpGMT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/16061/16061.1_.png){: .btn } | 
 
 </div>
 ```markdown
