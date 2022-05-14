@@ -1,6 +1,6 @@
 title: Libel Lists
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
+color_scheme: test
 search_enabled: true
 search.rel_url: false
 aux_links:
@@ -9,4 +9,3 @@ aux_links:
 permalink: /:title/
 
 search.tokenizer_separator: /[\s\-/]+/
-color_scheme: test
