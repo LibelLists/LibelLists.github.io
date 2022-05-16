@@ -1826,6 +1826,21 @@ Special Thanks：power_off(#1886)
 
 <div class="code-example" markdown="1">
 
+## #25003 • 青檸雪葩 • <span class="fs-4">[連登起底](https://lihkg.com/profile/25003){: .btn }</span> • 註冊日期: 2016年11月26日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 青檸雪葩】 | 狗隻 | 請問青檸雪葩(狗隻#25003)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/3006469/page/1){: .btn } | 
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #25059 • ゆらゆら帝国 • <span class="fs-4">[連登起底](https://lihkg.com/profile/25059){: .btn }</span> • 註冊日期: 2016年11月26日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
