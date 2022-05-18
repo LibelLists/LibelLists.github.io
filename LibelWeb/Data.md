@@ -7099,7 +7099,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 球王朗尼(已上岸) | 侮辱同路人 | 「手足唔坐監，其他人邊走到」 | [🔗](https://lih.kg/uozMfxX){: .btn .mr-2  }[🖼️](https://na.cx/i/Foaky2Q.jpg){: .btn } | 
 |  | 風向狗 | 經常消費「梁天琦」開post問假設性質問題，試圖分化同路人，最近直頭連人哋個名都打錯成「天倚」。 | [🔗](https://lih.kg/2854423){: .btn .mr-2  }[🖼️](https://na.cx/i/y68BRQi.jpg){: .btn } |
-|  | 狗隻 | 請問球王朗尼(已上岸)(狗隻#98421)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3005577/page/1) | 
+|  | 狗隻 | 請問球王朗尼(已上岸)(狗隻#98421)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3005577/page/1){: .btn .mr-2  } | 
 
 </div>
 ```markdown
@@ -9502,6 +9502,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 滿地花生【5po ac】 | 仆街仔 | 對東涌雙屍命案的女死者表示「冇被性侵痕跡？有冇咁浪費啊」。 | [🔗](https://lih.kg/turhFpX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/148447/148447.1_.png){: .btn } | 
+|  | 狗隻 | 請問滿地花生(狗隻#148447)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3009369){: .btn .mr-2  } | 
 
 </div>
 ```markdown
