@@ -9409,7 +9409,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #146917 • 靠@自己最撚重要 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
+## #146917 • 習慣咗就冇事 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
