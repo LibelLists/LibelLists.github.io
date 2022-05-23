@@ -233,6 +233,22 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
+## #1414 • 社大英靈 • <span class="fs-4">[連登起底](https://lihkg.com/profile/1414){: .btn }</span> • 註冊日期: 2016年11月25日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 社大英靈 | 曱甴 | 請問(曱甴#1414)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread//page/1){: .btn } | 
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：我霆粉我自豪，Pringles，樓下有個大波妹，頌樂樂不如獨樂樂
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #1426 • 沙洛文-卡勞 • <span class="fs-4">[連登起底](https://lihkg.com/profile/1426){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
