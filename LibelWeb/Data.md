@@ -8042,7 +8042,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #119485 • 輸死你味呀清 • <span class="fs-4">[連登起底](https://lihkg.com/profile/119485){: .btn }</span> • 註冊日期: 2017年5月27日
+## #119485 • 返工好燃悶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/119485){: .btn }</span> • 註冊日期: 2017年5月27日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -8052,7 +8052,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
-曾用名稱：8526423，可唔可以做你隻兵，你尷唔尷尬呀
+曾用名稱：8526423，可唔可以做你隻兵，你尷唔尷尬呀，輸死你味呀清
 ```
 
 ---
@@ -8111,7 +8111,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 噴火龍2017(高追低炒) | 狗隻 | 請問噴火龍2017(狗隻#119906)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2751030/page/1){: .btn } | 
+| 噴火龍2017 | 狗隻 | 請問噴火龍2017(狗隻#119906)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2751030/page/1){: .btn } | 
 
 </div>
 ```markdown
@@ -9152,7 +9152,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #139173 • 加速世界 • <span class="fs-4">[連登起底](https://lihkg.com/profile/139173){: .btn }</span> • 註冊日期: 2017年8月21日
+## #139173 • 八九寺真宵 • <span class="fs-4">[連登起底](https://lihkg.com/profile/139173){: .btn }</span> • 註冊日期: 2017年8月21日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -9161,7 +9161,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST 提供
-曾用名稱：對不起是我膚淺了
+曾用名稱：對不起是我膚淺了，加速世界
 ```
 
 ---
@@ -9278,7 +9278,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #144014 • _森林木_ • <span class="fs-4">[連登起底](https://lihkg.com/profile/144014){: .btn }</span> • 註冊日期: 2017年9月5日
+## #144014 • <a>_森林木_</a> • <span class="fs-4">[連登起底](https://lihkg.com/profile/144014){: .btn }</span> • 註冊日期: 2017年9月5日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
