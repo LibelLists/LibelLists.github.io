@@ -3524,7 +3524,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #43794 • 訴求就是上班 • <span class="fs-4">[連登起底](https://lihkg.com/profile/43794){: .btn }</span> • 註冊日期: 2016年11月29日
+## #43794 • 趙東師傅 • <span class="fs-4">[連登起底](https://lihkg.com/profile/43794){: .btn }</span> • 註冊日期: 2016年11月29日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -3533,6 +3533,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
+曾用名稱：訴求就是上班
 ```
 
 ---
