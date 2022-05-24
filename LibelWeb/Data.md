@@ -11242,15 +11242,16 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #193386 •  • <span class="fs-4">[連登起底](https://lihkg.com/profile/193386){: .btn }</span> • 註冊日期: 2018年7月4日
+## #193386 • 錡行種 • <span class="fs-4">[連登起底](https://lihkg.com/profile/193386){: .btn }</span> • 註冊日期: 2018年7月4日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 錡行種(肥鼠細隻) | ZA洗版狗 | 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbsLV){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/193386/193386.1_.png){: .btn } | 
+| 錡行種 | ZA洗版狗 | 張貼獲得利益之連結、推薦碼或聯絡方式用作 ZA 虛擬銀行的抽獎宣傳活動。 | [🔗](https://lih.kg/bgjbsLV){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/193386/193386.1_.png){: .btn } | 
 
 </div>
 ```markdown
 由 OFF囝戇鳩LIST 提供
+曾用名稱：肥鼠細隻
 ```
 
 ---
