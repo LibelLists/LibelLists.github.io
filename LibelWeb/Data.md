@@ -4382,7 +4382,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 重力態氵青0 | 愛支風向狗 | 「新一批科興疫苗由北京運抵本港」，佢回應「香港有救了，感謝黨![](https://cdn.lihkg.com/assets/faces/normal/adore.gif)」。 | [🔗](https://lih.kg/bhJPQfV){: .btn .mr-2  }[🖼️](https://na.cx/i/jOtyW4Y.jpg){: .btn } | 
-| (口罩戴到落棺材) | 藍絲言論 | 阮民安因「國安法」被捕，佢回應「抵啦政府不知幾好，希望佢坐完幾碌之後生性」。 | [原po已死](https://lih.kg/bhLtoiV){: .btn .mr-2  }[🖼️](https://na.cx/i/Vx1pjii.jpg){: .btn } | 
+|  | 藍絲言論 | 阮民安因「國安法」被捕，佢回應「抵啦政府不知幾好，希望佢坐完幾碌之後生性」。 | [原po已死](https://lih.kg/bhLtoiV){: .btn .mr-2  }[🖼️](https://na.cx/i/Vx1pjii.jpg){: .btn } | 
 |  | 波台狗 | 連登起底發現佢係一隻波台狗。 | [🔗](https://lih.kg/1195900){: .btn .mr-2  }[🖼️](https://na.cx/i/nYxTcDi.jpg){: .btn } | 
 
 </div>
