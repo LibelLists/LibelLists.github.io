@@ -1441,7 +1441,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #18114 • 湖北街李彩華 • <span class="fs-4">[連登起底](https://lihkg.com/profile/18114){: .btn }</span> • 註冊日期: 2016年11月26日
+## #18114 • 金牛肥牛鍋 • <span class="fs-4">[連登起底](https://lihkg.com/profile/18114){: .btn }</span> • 註冊日期: 2016年11月26日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -1451,7 +1451,7 @@ permalink: /LibelWeb
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & 老鳳List 提供
-曾用名稱：大撚龍，情人沒我份
+曾用名稱：大撚龍，情人沒我份，湖北街李彩華
 ```
 
 ---
