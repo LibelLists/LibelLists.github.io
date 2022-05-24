@@ -9278,7 +9278,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #144014 • <a>_森林木_</a> • <span class="fs-4">[連登起底](https://lihkg.com/profile/144014){: .btn }</span> • 註冊日期: 2017年9月5日
+## #144014 • ˍ森林木ˍ • <span class="fs-4">[連登起底](https://lihkg.com/profile/144014){: .btn }</span> • 註冊日期: 2017年9月5日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
