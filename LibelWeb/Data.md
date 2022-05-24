@@ -10982,7 +10982,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #187772 •  • <span class="fs-4">[連登起底](https://lihkg.com/profile/187772){: .btn }</span> • 註冊日期: 2018年5月21日
+## #187772 • 無法連接伺服器 • <span class="fs-4">[連登起底](https://lihkg.com/profile/187772){: .btn }</span> • 註冊日期: 2018年5月21日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
