@@ -15167,6 +15167,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #247639 • 珍鎗實蛋 • <span class="fs-4">[連登起底](https://lihkg.com/profile/247639){: .btn }</span> • 註冊日期: 2019年4月10日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 珍鎗實蛋 | 狗隻 | 請問珍鎗實蛋(狗隻#247639)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3020159/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：你厚多士，你有冇低抗力【P】，李家超久唔撚搭八【P】
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #275238 • 東亞懦夫 • <span class="fs-4">[連登起底](https://lihkg.com/profile/275238){: .btn }</span> • 註冊日期: 2019年7月6日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
