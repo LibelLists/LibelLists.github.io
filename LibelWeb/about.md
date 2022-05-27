@@ -9,7 +9,7 @@ search_exclude: true
 # 關於
 
 - 建立Libel Web最大目的為資料記錄
-- 盡量以精簡為主重現Libel
+- 盡量以精簡為主並重現Libel
 - 其他：Libel原目的 係以插件功能取代連登原功能「封鎖功能」為主
 
 <div class="code-example" markdown="1">
