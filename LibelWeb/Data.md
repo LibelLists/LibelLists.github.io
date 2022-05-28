@@ -7271,10 +7271,11 @@ Example
 |  | 假膠 | 1. 鳩問黃藍 2. 鳩叫手足 | 1. [🔗](https://lih.kg/hRhKGT){: .btn .mr-2  }2. [🔗](https://lih.kg/aJMEBfV){: .btn } | 
 |  | 獨醒撚 | 馬後炮鞭抗爭討論post，認為開post討論抗爭嘅人自己就一定無份參與，相信「叫人衝自己鬆」之類嘅藍屍論調 | [🔗](https://lihkg.com/thread/2935884/page/1){: .btn } | 
 |  | 待定 | 1. 相信水人送頭論，無視每個人獨立思考 2. 反國際線 | 1. [🔗](https://lih.kg/bhAHmBV){: .btn .mr-2  }2. [🔗](https://lih.kg/vqJihqX){: .btn } | 
+|  | 曱甴 | 請問S.Rudy(曱甴#100570)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3020872){: .btn } | 
 
 </div>
 ```markdown
-由 問題會員清單 提供
+由 問題會員清單 & 老鳳List 提供
 曾用名稱：Kolarov13
 ```
 
