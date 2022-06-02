@@ -7189,10 +7189,10 @@ Example
 |  | 小心此人 | 出言侮辱同路人。 | [🔗](https://lih.kg/2404185){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/99725/99725.1_.png){: .btn .mr-2  }[🖼️](https://na.cx/i/v8MtNQ6.png){: .btn } | 
 |  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，過往曾發表大量支持抗爭言論，但係自2020年下半年至2021年初左右，不時發表嘲諷同路人嘅言論。 | [🔗](https://lihkg.com/profile/99725){: .btn .mr-2  }[🖼️](https://na.cx/i/9GpbLCM.png){: .btn } | 
 |  | 正仆街 | 開Post表示「見到依家封區好撚心涼」，並嘲諷同路人。 | [🔗](https://lih.kg/2396643){: .btn .mr-2  }[🖼️](https://na.cx/i/gpfuxhM.png){: .btn } | 
-
+|  | 狗隻 | 請問Pablo_Gavi(Dest)(狗隻#99725)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3027387){: .btn } | 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
 曾用名稱：香蕉仔，吸血鬼阿零，波波華，Sergino_Dest
 ```
 
@@ -18480,11 +18480,12 @@ Example
 |:-----|:--|:-----------|:-----|
 | 特倫斯夢遺仙境 | 假膠 | 1. 鳩叫手足，並相信condom論 2. 扮堅持緊唔用安心出行嘅香港人，實質嘲笑佢哋要兜遠路返屋企 | 1. [🔗](https://lih.kg/bccMpfV){: .btn .mr-2  }2. [🔗](https://lih.kg/2909114){: .btn } | 
 |  | 待定 | 認為「香港本身就係中國地方」 | [🔗](https://lih.kg/wgRHeLX){: .btn } | 
+|  | 狗隻 | 請問特倫斯夢遺仙境(狗隻#374180)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3027391){: .btn } | 
 |  | 參考資料 | 熱民支持者 | [🔗](https://lih.kg/baOJQPV){: .btn } | 
 
 </div>
 ```markdown
-由 問題會員清單 提供
+由 問題會員清單 & 老鳳List 提供
 曾用名稱：我想行開忘記世界，甘心替代您，林家謙個妹
 ```
 
