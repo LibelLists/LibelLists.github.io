@@ -9,6 +9,8 @@ search_exclude: true
 # 關於
 
 - 建立Libel Web最大目的為資料記錄
+ - 以現有已公開list為主
+ - 過去的會員名稱僅以開post時之名稱為主
 - 盡量以精簡為主並重現Libel
 - 其他：Libel原目的 係以插件功能取代連登原功能「封鎖功能」為主
 
@@ -22,7 +24,7 @@ search_exclude: true
 
 </div>
 ```markdown
-各清單均使用2022年4月10日前之版本
+各清單均使用2022年4月10日前之版本及針對老鳳List進行長期支援
 ```
 
 <div class="code-example" markdown="1">
