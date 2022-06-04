@@ -24,7 +24,7 @@ search_exclude: true
 
 </div>
 ```markdown
-各清單均使用2022年4月10日前之版本及針對老鳳List進行長期支援
+各清單均使用2022年4月10日前之版本 及 針對老鳳List進行長期支援
 ```
 
 <div class="code-example" markdown="1">
