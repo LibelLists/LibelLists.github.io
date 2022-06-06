@@ -5216,7 +5216,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #66324 • kai龍(苗撚) • <span class="fs-4">[連登起底](https://lihkg.com/profile/66324){: .btn }</span> • 註冊日期: 2016年12月15日
+## #66324 • 膠智的kai龍 • <span class="fs-4">[連登起底](https://lihkg.com/profile/66324){: .btn }</span> • 註冊日期: 2016年12月15日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
