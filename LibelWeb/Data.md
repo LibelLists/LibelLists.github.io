@@ -16531,10 +16531,11 @@ Example
 | Antonio_Blanco | 正仆街 | 為「謊稱自己喺知名黃店返過工及受到欺凌」嘅波台狗護航。 | [🔗](https://lih.kg/bhEDFjV){: .btn .mr-2  }[🖼️](https://na.cx/i/cy3KEDr.jpg){: .btn } | 
 |  | 攬住塊鏡 | 阮民安被捕都可以扯到姜濤，只有風向狗先會咁做。 | [🔗](https://lih.kg/2886872){: .btn .mr-2  }[🖼️](https://na.cx/i/tfxYnBX.jpg){: .btn } | 
 |  | 波台狗 | Google及連登起底發現大量波台狗Post都有佢嘅蹤跡，佢經常為被狙擊嘅波台狗護航。 | [🔗](https://bit.ly/3sxfHlC){: .btn .mr-2  }[🖼️](https://na.cx/i/X0M9AJs.jpg){: .btn } | 
+|  | 曱甴 | 請問疤疲(曱甴#318890)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3031756/page/1){: .btn } | 
 
 </div>
 ```markdown
-由 LITrack-主要名單 提供
+由 LITrack-主要名單 & 老鳳List 提供
 曾用名稱：rodrygoes，rodrygo_27，rodrygo_25，Antonio_Blanco
 ```
 
