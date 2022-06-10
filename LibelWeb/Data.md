@@ -2348,7 +2348,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 我要祼跑(🗿 用戶已刪除帳號) | ⚠️ | 有會員指他涉嫌散播不實資訊，誣衊港大教授陳祖為。 | [原po已死](https://lih.kg/1791710){: .btn .mr-2  }[🔗](https://lih.kg/1792743){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/30209/){: .btn } | 
+| 我要祼跑 | ⚠️ | 有會員指他涉嫌散播不實資訊，誣衊港大教授陳祖為。 | [原po已死](https://lih.kg/1791710){: .btn .mr-2  }[🔗](https://lih.kg/1792743){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/30209/){: .btn } | 
 
 </div>
 ```markdown
