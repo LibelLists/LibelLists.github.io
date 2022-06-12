@@ -8583,11 +8583,10 @@ Example
 |:-----|:--|:-----------|:-----|
 | 那須川天心. | ⚠️ | 恥笑被捕手足。 | [🔗](https://lih.kg/aucuexV){: .btn .mr-2  }[🔗](https://lih.kg/fiCDqT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/127033){: .btn } | 
 |  | 仆街仔 | 對東涌雙屍命案的女死者表示「應該比多啲人中出完先」。 | [🔗](https://lih.kg/hgEFwT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/127033/127033.1_.png){: .btn } | 
-|  | 狗隻 | 請問那須川天心.(狗隻#127033)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2548389/page/1){: .btn } | 
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST 提供
 曾用名稱：試著說，有個16歲女友，來吧倒轉地球.
 ```
 
