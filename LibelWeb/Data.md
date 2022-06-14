@@ -20290,6 +20290,21 @@ Example
 此用戶註冊日期為2022年4月12日 曾用名稱：Utopian
 ```
 
+---
+
+<div class="code-example" markdown="1">
+
+## #476357 • 幫辦 • <span class="fs-4">[連登起底](https://lihkg.com/profile/476357){: .btn }</span> • 註冊日期: 2022年6月7日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 幫辦【空ac】 | 狗隻 | 請問幫辦(狗隻#476357)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3040575/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳List 提供
+```
+
 <style>#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
 
 <button onclick="topFunction()" id="G2TopBtn" title="Go to top">Top</button> 
