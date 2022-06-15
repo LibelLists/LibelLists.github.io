@@ -10942,7 +10942,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #186392 • 是米色拉 • <span class="fs-4">[連登起底](https://lihkg.com/profile/186392){: .btn }</span> • 註冊日期: 20
+## #186392 • 是米色拉 • <span class="fs-4">[連登起底](https://lihkg.com/profile/186392){: .btn }</span> • 註冊日期: 2018年5月11日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -19678,11 +19678,11 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #405645 • 潮吹女護士 • <span class="fs-4">[連登起底](https://lihkg.com/profile/405645){: .btn }</span> • 註冊日期: 20
+## #405645 • 潮吹女護士 • <span class="fs-4">[連登起底](https://lihkg.com/profile/405645){: .btn }</span> • 註冊日期: 2021年8月12日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 潮吹女護士【空ac】 | 狗隻 | 請問潮吹女護士(狗隻#405645)你屙尿嗰陣屹起左腳定右腳? | [🔗](){: .btn } |
+| 潮吹女護士【空ac】 | 狗隻 | 請問潮吹女護士(狗隻#405645)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3026230/page/1){: .btn } |
 
 </div>
 ```markdown
