@@ -20334,7 +20334,7 @@ Example
 </div>
 ```markdown
 由 老鳳List 提供
-此用戶註冊日期為2022年4月12日 曾用名稱：Utopian
+曾用名稱：Utopian
 ```
 
 ---
