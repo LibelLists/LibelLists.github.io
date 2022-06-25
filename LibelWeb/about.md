@@ -43,9 +43,9 @@ search_exclude: true
 {: .label .label-purple }
 【3po空ac】
 {: .label .label-purple }
-【4po空ac】
+【4po ac】
 {: .label .label-purple }
-【5po空ac】
+【5po ac】
 {: .label .label-purple }
 【6po ac】
 {: .label .label-purple }
