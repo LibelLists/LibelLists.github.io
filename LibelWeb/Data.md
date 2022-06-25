@@ -8088,7 +8088,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| Alex_Lawther |  | [詳細](./LibelWeb/Data/118346) | [🔗](./LibelWeb/Data/118346){: .btn } | 
+| Alex_Lawther |  | [詳細](./LibelWeb/Data/118346){: .btn } | [🔗](./LibelWeb/Data/118346){: .btn } | 
 
 </div>
 
