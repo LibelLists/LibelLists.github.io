@@ -11468,6 +11468,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #195323 • 焗豬扒妹真心 • <span class="fs-4">[連登起底](https://lihkg.com/profile/195323){: .btn }</span> • 註冊日期: 2018年7月18日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 支持香港TVbb | 狗隻 | 認為「留得低嘅應該都係賤種港豬，死人打卡撚。」 | [🔗](https://lih.kg/3011352){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：叫春王鄺俊宇，精液雞皇飯，我叫哈姆太郎，鄺俊宇，進興大佬劉馬車，洪英頭目笨豬，反港女革命軍，勇武余思雨，食女神190陳偉昌，高雷杰史殺入警隊，史上最強姜圖
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #195904 • IY3TS • <span class="fs-4">[連登起底](https://lihkg.com/profile/195904){: .btn }</span> • 註冊日期: 2018年7月20日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
@@ -11615,13 +11631,14 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 43碎（唔玩膠） | 親共少數派 | 1. 話得連登會注重黃藍，話食咗藍店好耐 2. 嘲諷人哋曾經出po呼籲支援理大 | 1. [🔗](https://lih.kg/iaphfT){: .btn .mr-2  }2. [🔗](https://lih.kg/aLoniRV){: .btn } | 
+| 43碎（唔玩膠） | 狗隻 | 1. 問「疫情咁嚴重 算唔算係因為連登仔以為係just a flu嘅問題」2. 問「國泰嗰條空少算唔算千古罪人 搞到香港雞毛鴨血![](https://cdn.lihkg.com/assets/faces/normal/dead.gif)![](https://cdn.lihkg.com/assets/faces/normal/dead.gif)![](https://cdn.lihkg.com/assets/faces/normal/dead.gif)」3. 話「移英之後俾人歧視 準備回流」, 但被人發現呢排係香港觀塘, 見#206 | [🔗](https://lih.kg/2886624){: .btn .mr-2 }[🔗](https://lih.kg/2884189){: .btn .mr-2 }[🔗](https://lih.kg/3041010){: .btn } |
+|  | 親共少數派 | 1. 話得連登會注重黃藍，話食咗藍店好耐 2. 嘲諷人哋曾經出po呼籲支援理大 | 1. [🔗](https://lih.kg/iaphfT){: .btn .mr-2  }2. [🔗](https://lih.kg/aLoniRV){: .btn } | 
 |  | 支那種 | 嘲諷19年推po上熱門嘅文宣手法，但講錯做熱搜，疑似玩開微博 | [🔗](https://lih.kg/hEhgKT){: .btn } | 
 |  | 假膠 | 1. 屈黃，話用youtube已經算黃 2. 扮演鏡粉屈人係TVB PR | 1. [🔗](https://lih.kg/bbCjhtV){: .btn .mr-2  }2. [🔗](https://lih.kg/hjQymT){: .btn } | 
 
 </div>
 ```markdown
-由 問題會員清單 提供
+由 支囝狗隻LIST & 問題會員清單 提供
 曾用名稱：43碎(失業）
 ```
 
@@ -16495,6 +16512,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | PhilIvey2.0 | 分化撚 | 俾樓主發現係分化撚 | [原po已死](https://lih.kg/tuROGQX){: .btn .mr-2  }[🖼️](https://na.cx/i/BWeDnRH.png){: .btn } | 
+|  | 自認五毛 | 自認五毛 | [🔗](https://lih.kg/xffjHPX){: .btn } |
 
 </div>
 ```markdown
@@ -17996,7 +18014,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 革爾 | 行騙狗隻 | 管理員證實格爾使用分身或有關聯帳號「自問自答」及「自我稱讚」形式進行宣傳及網絡打手活動 | [🔗](https://lih.kg/2061414){: .btn .mr-2 }[🖼️](https://na.cx/i/b4dQOXx.png){: .btn } |
 |  | Econ攞F | 認為加息縮表只係短期做下show | [🔗](https://lih.kg/bkstcaV){: .btn } |
-|  | 牛市股神![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif)![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif) | 以太幣2022年底目標價一萬美元 | [🔗](https://lih.kg/2969783){: .btn } |
+|  | 牛市股神![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif)![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif) | 以太幣2022年底目標價一萬美元 | [🔗](https://lih.kg/2969783){: .btn .mr-2 }[🖼️](https://na.cx/i/KnnsU7Y.jpg){: .btn } |
 |  | 自大傻仔![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif)![](https://cdn.lihkg.com/assets/faces/lm2/hoho.gif) | 話「就係想比多D傻仔恥笑 等時間證明分析是對是錯 到時睇佢地有幾酸一定更好笑 有無連登我都係加拿大嘆緊世界 你睇到連登咁大證明你個井底有幾細」 | [🔗](https://lih.kg/bkstbrV){: .btn } |
 
 </div>
@@ -19683,6 +19701,21 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #403512 • G9GLOL • <span class="fs-4">[連登起底](https://lihkg.com/profile/403512){: .btn }</span> • 註冊日期: 2021年7月11日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| G9GLOL【5po ac】 | 狗隻 | 話識佢(梁凌杰)屋企人，話其實佢嗰陣爭落好多外圍所以跳樓 | [🔗](https://lih.kg/bnFhBEV){: .btn .mr-2 }[🖼️](https://na.cx/i/rS7dnMC.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #403632 • 留名俠 • <span class="fs-4">[連登起底](https://lihkg.com/profile/403632){: .btn }</span> • 註冊日期: 2021年7月13日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
@@ -20396,6 +20429,22 @@ Example
 </div>
 ```markdown
 由 老鳳List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #450990 • 勿信騙子KOL • <span class="fs-4">[連登起底](https://lihkg.com/profile/450990){: .btn }</span> • 註冊日期: 2022年4月12日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 勿信騙子KOL | 五毛 | 支持五毛Tony_Stark, 仲同五毛大波妹、富途末路互含 | [🔗](https://lih.kg/iEmCgT){: .btn } |
+| 【空ac】 | 五毛 | 話支那人就是國恥同老母面一齊出書呃人錢, 不斷叫人狙擊佢, 完全唔睇支那人就是國恥開過po「請問麵咪媽(狗隻#81150)你屙尿嗰陣屹起左腳定右腳?」屌9老母面 | [🔗](https://lih.kg/bniKywV){: .btn .mr-2 }[🖼️](https://na.cx/i/Qp1GUnm.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
 ```
 
 ---
