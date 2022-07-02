@@ -2025,10 +2025,11 @@ Special Thanks：power_off(#1886)
 |  | 狗隻 | 話「比班所謂勇武既後生仔話事 成堆一車車送入牢房![](https://cdn.lihkg.com/assets/faces/normal/dead.gif)」 | [🔗](https://lih.kg/3034497){: .btn } |
 |  | 狗隻 | 標題係「旺角暴徒梁天琦坐監慶祝區！！！」 | [🔗](https://lih.kg/697449){: .btn } |
 |  | 狗隻 | 話「黑暴就快過左三年，TVB都仲未執。。。」 | [🔗](https://lih.kg/3003067){: .btn } |
+|  | 狗隻 | 請問沈姿潤食蛋糕(狗隻#27163)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3061716){: .btn } |
 
 </div>
 ```markdown
-由 支囝狗隻LIST 提供
+由 支囝狗隻LIST & 老鳳List 提供
 ```
 
 ---
