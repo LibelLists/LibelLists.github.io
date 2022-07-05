@@ -7055,7 +7055,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #95587 • Verna • <span class="fs-4">[連登起底](https://lihkg.com/profile/95587){: .btn }</span> • 註冊日期: 2017年3月24日
+## #95587 • ShigaLin • <span class="fs-4">[連登起底](https://lihkg.com/profile/95587){: .btn }</span> • 註冊日期: 2017年3月24日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -7064,7 +7064,7 @@ Example
 </div>
 ```markdown
 由 老鳳List 提供
-曾用名稱：午夜牛郎
+曾用名稱：午夜牛郎，Verna
 ```
 
 ---
@@ -7835,7 +7835,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #113922 • AMD_Yes！ • <span class="fs-4">[連登起底](https://lihkg.com/profile/113922){: .btn }</span> • 註冊日期: 2017年5月3日
+## #113922 • 俾返個老婆我-P • <span class="fs-4">[連登起底](https://lihkg.com/profile/113922){: .btn }</span> • 註冊日期: 2017年5月3日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -7844,7 +7844,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：港妹心很累，好似隻狗咁呀
+曾用名稱：港妹心很累，好似隻狗咁呀，AMD_Yes！
 ```
 
 ---
@@ -8534,7 +8534,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #125429 • 羅素的哀嗚 • <span class="fs-4">[連登起底](https://lihkg.com/profile/125429){: .btn }</span> • 註冊日期: 2017年6月27日
+## #125429 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/125429){: .btn }</span> • 註冊日期: 2017年6月27日
 
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
