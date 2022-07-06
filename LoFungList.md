@@ -5,11 +5,11 @@ parent: Lihkg Libel Lists
 nav_order: 5
 search_exclude: true
 ---
-## [主頁](https://github.com/LibelLists/LoFungList){: .btn .btn-purple }
+## [主頁](https://github.com/LibelLists/LoFungList){: .btn .btn-purple .mr-2 }[GitHub](https://libellists.github.io/LoFungList/LoFungList.json){: .btn }
 
 ---
 
-#### 老鳳狙擊LIST (759) [*1](#1-原list由老鳳授權v4kfdgew8tlihkg92230--你試下手動呼吸代理) [GitHub](https://github.com/V4KFDgEw8T/xrsbkvnfay){: .btn }
+#### 老鳳狙擊LIST (759) [*1](#1-原list由老鳳授權v4kfdgew8tlihkg92230--你試下手動呼吸代理-並由本站fork後進行更新) 
 ```
 https://libellists.github.io/LoFungList/LoFungList.json
 ```
