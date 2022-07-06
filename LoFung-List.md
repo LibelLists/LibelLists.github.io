@@ -6,7 +6,7 @@ nav_order: 5
 search_exclude: true
 ---
 
-## [主頁](https://github.com/LibelLists/LoFungList){: .btn .btn-purple .mr-2 }[GitHub](https://libellists.github.io/LoFungList/LoFungList.json){: .btn }
+## [主頁](https://libellists.github.io/LoFung-List/){: .btn .btn-purple .mr-2 }[GitHub](https://github.com/LibelLists/LoFungList){: .btn }
 
 ---
 
