@@ -5,7 +5,7 @@ parent: Lihkg Libel Lists
 nav_order: 4
 search_exclude: true
 ---
-## [主頁](https://lihkg.com/thread/2841778/page/21?post=520){: .btn .btn-purple .MR-2 }[GitHub](https://github.com/V4KFDgEw8T/rccnmlhnzv){: .btn }
+## [主頁](https://lihkg.com/thread/2841778/page/21?post=520){: .btn .btn-purple .mr-2 }[GitHub](https://github.com/V4KFDgEw8T/rccnmlhnzv){: .btn }
 
 ---
 
