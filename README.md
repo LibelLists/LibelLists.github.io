@@ -47,13 +47,23 @@ https://raw.githubusercontent.com/shiaifglshav/ChiBoyDogList/main/ChiBoyDogList.
 
 ***
 
-## [問題會員清單&老鳳狙擊list](https://lihkg.com/thread/2841778/page/21?post=520)
+## [問題會員清單](https://lihkg.com/thread/2841778/page/21?post=520)
 
 ```
 https://v4kfdgew8t.github.io/rccnmlhnzv/questionableMemberList.json
 ```
+老鳳狙擊list(#92230版)
 ```
 https://v4kfdgew8t.github.io/xrsbkvnfay/LoFungList.json
+```
+
+
+***
+
+## [老鳳狙擊list(Fork)](https://github.com/LibelLists/LoFungList)
+
+```
+https://libellists.github.io/LoFungList/LoFungList.json
 ```
 
 ***
