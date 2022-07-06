@@ -30,7 +30,7 @@ https://eat-play.github.io/on9_list/LIHKG-Label-List-2-power_off-1886.json
 https://libellists.github.io/old_off_on9list.json
 ```
 
-舊OFF囝戇鳩LIST 原手動匯入版 [點擊下載](https://github.com/LibelLists/LibelLists.github.io/releases/download/v20201231/on99.old.json)
+舊OFF囝戇鳩LIST 非訂閱手動匯入版 [點擊下載](https://github.com/LibelLists/LibelLists.github.io/releases/download/v20201231/on99.old.json)
 {: .fs-2 }
 
 ###### *1 此訂閱list由Zetho77GH轉換後提供 原作者為:eat-play(lihkg#1886•power_off)
