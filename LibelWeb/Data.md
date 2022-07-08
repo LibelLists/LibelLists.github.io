@@ -70,7 +70,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST 提供
+由 舊OFF囝戇鳩LIST & 老鳳List 提供
 曾用名稱：廢青關愛座
 ```
 
