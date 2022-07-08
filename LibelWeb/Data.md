@@ -66,6 +66,7 @@ permalink: /LibelWeb
 | 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 廢清🚬 | ⚠️ | 對被黑警掃場嘅黃店《桔梗》幸災樂禍，笑指「咁難食 抵啦」。 | [🔗](https://lih.kg/gsbJmT){: .btn  }  | 
+|  | 狗隻 | 請問廢清(狗隻#153)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3068685/page/1){: .btn } |
 
 </div>
 ```markdown
@@ -17057,6 +17058,21 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #330057 • 強国(共享肺炎) • <span class="fs-4">[連登起底](https://lihkg.com/profile/330057){: .btn }</span> • 註冊日期: 2019年10月4日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 強国(共享肺炎) | 狗隻 | 請問強国(共享肺炎)(狗隻#330057)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3068681/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳List 提供
 ```
 
 ---
