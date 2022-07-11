@@ -5701,6 +5701,23 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #72186 • 布魯托兒所 • <span class="fs-4">[連登起底](https://lihkg.com/profile/72186){: .btn }</span> • 註冊日期: 2016年17年1月2日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 布魯托兒所 | 狗隻 | 話去食海底撈慶祝 | [🔗](https://lihkg.com/thread/2936900/page/1){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：塢脾司，幸福傷風素，畢業熊，DontSing耀陽，壞男友，夢遺不是夢，大JerJer，微電影大短片，絲割老絲，勝利（已坐監），尸兄，重度，濕鳩liy-好喜歡他
+```
+
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #72306 • ~麥田守望者~ • <span class="fs-4">[連登起底](https://lihkg.com/profile/72306){: .btn }</span> • 註冊日期: 2017年1月3日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
