@@ -20119,6 +20119,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #412403 • 臭雞獲 • <span class="fs-4">[連登起底](https://lihkg.com/profile/412403){: .btn }</span> • 註冊日期: 2021年9月9日
+
+| 標籤時會員名稱  | 標籤 | 原因  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 臭雞獲 | 曱甴 | 請問臭雞獲(曱甴#412403)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3071940/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳List 提供
+曾用名稱：柒下柒屌河馬，連美斯(c朗隊友)，連美斯(Ivy老公)，連美斯（牙古路）
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #412723 • 國際線 • <span class="fs-4">[連登起底](https://lihkg.com/profile/412723){: .btn }</span> • 註冊日期: 2021年9月12日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
