@@ -8750,7 +8750,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #127033 • 撚化白卡 • <span class="fs-4">[連登起底](https://lihkg.com/profile/127033){: .btn }</span> • 註冊日期: 2017年7月6日
+## #127033 • 撚化白卡(追擊師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/127033){: .btn }</span> • 註冊日期: 2017年7月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -8760,7 +8760,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST 提供
-曾用名稱：試著說，有個16歲女友，來吧倒轉地球.
+曾用名稱：試著說，有個16歲女友，來吧倒轉地球.，撚化白卡
 ```
 
 ---
