@@ -4576,7 +4576,7 @@ Example
 |  | 嘲諷同路人 | 嘲諷因「深切哀悼和感激梁凌杰先生」而被捕嘅港大學生會成員「分分鐘要坐監」。 | [🔗](https://lih.kg/2666021){: .btn .mr-2  }[🖼️](https://na.cx/i/sqwqHQv.jpg){: .btn } | 
 |  | ⚠️ | 嘲諷香港過往嘅抗爭者「玩大左」。 | [🔗](https://lih.kg/aQfMfdV){: .btn .mr-2  }[🖼️](https://na.cx/i/0wvnK2U.jpg){: .btn } | 
 |  | 攬住塊鏡 | 強調「因為仲有鏡仔」，所以「講得出我好撚鍾意香港」，又一隻咩都扯到Viu/Mirror嘅風向狗。 | [🔗](https://lih.kg/bdsxncV){: .btn .mr-2  }[🖼️](https://na.cx/i/Dr2NbHU.jpg){: .btn } | 
-|  | 曱甴 | 1. 屌你老母連童童都夠膽屈藍, 你老母19年係戰神? 2. 請問撚face(曱甴#56505)你屙尿嗰陣屹起左腳定右腳? | 1. [🔗](https://lih.kg/2962278){: .btn .mr-2 }[🖼️](https://na.cx/i/Kag0YEw.png){: .btn .mr-2 }2. [🔗](https://lih.kg/2962278){: .btn } | 
+|  | 曱甴 | 1. 屌你老母連童童都夠膽屈藍, 你老母19年係戰神? 2. 請問撚face(曱甴#56505)你屙尿嗰陣屹起左腳定右腳? | 1. [🔗](https://lih.kg/2962278){: .btn .mr-2 }[🖼️](https://na.cx/i/Kag0YEw.png){: .btn .mr-2 }2. [🔗](https://lih.kg/2962511){: .btn } | 
 
 </div>
 ```markdown
