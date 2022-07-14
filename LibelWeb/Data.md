@@ -19731,7 +19731,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #401043 • 冬冬草 • <span class="fs-4">[連登起底](https://lihkg.com/profile/401043){: .btn }</span> • 註冊日期: 2021年6月5日
+## #401043 • 鴨甲鳥 • <span class="fs-4">[連登起底](https://lihkg.com/profile/401043){: .btn }</span> • 註冊日期: 2021年6月5日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
