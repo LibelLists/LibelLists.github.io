@@ -1902,7 +1902,7 @@ Special Thanks：power_off(#1886)
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 青檸雪葩 | 狗隻 | 話美國「仲有好多黃屍逃犯」 | [🔗](https://lih.kg/bmzLdNV){: .btn } | 
+| 青檸雪葩 | 狗隻 | 1. 話美國「仲有好多黃屍逃犯」2. 手足被告, 佢話「戇鳩仔![](https://cdn.lihkg.com/assets/faces/dog/hehe.gif)」 | 1. [🔗](https://lih.kg/bmzLdNV){: .btn .mr-2 }2. [🔗](https://lih.kg/boMdvLV){: .btn } | 
 |  | 狗隻 | 請問青檸雪葩(狗隻#25003)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3006469/page/1){: .btn } | 
 
 </div>
@@ -4734,6 +4734,7 @@ Example
 | 麵咪妈 | 小心此人 | 對在囚手足幸災樂禍。 | [🔗](https://lih.kg/srxzehX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/57914/57914.1_.png){: .btn } | 
 |  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914){: .btn .mr-2  }[🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg){: .btn } | 
 |  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588){: .btn .mr-2  }[🖼️](https://na.cx/i/SyewbDZ.png){: .btn } | 
+|  | 狗隻 | 手足被拉, 佢話「16歲就犯罪，佢父母點面對？ | [🔗](https://lih.kg/boMdwgV){: .btn } |
 
 </div>
 ```markdown
@@ -7170,11 +7171,12 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 反水蛇 | 狗隻 | 請問反水蛇(狗隻#96802)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3045258/page/1){: .btn } |
+| 反水蛇 | 狗隻 | 話「覺唔覺得啲黃絲好撚虛偽 歸順政府先係王道![](https://cdn.lihkg.com/assets/faces/normal/clown.gif))」 | [🔗](https://lih.kg/bnvEwnV){: .btn } |
+|  | 狗隻 | 請問反水蛇(狗隻#96802)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3045258/page/1){: .btn } |
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 支囝狗隻LIST & 老鳳List 提供
 ```
 
 ---
@@ -9714,7 +9716,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 回憶小子 | 回憶小狗![](https://cdn.lihkg.com/assets/faces/dog/bark.gif) | 1. 話831勇武手足扺死問「係班前線自己要搭港鐵，怪得邊個？」「又要靠港鐵走佬，又要玩撚串港鐵party 呢d係咪叫輸打贏要？定叫自作自受」2. 話「反中撚炒哂車」3. 問「有督察同Big4兩個offer, 你會揀邊個」 | 1. [🔗](https://lih.kg/1523092){: .btn .mr-2  }2. [🔗](https://lih.kg/886259){: .btn .mr-2  }3. [🔗](https://lih.kg/2296169){: .btn } | 
+| 回憶小子 | 回憶小狗![](https://cdn.lihkg.com/assets/faces/dog/bark.gif) | 1. 話831勇武手足扺死問「係班前線自己要搭港鐵，怪得邊個？」「又要靠港鐵走佬，又要玩撚串港鐵party 呢d係咪叫輸打贏要？定叫自作自受」2. 話「反中撚炒哂車」3. 問「有督察同Big4兩個offer, 你會揀邊個」4. 問「有無人睇TVB《聲生不息》鍾意咗大陸女歌手劉惜君？」 | 1. [🔗](https://lih.kg/1523092){: .btn .mr-2  }2. [🔗](https://lih.kg/886259){: .btn  }3. [🔗](https://lih.kg/2296169){: .btn .mr-2 }4. [🔗](https://lih.kg/3039319){: .btn } | 
 |  | 親共少數派 | 1. 話阻人影大頭嘅手足係MK仔 2. 煲大西方國家搞鳩同分裂其他國家嘅歷史 | 1. [🔗](https://lih.kg/1603961){: .btn .mr-2  }2. [🔗](https://lih.kg/2751755){: .btn } | 
 | 【被指有可能為沙田you真身】 | 回憶小狗 | 請問回憶小狗(狗隻#149494)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/1926109/page/1){: .btn } | 
 |  | 三毛 |  | [🔗](https://lihkg.com/thread/1623592/page/1){: .btn .mr-2  }[🔗](https://lihkg.com/thread/1603585/page/1){: .btn .mr-2  }[🔗](https://lihkg.com/thread/1552267/page/1){: .btn .mr-2  }[🔗](https://lihkg.com/thread/1549280/page/1){: .btn .mr-2  }[Google起底](https://www.google.com.hk/search?q=%22%E5%9B%9E%E6%86%B6%E5%B0%8F%E5%AD%90%22+site:lihkg.com&tbs=qdr:m3){: .btn } | 
