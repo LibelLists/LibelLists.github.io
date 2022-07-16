@@ -10584,7 +10584,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 11111111D | ⚠️ | 侮辱留守理大抗爭人士，另認為美國醫療不如中國：「睇下用邊間比，火神山就好過佢」。 | [🔗](https://lih.kg/npyEbsX){: .btn .mr-2  }[🔗](https://lih.kg/auydKwV){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/169071){: .btn } | 
-| 【2po空ac】 | ⚠️ | 話「攬炒巴又籌錢，狗改不了吃屎。」 | [🔗](https://lihkg.com/thread/2494047/page/2){: .btn } | 
+| 【2po空ac】 | ⚠️ | 話「攬炒巴又籌錢，狗改不了吃屎。」 | [🔗](https://lihkg.com/thread/2494047/page/1?port=25){: .btn } | 
 |  | 狗隻 | 請問11111111D(狗隻#169071)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2347830/page/1){: .btn .mr-2  }[🔗](https://lih.kg/aHsAkfV){: .btn .mr-2  }[🔗](https://lih.kg/gwMDjT){: .btn .mr-2  }[🖼️](https://i.imgur.com/EvvIDEg.png){: .btn } | 
 
 </div>
@@ -12652,7 +12652,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | Ieezy | ⚠️ | 辱罵爭取民主自由的香港人為廢青，認為全世界不在乎自不自由，近日不慎自爆。 | [🔗](https://lih.kg/apCqjEV){: .btn .mr-2  }[🔗](https://lih.kg/avjgukV){: .btn .mr-2  }[🔗](https://lih.kg/aGQrbEV){: .btn .mr-2  }[🖼️](https://na.cx/i/LMQWGkH.png){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/219147){: .btn } | 
-|  | 五毛 | 話手足係曱甴 | [🔗](https://lih.kg/apCqjEV){: .btn } | 
+|  | 五毛<br>藍絲 Wong Chun Kit | 話手足係曱甴 | [🔗](https://lih.kg/apCqjEV){: .btn } | 
 |  | 狗隻 | 請問Ieezy(狗隻#219147)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2340882/page/1){: .btn } | 
 
 </div>
@@ -15972,7 +15972,7 @@ Example
 
 </div>
 ```markdown
-由  提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
 曾用名稱：OliviaChuuBB
 ```
 
