@@ -1037,7 +1037,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #12034 • 四冠利迷范加爾 • <span class="fs-4">[連登起底](https://lihkg.com/profile/12034){: .btn }</span> • 註冊日期: 2016年11月25日
+## #12034 • 范加爾 • <span class="fs-4">[連登起底](https://lihkg.com/profile/12034){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -1048,7 +1048,7 @@ permalink: /LibelWeb
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & 老鳳List &11663 提供
-曾用名稱：范加爾愛猁軍亞，Maguire，英超新冠軍利物浦，點解會變成咁？，鑬鈔鈀，范加爾，范紐卡斯爾，琳兵鬥者范加爾，范加爾反對無val，范加二人之境
+曾用名稱：范加爾愛猁軍亞，Maguire，英超新冠軍利物浦，點解會變成咁？，鑬鈔鈀，范加爾，范紐卡斯爾，琳兵鬥者范加爾，范加爾反對無val，范加二人之境，四冠利迷范加爾
 ```
 
 ---
@@ -5825,7 +5825,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #73381 • 劉宋雞，雞雞 • <span class="fs-4">[連登起底](https://lihkg.com/profile/73381){: .btn }</span> • 註冊日期: 2017年1月6日
+## #73381 • (被)愉(名)雞樂 • <span class="fs-4">[連登起底](https://lihkg.com/profile/73381){: .btn }</span> • 註冊日期: 2017年1月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -5836,7 +5836,7 @@ Example
 </div>
 ```markdown
 由 問題會員清單 提供
-曾用名稱：愉雞樂，熱血公民您們真行，大雞獲，大雞樂
+曾用名稱：愉雞樂，熱血公民您們真行，大雞獲，大雞樂，劉宋雞，雞雞 
 ```
 
 ---
