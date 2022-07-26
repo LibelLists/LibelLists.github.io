@@ -6341,7 +6341,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #79563 • 我是粵族不是漢族 • <span class="fs-4">[連登起底](https://lihkg.com/profile/79563){: .btn }</span> • 註冊日期: 2017年1月26日
+## #79563 • 英國香港火槍隊 • <span class="fs-4">[連登起底](https://lihkg.com/profile/79563){: .btn }</span> • 註冊日期: 2017年1月26日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -6350,7 +6350,7 @@ Example
 </div>
 ```markdown
 由 老鳳List 提供
-曾用名稱：HKVDC_2017，HKVDC(休息中)，HKVDC離地絕望，HKRF，百粵箭神_熊渠
+曾用名稱：HKVDC_2017，HKVDC(休息中)，HKVDC離地絕望，HKRF，百粵箭神_熊渠，我是粵族不是漢族
 ```
 
 ---
