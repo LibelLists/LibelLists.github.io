@@ -386,7 +386,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #2889 • 越想越不對勁 • <span class="fs-4">[連登起底](https://lihkg.com/profile/2889){: .btn }</span> • 註冊日期: 2016年11月25日
+## #2889 • 玖零零 • <span class="fs-4">[連登起底](https://lihkg.com/profile/2889){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -397,7 +397,7 @@ permalink: /LibelWeb
 </div>
 ```markdown
 由 LITrack-主要名單 提供
-曾用名稱：願主保佑您，如廁朗口，你個嘢壞咗啊！！，馬個屁股變菊花！，八仙．塵爆之術
+曾用名稱：願主保佑您，如廁朗口，你個嘢壞咗啊！！，馬個屁股變菊花！，八仙．塵爆之術，越想越不對勁
 ```
 
 ---
