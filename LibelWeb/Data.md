@@ -7826,7 +7826,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #111644 • 求其打住先 • <span class="fs-4">[連登起底](https://lihkg.com/profile/111644){: .btn }</span> • 註冊日期: 2017年4月25日
+## #111644 • 一嚿 • <span class="fs-4">[連登起底](https://lihkg.com/profile/111644){: .btn }</span> • 註冊日期: 2017年4月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
