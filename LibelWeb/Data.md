@@ -6802,7 +6802,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #89182 • 老凤(高级国安) • <span class="fs-4">[連登起底](https://lihkg.com/profile/89182){: .btn }</span> • 註冊日期: 2017年3月5日
+## #89182 • 老凤(低層ACO) • <span class="fs-4">[連登起底](https://lihkg.com/profile/89182){: .btn }</span> • 註冊日期: 2017年3月5日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
