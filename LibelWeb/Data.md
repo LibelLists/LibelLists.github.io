@@ -6731,7 +6731,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #87428 • 暗黑小麻 • <span class="fs-4">[連登起底](https://lihkg.com/profile/87428){: .btn }</span> • 註冊日期: 2017年2月24日
+## #87428 • 配樂西 • <span class="fs-4">[連登起底](https://lihkg.com/profile/87428){: .btn }</span> • 註冊日期: 2017年2月24日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -6743,7 +6743,7 @@ Example
 </div>
 ```markdown
 由 問題會員清單 & 老鳳List 提供
-曾用名稱：達賴Armor，Goddson，大隻佬Jimmy，社會失敗者，Windows10，金多寶贊助商，醉愛Milf，BigBlackClock，屎仔大便窿先生，Mr.Poopybutthole，益力Door，CocaineMama，定延老公，慘包包食包，抽插默劇仔，蜜瓜包茜茜，立足妹妹，價值投資菲比斯，價值投資喬布斯，垃圾Sofi俾狗用，優秀細路，哲學家靚波嫂，露茜捽皮包，潮濕閪屋，佢哈我，咸濕波健士，冠軍淫媽，00House，記仇妹妹，開腳功神，下體音樂家，保錡溝女哲學，Rock過RockGorBON，踩單車的黑仔，GayLo(Anal)，捽閪大小姐，啃也大波妹，鉱山労働者，波霸FAT，貓貓千千兩，敗血症憂鬱，西西里噴精精，醫肚煎豬扒
+曾用名稱：達賴Armor，Goddson，大隻佬Jimmy，社會失敗者，Windows10，金多寶贊助商，醉愛Milf，BigBlackClock，屎仔大便窿先生，Mr.Poopybutthole，益力Door，CocaineMama，定延老公，慘包包食包，抽插默劇仔，蜜瓜包茜茜，立足妹妹，價值投資菲比斯，價值投資喬布斯，垃圾Sofi俾狗用，優秀細路，哲學家靚波嫂，露茜捽皮包，潮濕閪屋，佢哈我，咸濕波健士，冠軍淫媽，00House，記仇妹妹，開腳功神，下體音樂家，保錡溝女哲學，Rock過RockGorBON，踩單車的黑仔，GayLo(Anal)，捽閪大小姐，啃也大波妹，鉱山労働者，波霸FAT，貓貓千千兩，敗血症憂鬱，西西里噴精精，醫肚煎豬扒，暗黑小麻
 ```
 
 ---
