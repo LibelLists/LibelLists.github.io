@@ -602,7 +602,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #5649 • Day • <span class="fs-4">[連登起底](https://lihkg.com/profile/5649){: .btn }</span> • 註冊日期: 2016年11月25日
+## #5649 • 邱彦筒 • <span class="fs-4">[連登起底](https://lihkg.com/profile/5649){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
