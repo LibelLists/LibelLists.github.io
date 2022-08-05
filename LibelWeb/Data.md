@@ -12488,7 +12488,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #214644 • 小花（自閉仔） • <span class="fs-4">[連登起底](https://lihkg.com/profile/214644){: .btn }</span> • 註冊日期: 2018年10月4日
+## #214644 • 朗（259） • <span class="fs-4">[連登起底](https://lihkg.com/profile/214644){: .btn }</span> • 註冊日期: 2018年10月4日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -12498,7 +12498,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & 老鳳List 提供
-曾用名稱：拎u入Lingu(麵軍)，Iamatable，藍絲帶，很想遇返你，乸型狙擊手，193正渠頭，頂級花迷
+曾用名稱：拎u入Lingu(麵軍)，Iamatable，藍絲帶，很想遇返你，乸型狙擊手，193正渠頭，頂級花迷，小花（自閉仔）
 ```
 
 ---
