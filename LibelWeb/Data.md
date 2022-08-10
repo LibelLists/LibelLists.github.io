@@ -2393,7 +2393,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #29784 • 球哥@@ • <span class="fs-4">[連登起底](https://lihkg.com/profile/29784){: .btn }</span> • 註冊日期: 2016年11月27日
+## #29784 • 老球 • <span class="fs-4">[連登起底](https://lihkg.com/profile/29784){: .btn }</span> • 註冊日期: 2016年11月27日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
