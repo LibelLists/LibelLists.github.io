@@ -18537,7 +18537,7 @@ Example
 |  | 假膠 | 鳩叫手足 | [🔗](https://lih.kg/bcchiBV){: .btn } | 
 |  | 親共少數派 | 話上水廣場搶槍手足係俾cctoy水出去 | [🔗](https://lih.kg/uEOhBHX){: .btn } | 
 |  | 支那種 | 用殘體 | [🔗](https://lih.kg/tvkbygX){: .btn } | 
-|  | 狗隻 | 請問椰子是无辜的(狗隻#367068)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2709484/page/1){: .btn } | 
+|  | 曱甴 | 請問椰子是无辜的(曱甴#367068)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2709484/page/1){: .btn } | 
 
 </div>
 ```markdown
