@@ -14907,7 +14907,7 @@ Example
 | 你點知的 | 小心此人 | 稱「睇完緬甸開槍覺得香港警察真係好仁慈，人地處處忍讓無打死過人」，又對當地示威者冷嘲熱諷。 | [🔗](https://lih.kg/2409031){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/261505/261505.1_.png){: .btn .mr-2  }[🔗](https://lih.kg/suoeEdX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/261505/261505.2_.png){: .btn .mr-2  }[🔗](https://lih.kg/sxhMCNX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/261505/261505.3_.png){: .btn } | 
 |  | ⚠️ | 1. 話「香港警察真心專業」2. 侮辱中大手足 3. 借啲意推安心出含 4. 亂鳩咁捉鬼 5. 對手足冷嘲熱諷 | 1. [🔗](https://lih.kg/sMGKPMX){: .btn }2. [🔗](https://lih.kg/sxhMCNX){: .btn }3. [🔗](https://lih.kg/2439191){: .btn }4. [🔗](https://lih.kg/2435404){: .btn }5. [🔗](https://lih.kg/2429078){: .btn } | 
 |  | 五毛 | 五毛最新技量, 標籤你做CCtoy搞分化 | [原po已死](https://lih.kg/aOiQarV){: .btn } | 
-|  | 狗隻 | 請問你點知的(狗隻#261505)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2447992/page/1){: .btn .mr-2  }[🔗](https://lih.kg/2439191){: .btn .mr-2  }[🔗](https://lih.kg/2435404){: .btn .mr-2  }[🔗](https://lih.kg/2429078){: .btn } | 
+|  | 曱甴 | 請問你點知的(曱甴#261505)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2447992/page/1){: .btn .mr-2  }[🔗](https://lih.kg/2439191){: .btn .mr-2  }[🔗](https://lih.kg/2435404){: .btn .mr-2  }[🔗](https://lih.kg/2429078){: .btn } | 
 
 </div>
 ```markdown
