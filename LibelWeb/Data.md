@@ -8066,7 +8066,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #116696 • 18雙餸羅漢霆AL • <span class="fs-4">[連登起底](https://lihkg.com/profile/116696){: .btn }</span> • 註冊日期: 2017年5月14日
+## #116696 • 羅漢霆AL電棍手 • <span class="fs-4">[連登起底](https://lihkg.com/profile/116696){: .btn }</span> • 註冊日期: 2017年5月14日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -8079,7 +8079,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
-曾用名稱：客家人(彩虹小馬)，客家人（神徒）
+曾用名稱：客家人(彩虹小馬)，客家人（神徒），18雙餸羅漢霆AL
 ```
 
 ---
