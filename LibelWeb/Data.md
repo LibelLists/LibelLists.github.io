@@ -11702,7 +11702,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #196329 • Watchmen • <span class="fs-4">[連登起底](https://lihkg.com/profile/196329){: .btn }</span> • 註冊日期: 2018年7月23日
+## #196329 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/196329){: .btn }</span> • 註冊日期: 2018年7月23日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
