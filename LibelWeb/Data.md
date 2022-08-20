@@ -38,7 +38,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 (Sample) Libel認證【戇鳩】會員名單 & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 (Sample) Libel認證【戇鳩】會員名單 & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -54,7 +54,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List & #128089 提供
+由 老鳳狙擊List & #128089 提供
 ```
 
 ---
@@ -70,7 +70,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：廢青關愛座
 ```
 
@@ -87,7 +87,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 曾用名稱：把幸福作賭注
 ```
 
@@ -103,7 +103,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：夜囝，夜囝😛，夜子+
 ```
 
@@ -180,7 +180,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -211,7 +211,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -226,7 +226,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：頂到最入中出，唐玄奘，賀昇株式会社，高須龍兒，進藤光
 ```
 
@@ -243,7 +243,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：我霆粉我自豪，Pringles，樓下有個大波妹，頌樂樂不如獨樂樂
 ```
 
@@ -259,7 +259,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：麻G姑,沙洛文.卡勞,沙洛文。卡勞,渡邊麻友友,沙洛文`卡勞,我最愛王若嵐,徐懷鈺,我愛金盈,肉便器麻友,沙洛文，卡勞
 ```
 
@@ -331,7 +331,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：18歲（沒女友），比企谷八幡(雪乃)，比企谷八幡(女帝)，比企谷八幡(真物)，比企谷八幡(復仇)，比企谷八幡(反MK)，比企谷八幡，八幡（高卷杏），比企谷八幡(毒撚)，比企谷八幡(五和)，比企谷八幡(幽奈)，八幡（七七子），八幡(高尾部長)，八幡(吉良吉影)
 ```
 
@@ -363,7 +363,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List & 支囝狗隻LIST 提供
+由 老鳳狙擊List & 支囝狗隻LIST 提供
 ```
 
 ---
@@ -378,7 +378,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：香港勇武棋神，香港棋神，俠盜獵車手，Globalnetwork，AtlasMW，BlackMWOps，StableCoin
 ```
 
@@ -412,7 +412,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：垃圾九十後，Olivier_吉魯6，肥豬閪撞月球，微胖女，誰輕輕叫喚我，我屌爆你個閪呀，屌柒你班死姣閪，劉明不留名，慘撚過老母俾人屌，係咪突登架，你對Ada唔好咩？，漲卜卜大香腸，漲卜卜大大碌，快樂的港豬(1000)，悲傷小乳頭(單粒)，將你個頭塞落屎坑，被綠帽(兩個月)，你唔快撚啲去死？，大濫交野公園，大大對波波蕩蕩吓，CY打手全面進場，信Elon慘過食屎，36歲靚處女，光頭支那小賤畜，my柳應廷世界第一，你正一撚樣死賤種，想知我叫咩名咩？，辦公濕入布，ADA撚入團唔會追，我想去加拿大
 ```
 
@@ -445,7 +445,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Suis(迷潘)，阿古路（白卡），犬佬虨，Suis，處女分析學家，環保處女絲打，田泰安全套，M沙拉B，Maii，窮西迷（反熱），環保處女職員，贏錢啦西迷
 ```
 
@@ -461,7 +461,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -492,7 +492,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -567,7 +567,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：入前一丁，上野樹里，哈老姆太郎，陳浩南-，天野雪輝，立花瀧-，新垣結衣男友，肥是原罪，肥是原罪😲，天水圍洪卓立，柏華特bb(賭神)，柏華特bb(無錢)
 ```
 
@@ -623,7 +623,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST　＆ 老鳳List 提供
+由 舊OFF囝戇鳩LIST　＆ 老鳳狙擊List 提供
 曾用名稱：西毒，點擊此處放入陽具，震蛋
 ```
 
@@ -639,7 +639,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Wallis_Day
 ```
 
@@ -687,7 +687,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：逗住型義士
 ```
 
@@ -703,7 +703,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：何綺雲，隨鋒風瘋，瘋有趣，瘋脆幽襪，四寂，有自信廢柴，瘋瘋瘋
 ```
 
@@ -767,7 +767,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -783,7 +783,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：非洲彭定康，三條腳趾毛，內臟脂肪力申，大頭蝦芒果沙律，美國隊長(已破處)，梁振英特首，老夫子母奶，梁家輝入到嚟無圖，榮華大肉腸，移民饅頭
 ```
 
@@ -799,7 +799,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -843,7 +843,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -889,7 +889,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -904,7 +904,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -919,7 +919,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -934,7 +934,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1012,7 +1012,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & #6058 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & #6058 提供
 曾用名稱：MHIK7，MHI32800M8，HSI29200P9，MHI29400P9，PAI90.00R9
 ```
 
@@ -1047,7 +1047,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1064,7 +1064,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List &11663 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List &11663 提供
 曾用名稱：范加爾愛猁軍亞，Maguire，英超新冠軍利物浦，點解會變成咁？，鑬鈔鈀，范加爾，范紐卡斯爾，琳兵鬥者范加爾，范加爾反對無val，范加二人之境，四冠利迷范加爾
 ```
 
@@ -1081,7 +1081,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 圖片由 OFF囝戇鳩LIST作者圖庫 提供
 ```
 
@@ -1134,7 +1134,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：另一個廚房
 ```
 
@@ -1152,7 +1152,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：Yuiyuiyui，On9的利迷子，一葉之秋b，x一葉之秋，Zzzzz人
 ```
 
@@ -1181,7 +1181,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：飲食藍女，反主義社會，喜露無裳，阻人返工死全家，Dom呀哥落街😡，獨孤求職，寶寶肥肥
 ```
 
@@ -1266,7 +1266,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：無雁詩乾淨盲，Firstlove
 ```
 
@@ -1283,7 +1283,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：樓豬正戇鳩，魯爾七號，你阿媽個波罩你，兵工廠無兵用，浸大天婦羅
 ```
 
@@ -1381,7 +1381,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：有村架純bb
 ```
 
@@ -1428,7 +1428,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：傲蕭遙，施華覓腸，李施嬅覓腸，施嬅覓牆，施嬅覓腸一世迷雲，施嬅覓腸醉愛雲加，施嬅覓腸終身迷雲，施嬅覓腸(迷雲），施嬅覓腸愛雲加，施嬅覓腸迷雲反拖，施嬅覓腸愛施朗，施嬅覓腸斬賓施馬，施嬅覓腸迷雲迷占，施丹覓腸，施治覓腸，施巴路斯覓腸，施朗覓腸，施文覓腸，施根覓腸，C朗覓腸，CCC尼覓腸，施維斯達覓腸，施朗拿度覓腸，施雲奴覓腸，施斯隆覓腸，施華路斯覓腸，施連斯基覓腸，施蒙尼覓腸，施美度覓腸，施祖覓腸，施特高拿仙納覓腸，施耶治覓腸，施真高覓腸，施寶盛覓腸，施亞甘覓腸，施巴斯坦賀拿覓腸，施巴路斯覓腸，施巴約斯覓腸，施丹盧卡覓腸，施舟覓腸舞士精神，施丹覓腸扎西德勒，施丹覓腸三圓䮭路，施迪安覓腸莫浪求，施迪安覓腸小威人，施巴路斯覓腸龍船，施丹覓腸愛名井南，施丹覓腸愛孫彩瑛，施丹覓腸娶孫彩瑛，施丹覓腸彩瑛老公，施丹覓腸彩瑛丈夫，施丹覓腸彩瑛相公，施丹覓腸愛妻彩瑛，施丹覓腸娘子彩瑛，施丹覓腸梓童彩瑛，施丹覓腸王妃彩瑛，施丹覓腸情人彩瑛，施丹覓腸嬌妻彩瑛，施丹覓腸彩瑛先生，施丹覓腸醉愛彩瑛，施丹覓腸愛慕彩瑛，施丹覓腸唯愛彩瑛，施丹覓腸苦戀彩瑛，施丹覓腸彩瑛豬豬，施丹覓腸情迷潘頓，施丹覓腸佳運財，施丹覓腸天火同人，施丹覓腸肥仔叻叻，施丹覓腸鴻運飛鷹，施丹覓腸足金好球，施丹覓腸包裝太保，施丹覓腸合夥贛勁，施丹覓腸勝賢，施丹覓腸赤馬雄風，施丹覓腸俏芳華，施丹覓腸讓愛高飛，施丹覓腸穿甲鷹，施丹覓腸逆市奇爸，施丹覓腸齊齊友福，施丹覓腸威力奔騰，施丹覓腸少爺仔，施丹覓腸遨遊氣泡，施丹覓腸盈嵐，施丹覓腸請飲茶，施丹覓腸夢巴黎
 ```
 
@@ -1506,7 +1506,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -1522,7 +1522,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：大撚龍，情人沒我份，湖北街李彩華
 ```
 
@@ -1555,7 +1555,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：今晚無野做，曾蔭權爵士閣下，白宮首席經濟顧問
 ```
 
@@ -1571,7 +1571,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1623,7 +1623,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Dr.Strange，Jokerss，Porsche718，Ranibizumab，Steven_Strange
 ```
 
@@ -1641,7 +1641,7 @@ permalink: /LibelWeb
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List & #198590 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List & #198590 提供
 曾用名稱：台灣獨立，臺灣獨立，高息股，愛情摩天輪，打邊爐家族-爸爸，財務自由之路-
 ```
 
@@ -1702,7 +1702,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：魂乂初弒，魂°初弒，菊部地區出血，高風險，求。初戀，暈。搓切，西北瘋
 ```
 
@@ -1734,7 +1734,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：本ど終勝
 ```
 
@@ -1750,7 +1750,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1766,7 +1766,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 據 #119870 稱俾條粉皮攞左#361366個ac，,現已取回
 除非有更多資料，#128219，#278947，#361366相關不會另外新開標籤
 ```
@@ -1795,7 +1795,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1825,7 +1825,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1840,7 +1840,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：高普嗲哋
 ```
 
@@ -1892,7 +1892,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：紐約某橫街，琪琪特穆爾，賞花賞月想鈺頁
 ```
 
@@ -1908,7 +1908,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -1924,7 +1924,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：河豚刺身，三文魚膠粒飯，屌你老母死耶撚，金色的雞雞
 ```
 
@@ -1997,7 +1997,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2012,7 +2012,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2027,7 +2027,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2063,7 +2063,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2079,7 +2079,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：黑豹
 ```
 
@@ -2096,7 +2096,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2113,7 +2113,7 @@ Special Thanks：power_off(#1886)
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：叉燒仔
 ```
 
@@ -2160,7 +2160,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2191,7 +2191,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：印象
 ```
 
@@ -2256,7 +2256,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：英雄想見樂瞳
 ```
 
@@ -2288,7 +2288,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -2321,7 +2321,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：獌德拉，雲達韋碧克，污點證人李宇軒，港獨死全家
 ```
 
@@ -2339,7 +2339,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2370,7 +2370,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大家一起去仆街，tonight959
 ```
 
@@ -2413,7 +2413,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：閒逛的企鵝
 ```
 
@@ -2457,7 +2457,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：50歲(破產)，51歲(破產！)，53歲(破產）
 ```
 
@@ -2473,7 +2473,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2524,7 +2524,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List & #24133 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List & #24133 提供
 被指可能為魯柒#132525分身 曾用名稱：肩系膊頭口系嘴，禁極電話刀，大隻毒撚，北姑雞求飯，睇你點改我花名，上弦阿姨
 ```
 
@@ -2540,7 +2540,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2570,7 +2570,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2588,7 +2588,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2619,7 +2619,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：你條女有咗
 ```
 
@@ -2660,7 +2660,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：威爾斯哥基，連登=抄，光頭。黃
 ```
 
@@ -2693,7 +2693,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2708,7 +2708,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：迷藍大隊長，唔洗做等出糧，財務自由
 ```
 
@@ -2725,7 +2725,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2740,7 +2740,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：陳雲哈根大師，反而，回頭可不可再活過，他喜歡的是你
 ```
 
@@ -2758,7 +2758,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：萊斯仔
 ```
 
@@ -2775,7 +2775,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -2790,7 +2790,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：艾夫華倒掛，春天的神息
 ```
 
@@ -2807,7 +2807,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：分化黑警五毛
 ```
 
@@ -2855,7 +2855,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：迷雲事務處女職員
 ```
 
@@ -2891,7 +2891,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：陽光囝囝sunshine，上班一族，霸氣總裁，樓下係戇鳩仔，總經理，修正帶，國內大灣區職人，楊樂文老師，迪麗冷巴
 ```
 
@@ -2909,7 +2909,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：，RMT，183cm，森高千里，TartherJapan，高級特種警衛，我只是個孩子，咦lu加咪，放負專員，全倉VOO，全倉VOOUPRO
 ```
 
@@ -2925,7 +2925,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -2940,7 +2940,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3004,7 +3004,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：民建聯好假既肥仔，馬會財神
 ```
 
@@ -3020,7 +3020,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3052,7 +3052,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3068,7 +3068,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3083,7 +3083,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Toni_kroos8
 ```
 
@@ -3114,7 +3114,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：迫不及待好想玩玩，阿仙尼•雲加•，袋底掙扎王胡力威，俾D掙扎佢，肥婆狙擊手(上將)，Acceleration，ChingHoBall
 ```
 
@@ -3131,7 +3131,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：阿笨與阿占
 ```
 
@@ -3149,7 +3149,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List &  連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List &  連登三毛清單 提供
 ```
 
 ---
@@ -3165,7 +3165,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #198590 提供
+由 老鳳狙擊List & #198590 提供
 曾用名稱：今年四歲，。今年﹁四歲﹏，今年六歲，今年四歲(藍絲)，今年四歲(5毛)，今年四歲_65cm
 ```
 
@@ -3211,7 +3211,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3226,7 +3226,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：兩儀
 ```
 
@@ -3244,7 +3244,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：七緒，陳師姐，半個睡房，納蘭姊姊，望北川這曖昧的眼，與你一起發夢，陳美芝飯，陳美滋風，BreakingMyHeart，持盈保泰
 ```
 
@@ -3261,7 +3261,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List(老鳳：暫時取消)提供
+由 LITrack-主要名單 & 老鳳狙擊List(老鳳：暫時取消)提供
 ```
 
 ---
@@ -3278,7 +3278,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3383,7 +3383,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：VC01，攻者一點防者千里，夏辛昭祥
 ```
 
@@ -3415,7 +3415,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：命運的籤，河水會可憐蓮花落，戦場ヶ原ひたぎ，史普尼克二號，惡星情人，惡星情人（四葉），ChooseLife_，絕望緞帶民，絶.望.緞.帶.民
 ```
 
@@ -3450,7 +3450,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 曾用名稱：屈機男
 ```
 
@@ -3482,7 +3482,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3498,7 +3498,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -3530,7 +3530,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -3545,7 +3545,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：利物浦英超冠軍
 ```
 
@@ -3562,7 +3562,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3577,7 +3577,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：捕鯨提督，リリィhater
 ```
 
@@ -3626,7 +3626,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：藍絲大廚
 ```
 
@@ -3676,7 +3676,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：事業線
 ```
 
@@ -3710,7 +3710,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3725,7 +3725,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：西灣河安妮一世，Wetherspoon打手，雞絲骨茶，特區手掌，硬朗藍絲，觀龍費南迪斯，JasmineGrey
 ```
 
@@ -3772,7 +3772,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -3865,7 +3865,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：黃鳳鳴，星河，颺隸，大倒數，利物浦太善良
 ```
 
@@ -3883,7 +3883,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3900,7 +3900,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：Gdragon，Zicoo
 ```
 
@@ -3933,7 +3933,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -3948,7 +3948,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Fake_Hopper，Gay耀西
 ```
 
@@ -3979,7 +3979,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：容易哭泣的連豬
 ```
 
@@ -3996,7 +3996,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：幾仟天近況幸福嗎，20170927
 ```
 
@@ -4029,7 +4029,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #1886 提供
+由 老鳳狙擊List & #1886 提供
 ```
 
 ---
@@ -4076,7 +4076,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -4103,7 +4103,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4169,7 +4169,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4184,7 +4184,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：邪神霸佔了我
 ```
 
@@ -4259,7 +4259,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4305,7 +4305,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：shyshyshy，雞蛋六隻
 ```
 
@@ -4337,7 +4337,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：千矢
 ```
 
@@ -4370,7 +4370,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -4400,7 +4400,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4416,7 +4416,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 ```
 
 ---
@@ -4431,7 +4431,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：有誰共鳴，想你，午後紅茶
 ```
 
@@ -4448,7 +4448,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -4495,7 +4495,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4593,7 +4593,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：Harlem
 ```
 
@@ -4629,7 +4629,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4644,7 +4644,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4660,7 +4660,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：孤獨不寂莫，盡在不言中，假人假事，連登資深成員，憂鬱的我.，Joker.，憂鬱的我，Overthinker，思覺失調患者
 ```
 
@@ -4740,7 +4740,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List提供
 曾用名稱：MKGA
 ```
 
@@ -4821,7 +4821,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4836,7 +4836,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4866,7 +4866,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4881,7 +4881,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -4926,7 +4926,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：旅行者達人，傻人係福氣
 ```
 
@@ -4943,7 +4943,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -4958,7 +4958,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Faze，Happen，我黎自湖北
 ```
 
@@ -4977,7 +4977,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：行床心理學家，我好愛我個前女友，不撤回不罷休
 ```
 
@@ -4994,7 +4994,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：伸手姨處，手足(連豬喊)師
 ```
 
@@ -5010,7 +5010,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5042,7 +5042,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂)  & 支囝狗隻LIST & 老鳳List提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂)  & 支囝狗隻LIST & 老鳳狙擊List提供
 曾用名稱：長頸叔叔
 ```
 
@@ -5058,7 +5058,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5074,7 +5074,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -5089,7 +5089,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -5104,7 +5104,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：FIL，A貨Apple，妮娜，一蚊兩個，舐路神，就算不是他，整數派，小數派三點一四，溫思勞
 ```
 
@@ -5124,7 +5124,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -5172,7 +5172,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：美國將軍，Eurydice，涼宮春日A，免費晚餐，Aqua，Monica，SantaMonica，討論區主人，SkylineBank，我叫連豬
 ```
 
@@ -5189,7 +5189,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -5204,7 +5204,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大家都係英國人，西雅圖未眠人，日夜思湘，哈斯塔，加納龜，五毛熱狗黃世澤，曼城大法好
 ```
 
@@ -5220,7 +5220,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：執行期錯誤，UmF2bGFBbHZhcg==，e69ad95c13d5489b，ygIKYOHR9gnGmD9Y，Qf6KAF9Kpzcgw4qF，穹蒼傳揚祂的手段，ZxtYUuQgJDvd94kK
 ```
 
@@ -5236,7 +5236,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5252,7 +5252,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：佐天涙子，御坂ミコト
 ```
 
@@ -5314,7 +5314,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：王昭兒，派膠皇后，【阿扁是無辜的】
 ```
 
@@ -5364,7 +5364,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：數學廢柴，數學白痴，Elias，Jean，剛江有害，吾不會數學，吾不懂數學，葉姑成，今朝無酒，數學多莉雅，終極連登數學白痴，膠智的kai龍，vkai龍(五毛)
 ```
 
@@ -5392,7 +5392,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5408,7 +5408,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：佩佩要出席記者會，佩佩禿頭伯公，明叔(性格係咁)，明叔(秀才遇著兵)，明叔不行了(已射)，痙鑾日月叔本華，鰻魚明叔，明叔好喜歡她(笑)，曼聯名宿，唉,唔撚驚...，慢聯明叔
 ```
 
@@ -5440,7 +5440,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：大學生，大藍孩
 ```
 
@@ -5473,7 +5473,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：無糖白咖啡，多奶走甜，點解要咁對我，猢力威撕虎，キリト，黑色系，韓國人最無恥，巴啦巴啦脆雞寶，殺老師，西丈一郎，濕滑嘅司機
 ```
 
@@ -5507,7 +5507,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -5524,7 +5524,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488，NiggerSlayer88，撐警女權BLM鏡粉
 ```
 
@@ -5540,7 +5540,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：是非台台主，葵娜瑪麗クリス
 ```
 
@@ -5618,7 +5618,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -5634,7 +5634,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -5666,7 +5666,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -5682,7 +5682,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：佐木45，45閃電，專精莫拉的神人，超級拉姆，希神
 ```
 
@@ -5713,7 +5713,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5777,7 +5777,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -5835,7 +5835,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5850,7 +5850,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：禮物鋪，伊頓混亂，忙因赴二，Plantagenets
 ```
 
@@ -5900,7 +5900,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：導彈測試(Once)，導彈測試(狙J社)，導彈測試(撐多腎)，導彈測試JESSICA，導彈測試REVELUV，周純男友導彈測試，導彈測試MIDZY，導彈測試WIZONE，導彈測試ONCE
 ```
 
@@ -5917,7 +5917,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -5947,7 +5947,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -5979,7 +5979,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6010,7 +6010,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6026,7 +6026,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：老會員新帳號，連登長，笑無膠俠，水中浮瀟，禪行僧，禪定僧，男優僧，崔佛菲利普，真理守護者，善忘的港豬崔佛，運動已完撚，運動未完撚，GTA崔佛菲利普
 ```
 
@@ -6042,7 +6042,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：社會主義者佛利民，汝真主義者佛利民，彩嫚主義者佛利民
 ```
 
@@ -6058,7 +6058,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：靈異空氣，黑子太歲，超級堺雅人，桐生戰兔
 ```
 
@@ -6074,7 +6074,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：宇宙巨能，小小帥
 ```
 
@@ -6119,7 +6119,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -6134,7 +6134,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：只有假，港豬是我
 ```
 
@@ -6166,7 +6166,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6181,7 +6181,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：春梅
 ```
 
@@ -6197,7 +6197,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6212,7 +6212,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6227,7 +6227,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：我我這種無奶，老細價值，八千里露暈和穴，能射越河，真Dick賞你，情義兩梳蕉，高級運豬主任，噢呀鈉，做條勇敢鍾國賓，連立會研究部，扑Ching，日畢落帝國，HanaChann
 ```
 
@@ -6291,7 +6291,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6318,7 +6318,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：香鳥真巴打，劍術大師，劍劍好大師，呀陳仔
 ```
 
@@ -6334,7 +6334,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：牛熊之霸
 ```
 
@@ -6366,7 +6366,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：窮人咪撚學人生，征途，人生區議員，甲斐谷陸，柳貫一(等更新），柳貫一(黑格爾)，柳貫一(護晴手)，柳貫一即是全，柳（傳奇十號奧燒，迷彩柳貫一，隊長小嶋花梨，夢は逃げない，太宰治を読んだか，安部若菜，護士山本彩加，老女人，演員太田夢莉•，太田夢莉主義，LAPISARCH，山本彩さま，横山由依ょ，柳貫一，坂下真心世界，徳永羚海，許靜芳
 ```
 
@@ -6382,7 +6382,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：HKVDC_2017，HKVDC(休息中)，HKVDC離地絕望，HKRF，百粵箭神_熊渠，我是粵族不是漢族
 ```
 
@@ -6399,7 +6399,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：戇鳩的一逼
 ```
 
@@ -6417,7 +6417,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：好瘋狂，真係好肚餓，毒撚可以申請白卡，毒撚係弱智精神病，平常Some，藍絲十二子Mirror，我就係曾志偉
 ```
 
@@ -6500,7 +6500,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6530,7 +6530,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：樓上唔好派膠，DavidHibert，關唔關you事
 ```
 
@@ -6563,7 +6563,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6579,7 +6579,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：浮浪人，兵敗嶼山島，浮氣者，悲傷逆流成河，畜農小隊，莎士比亞作者，腳甲老泥妹
 ```
 
@@ -6595,7 +6595,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：總是犯賤，Timetraveler
 ```
 
@@ -6645,7 +6645,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：前列腺液，青山走犯胡力威，博雅大學胡力威，慾求不滿的胡力威，力威胡哲，新宿國師陳云根，國師陳雲，問答無用姦，皇天擊殺鄭國漢，梁美芬BB，吹寄制理，廖家俊
 ```
 
@@ -6661,7 +6661,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6676,7 +6676,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：21312312312312
 ```
 
@@ -6696,7 +6696,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳List & 連登三毛清單 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -6726,7 +6726,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -6775,7 +6775,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：達賴Armor，Goddson，大隻佬Jimmy，社會失敗者，Windows10，金多寶贊助商，醉愛Milf，BigBlackClock，屎仔大便窿先生，Mr.Poopybutthole，益力Door，CocaineMama，定延老公，慘包包食包，抽插默劇仔，蜜瓜包茜茜，立足妹妹，價值投資菲比斯，價值投資喬布斯，垃圾Sofi俾狗用，優秀細路，哲學家靚波嫂，露茜捽皮包，潮濕閪屋，佢哈我，咸濕波健士，冠軍淫媽，00House，記仇妹妹，開腳功神，下體音樂家，保錡溝女哲學，Rock過RockGorBON，踩單車的黑仔，GayLo(Anal)，捽閪大小姐，啃也大波妹，鉱山労働者，波霸FAT，貓貓千千兩，敗血症憂鬱，西西里噴精精，醫肚煎豬扒，暗黑小麻
 ```
 
@@ -6791,7 +6791,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6823,11 +6823,11 @@ Example
 | 警察都有老豆老母 | 待定 | 以為賺藍養黃係主流意見。根據考古，此會員幾乎係第一個開始傳播「賺藍養黃」一詞嘅人。此前嘅相關討論大多為有建設性，著眼於點樣做大黃圈；經此會員批鬥同玩膠一輪之後，該詞變成嘲諷味濃嘅討論終結用語 | [🔗](https://lih.kg/aMdhhKV){: .btn } | 
 |  | 假膠 | 此會員經常玩膠但極其低質，可能因其他人get唔到而獲得優越感，或根本係借玩膠去傳播戇鳩言論。此留言原意為嘲諷燒山一句「警察都有老豆老母」，但極少人get到，畢竟大部分人都唔會睇啲濕鳩KOL | [🔗](https://lih.kg/hEgeLT){: .btn } | 
 |  | 參考資料 | 白兵支持者 | [🔗](https://lih.kg/biDhoEV){: .btn } | 
-|  | 保留 | 保留(老鳳List) | [🔗](https://lihkg.com/thread/2469823/page/1){: .btn } | 
+|  | 保留 | 保留(老鳳狙擊List) | [🔗](https://lihkg.com/thread/2469823/page/1){: .btn } | 
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：大碌竹霸，母看沸鹽，美牙黃世澤，宣傳不分化再捉鬼，不入票站杯葛選舉，公眾係白痴
 ```
 
@@ -6856,7 +6856,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -6871,8 +6871,24 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST 提供
+由 老鳳狙擊List 提供
 曾用名稱：南極大陸
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #89931 • Seolhyun • <span class="fs-4">[連登起底](https://lihkg.com/profile/89931){: .btn }</span> • 註冊日期: 2017年3月8日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 薄巧甜心崔乂園 | 狗隻 | 請問薄巧甜心崔乂園(狗隻#89931)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2459355/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳狙擊List 提供
+曾用名稱：LOONA女一
 ```
 
 ---
@@ -6888,7 +6904,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 曾用名稱：叱咤風雲我任意闖，Ust蝻，胡力威wucfu
 ```
 
@@ -6937,7 +6953,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -6952,7 +6968,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：毛毛毛，登耳神，毛毛勁
 ```
 
@@ -6986,7 +7002,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：龍穿鳳(追數中)
 ```
 
@@ -7016,7 +7032,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：屈Dee，G.Honeyman
 ```
 
@@ -7033,7 +7049,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：LP700，美斯係個度，三門全開，領先唔gel等幾時，半一上盤唔入波，八千轉兩咪車.，肥婆叫多飯，事後飛好快輸返
 ```
 
@@ -7049,7 +7065,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7064,7 +7080,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：ihavenoearr
 ```
 
@@ -7097,7 +7113,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -7112,7 +7128,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：死肥仔聰
 ```
 
@@ -7146,7 +7162,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：恍惚天人，剛門山野，七月十三日晴，敦倫的夏天等你來，沒有童貞的年代
 ```
 
@@ -7162,7 +7178,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：午夜牛郎，Verna
 ```
 
@@ -7225,7 +7241,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -7240,7 +7256,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7323,7 +7339,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 曾用名稱：karen凱琳
 ```
 
@@ -7342,7 +7358,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：法bin奴，球王朗尼
 ```
 
@@ -7390,7 +7406,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：駁吾刀，五月二十八號_睛
 ```
 
@@ -7410,7 +7426,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：香蕉仔，吸血鬼阿零，波波華，Sergino_Dest，Pablo_Gavi(Dest)
 ```
 
@@ -7426,7 +7442,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大口組餘孽，寵物擅終，郭展明，吹簫若完，慈母沙中線，環保假膠，道德重整會小學，Tony屎塔黑
 ```
 
@@ -7459,7 +7475,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7493,7 +7509,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：Kolarov13
 ```
 
@@ -7527,7 +7543,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -7557,7 +7573,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7574,7 +7590,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：Intotheblue，時之沙，無月經的人，飛沙轉風中
 ```
 
@@ -7590,7 +7606,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 無法得知此人是否已ban
 ```
 
@@ -7607,7 +7623,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：寂孤婆
 ```
 
@@ -7642,7 +7658,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & LITrack-主要名單 & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & LITrack-主要名單 & 老鳳狙擊List 提供
 曾用名稱：炭鹼化合物，做IT不如做狗，IT狗(愛阿福)，煙庭久(愛阿福)，煙庭久(不再搞事)，煙庭久(風紀)，風紀委員長，委員長(暖暖部)，風紀委員(彌子)
 ```
 
@@ -7677,7 +7693,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 被指使用分身：#376832
 ```
 
@@ -7723,7 +7739,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：放桐生一馬，婊妹，隻狗，Youth_Truncheon
 ```
 
@@ -7739,7 +7755,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7754,7 +7770,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -7786,7 +7802,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -7819,7 +7835,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：jukerbb，Treegun，泛民Hater
 ```
 
@@ -7852,7 +7868,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：三日月王我主，剎那F塞爾，口德邨市民，穢土轉生春卷，長崎涼靡，I_NEED_HEALING，心不在弦，天元突破紅蓮螺巌，滅盡龍，紙飛魚，若至而同，撕Bra達人$_$，葦名七旋斬，Nilfgaardian，牧師琳，黑警萎婬症，樓の呼吸玖ノ型，公墓園申囚表，0少牧田1雄，歐甜微苦瓜，GenesicGaoGaiGar，無法避免，牧師琳清真牛牛，天職屌柒公墓猿，透の現金術師，動態Ching0，自閉圓頓裹
 ```
 
@@ -7976,7 +7992,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：2132149
 ```
 
@@ -7994,7 +8010,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8025,7 +8041,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：唔想咁可以點，史達寧，亨氏番茄醬，Fabian.Delph，姜B(深黃)，看ViuTV抗爭，阿富汗手足，Xi變種病毒
 ```
 
@@ -8042,7 +8058,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8094,7 +8110,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：客家人(彩虹小馬)，客家人（神徒），18雙餸羅漢霆AL
 ```
 
@@ -8110,7 +8126,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8125,7 +8141,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：痴漢冤罪事件
 ```
 
@@ -8210,7 +8226,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8253,7 +8269,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8284,7 +8300,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：8526423，可唔可以做你隻兵，你尷唔尷尬呀，輸死你味呀清
 ```
 
@@ -8315,7 +8331,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8332,7 +8348,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：麥詩敏，mane，J塞豐乳中，杏林子，ManeMami
 ```
 
@@ -8348,7 +8364,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8378,7 +8394,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8394,7 +8410,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8425,7 +8441,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8469,7 +8485,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8484,7 +8500,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：火焰射球fire，楊丞琳老公，丞琳布麗拉森老公
 ```
 
@@ -8500,7 +8516,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8518,7 +8534,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List提供
 ```
 
 ---
@@ -8549,7 +8565,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：骨都人
 ```
 
@@ -8566,7 +8582,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：我好想死，使用者名稱太長，鄧小姐，30歲(處男)(今日)，女朋友(死魚)，當年校長條八婆，性感小妹，RB26DETTRS(20V)，靚女(唔痾屎)，安鳩仔，連登姐姐，邏輯炸彈，9月1定911?，林鄭月娥(媽媽)，咕姑固(嗚Wow~)，雨宮天（26歲）
 ```
 
@@ -8582,7 +8598,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8598,7 +8614,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -8645,7 +8661,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8660,7 +8676,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8675,7 +8691,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：EeZz，實現希望，一紙荒年乄月乄日，向口向
 ```
 
@@ -8706,7 +8722,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8721,7 +8737,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：頭擰擰鳩FingFing
 ```
 
@@ -8765,7 +8781,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -8780,7 +8796,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8796,7 +8812,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8814,7 +8830,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：試著說，有個16歲女友，來吧倒轉地球.，撚化白卡
 ```
 
@@ -8830,7 +8846,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -8846,7 +8862,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：吾,講你知
 ```
 
@@ -8911,7 +8927,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：中大金城武
 ```
 
@@ -8927,7 +8943,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大雞巴哥哥
 ```
 
@@ -8978,7 +8994,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -8993,7 +9009,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9054,7 +9070,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9069,7 +9085,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大根妹，金妹強
 ```
 
@@ -9085,7 +9101,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9100,7 +9116,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #148355 提供
+由 老鳳狙擊List & #148355 提供
 曾用名稱：章魚大丸子
 ```
 
@@ -9131,7 +9147,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9148,7 +9164,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -9197,7 +9213,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #56015 提供
+由 老鳳狙擊List & #56015 提供
 被指本體ac為#306681
 ```
 
@@ -9213,7 +9229,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：沈孤雲，Sayako_Ito，花七白橋秋，生田·絵梨花，生田絵梨花.，生田絵季花
 ```
 
@@ -9264,7 +9280,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9295,7 +9311,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9326,7 +9342,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：王心凌.
 ```
 
@@ -9363,7 +9379,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List & #81113 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List & #81113 提供
 曾用名稱：安心出行出心安，消失的200萬人，AmFeTaMine，54321停止留言
 ```
 
@@ -9380,7 +9396,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 *1 於此承認為沙田you分身之一
 ```
 
@@ -9396,7 +9412,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：20歲(多失青年)
 ```
 
@@ -9428,7 +9444,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9489,7 +9505,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Winthepool，楊周炒飯加大，上海仔(已切給平)，海上海仔
 ```
 
@@ -9522,7 +9538,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：米懦夫司機博士，窮噹噹水汪汪，中華十字軍
 ```
 
@@ -9574,7 +9590,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9608,7 +9624,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：我不是她，舊街角，一走了之
 ```
 
@@ -9639,7 +9655,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：人生追求的是什麼，住在澳洲的巴打
 ```
 
@@ -9655,7 +9671,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為沙田you分身之一 曾用名稱：羅志祥暑期工掃街
 ```
 
@@ -9671,7 +9687,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9710,7 +9726,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Benchow13343
 ```
 
@@ -9775,7 +9791,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：我不想一個快活
 ```
 
@@ -9791,7 +9807,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9809,7 +9825,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List & 連登三毛清單 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -9825,7 +9841,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：KirmitFrog，Kermit
 ```
 
@@ -9871,7 +9887,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：將軍澳女膠燰
 ```
 
@@ -9887,7 +9903,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -9933,7 +9949,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：還流過一點眼淚，連登哲學家，許志安（黃心穎）
 ```
 
@@ -9965,7 +9981,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：ReconObsy
 ```
 
@@ -9998,7 +10014,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -10030,7 +10046,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -10095,7 +10111,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：山_神
 ```
 
@@ -10174,7 +10190,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10220,7 +10236,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -10235,7 +10251,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：肆捨伍入，水屬性潤濠，RogueWest
 ```
 
@@ -10284,7 +10300,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List & T(2172382)po內各會員 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List & T(2172382)po內各會員 提供
 ```
 
 ---
@@ -10300,7 +10316,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -10316,7 +10332,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -10348,7 +10364,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：回到過去好嗎
 ```
 
@@ -10382,7 +10398,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：chungnyy，我曼皇朝千秋萬世，摩連奴教練，Nico_Tagliafico，李典(曼成）
 ```
 
@@ -10460,7 +10476,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10475,7 +10491,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10490,7 +10506,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10533,7 +10549,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10579,7 +10595,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 疑ac被盜 曾用名稱：有錢無掟洗
 ```
 
@@ -10612,7 +10628,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：我要發脾氣，男朋友好好聞
 ```
 
@@ -10628,7 +10644,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10643,7 +10659,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：無名畀你叫，Freedomisntfree
 ```
 
@@ -10676,7 +10692,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：_TESTING_
 ```
 
@@ -10712,7 +10728,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -10727,7 +10743,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10758,7 +10774,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為魯柒#132525分身
 ```
 
@@ -10774,7 +10790,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10804,7 +10820,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10880,7 +10896,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：無不散之地，專笑賊登仔，諗唔到名呀屌，戒賭達人，牛B仔，牛肉加加蔥花，更新人（已破產），10月去破產
 ```
 
@@ -10899,7 +10915,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -10964,7 +10980,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -10979,7 +10995,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11012,7 +11028,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11043,7 +11059,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：ryanmok，鳩吹426，山竹吹倒一切
 ```
 
@@ -11059,7 +11075,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11074,7 +11090,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11213,7 +11229,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：聖母瑪利亞個sp
 ```
 
@@ -11262,7 +11278,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11326,7 +11342,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Brandon_Flowers
 ```
 
@@ -11342,7 +11358,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11360,7 +11376,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：香港大鋼炮，Superme-Italy，我係孔子，我加了大麻
 ```
 
@@ -11443,7 +11459,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：芒果汁，貓科動物
 ```
 
@@ -11476,7 +11492,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11508,7 +11524,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11523,7 +11539,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11570,7 +11586,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11585,7 +11601,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11664,7 +11680,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11697,7 +11713,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11713,7 +11729,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：小長澤
 ```
 
@@ -11744,7 +11760,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：玩具情報分享員
 ```
 
@@ -11791,7 +11807,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11842,7 +11858,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -11858,7 +11874,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：不求甚解最安樂
 ```
 
@@ -11875,7 +11891,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：將軍澳爛閪龍，庭沼珉(迷昭)，Rodri，五十嵐楓，庭沼珉(好喜歡她)，三司綾瀨，新海天，Amadou_Onana
 ```
 
@@ -11905,7 +11921,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11920,7 +11936,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：客觀正義人士AK哥，天水圍墮樓地獄獸，紫色彼岸花
 ```
 
@@ -11938,7 +11954,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -11953,7 +11969,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：致富真言偷呃搶
 ```
 
@@ -11970,7 +11986,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：錢途，遲下先改
 ```
 
@@ -12110,7 +12126,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：安棗荷撚
 ```
 
@@ -12126,7 +12142,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12159,7 +12175,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：快啦喂
 ```
 
@@ -12191,7 +12207,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12206,7 +12222,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -12237,7 +12253,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：180237006，柴灣十二虎
 ```
 
@@ -12269,7 +12285,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12285,7 +12301,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 曾用名稱：刀劍槍炮，熊貓麻雀書法
 ```
 
@@ -12346,7 +12362,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12361,7 +12377,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12377,7 +12393,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 *1詳見thread/1983904 曾用名稱：毅進三級榮譽生
 ```
 
@@ -12393,7 +12409,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12408,7 +12424,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12440,7 +12456,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 曾用名稱：香港玩完
 ```
 
@@ -12456,7 +12472,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12471,7 +12487,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12535,7 +12551,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：留眞主公
 ```
 
@@ -12551,7 +12567,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：專食豆腐
 ```
 
@@ -12600,7 +12616,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：拎u入Lingu(麵軍)，Iamatable，藍絲帶，很想遇返你，乸型狙擊手，193正渠頭，頂級花迷，小花（自閉仔）
 ```
 
@@ -12632,7 +12648,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：悄悄的憤怒鳥
 ```
 
@@ -12663,7 +12679,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12694,7 +12710,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12709,7 +12725,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12743,7 +12759,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List & #114193 提供
+由 LITrack-主要名單 & 老鳳狙擊List & #114193 提供
 ```
 
 ---
@@ -12760,7 +12776,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -12790,7 +12806,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -12820,7 +12836,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12835,7 +12851,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：追擊黃屍
 ```
 
@@ -12851,7 +12867,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -12899,7 +12915,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -12993,7 +13009,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13008,7 +13024,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13024,7 +13040,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：中大吉華醫院，港大北京中心
 ```
 
@@ -13040,7 +13056,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：新牌狗仔，荔枝角刨冰
 ```
 
@@ -13057,7 +13073,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -13074,7 +13090,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：論天下，吾愛國，冇女朋友比我撚，成日撚女朋友，彳亍走前線，向理来，踢你老豆入女廁，佐佐木，昆沙門天，正氣前鋒大波波，hm.son
 ```
 
@@ -13112,7 +13128,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -13129,7 +13145,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -13186,7 +13202,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13232,7 +13248,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13247,7 +13263,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13265,7 +13281,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：道白
 ```
 
@@ -13281,7 +13297,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 未知是否已ban
 ```
 
@@ -13300,7 +13316,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：有冇feel，老鴿
 ```
 
@@ -13316,7 +13332,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13332,7 +13348,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -13363,7 +13379,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Fatfatdog，褲異袋
 ```
 
@@ -13413,7 +13429,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13428,7 +13444,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Archer0000，夜已深明天早起
 ```
 
@@ -13476,7 +13492,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -13491,7 +13507,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：啻瑣舞熾紫，唐山大師兄，亞維儂之囚，魏浚泲，高師直，做咩起我底，佐渡守銀山，仲咁得閒上兒登，和記Angel
 ```
 
@@ -13508,7 +13524,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：滾杜b，大爆細爆一齊爆，瘋太郎，小淫賊.gif，巴丁神鋒（迷秕），小人賊（迷秕），Yukino(迷禾b)，古橋文乃（迷禾），周竪峰（文乃黨），古橋文乃（法師），狗狗文乃（反夢），愛新覺羅拿姆，W.Smallbone，D.Ceballos，韋達（十三少），古橋文乃（生氣），國民妹妹金與正，定海神針Medley，全能鐵衛Chambers，全能中場Elneny，世一中場牙詩詩，Unai_Emery，新小白牙詩詩，卡富張伯詩，英軍一號藍絲杜，入球機器韋洛克，兔兔寶恆，英軍一號藍斯兔，兵工廠傳奇蘇韋洛，金旼炡（冬天）
 ```
 
@@ -13540,7 +13556,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -13555,7 +13571,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13570,7 +13586,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：aryinnnnn，Younghysan
 ```
 
@@ -13586,7 +13602,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13604,7 +13620,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 曾用名稱：mark999，長崎島夜香，戇鳩仔裝linux，老師公大顯威靈，支那元朗城寨，新型冠狀人，新冠人，鋼腿水上飄，死黑奴譚德塞，超級戇鳩粉絲，叔言起莖，聖暗示星恥，香港國立大學，雜近平反六四，習豬頭食L屎，獌黑奴種棉花，支共武漢肺炎，黑奴譚德塞，紅燒翅，蒸條斑，半隻炸子雞
 ```
 
@@ -13623,7 +13639,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 被指為#50328分身 曾用名稱：blacKKKlansman，外遊狗死全家，福氣到極點啦，Covidonald，東亞病夫香港人，梁天琦.
 ```
 
@@ -13656,7 +13672,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：殺龍巴dd，小小大老千，肥痴大隻，薉芀虋，社區服務，幫推，日本，見字唔好飲水，䥹䵻䪤攨䱴㩸䥅䥸，All_in_tsla，巴打（失戀），肥絲大隻（重新），原創大人，連登囡囡，連燈絲打
 ```
 
@@ -13724,7 +13740,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：btc合約教教徒
 ```
 
@@ -13757,7 +13773,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 曾用名稱：鄭港恆，品酒仔
 ```
 
@@ -13773,7 +13789,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13788,7 +13804,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13837,7 +13853,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：中國平安，平胸好醫生，（SL人UT）
 ```
 
@@ -13870,7 +13886,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：KENTUENUK，沙田友Ken.
 ```
 
@@ -13901,7 +13917,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13916,7 +13932,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13931,7 +13947,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -13962,7 +13978,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：JKL，霹靂李雲迪
 ```
 
@@ -14009,7 +14025,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14051,7 +14067,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14066,7 +14082,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14245,7 +14261,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -14276,7 +14292,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14293,7 +14309,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：Weeaboo
 ```
 
@@ -14309,7 +14325,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14324,7 +14340,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：蔡徐坤X雞你太美，偶像練習生蔡徐坤，香港網警，KendrickLamar，破樸吧，GodBlessAmerica，藝人破樸吧
 ```
 
@@ -14356,7 +14372,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14371,7 +14387,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14389,7 +14405,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：習大大太大
 ```
 
@@ -14405,7 +14421,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14516,7 +14532,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14546,7 +14562,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：羊毛底衫
 ```
 
@@ -14562,7 +14578,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14578,7 +14594,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 手機台4大po 提供
+由 老鳳狙擊List & 手機台4大po 提供
 曾用名稱：𨶙狗藍們，抗藍義士
 ```
 
@@ -14594,7 +14610,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14656,7 +14672,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14687,7 +14703,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：沙田熱狗皇，點解連登仔咁撚串，連登廢文發佈AI，雞蟲狙擊手(後備)
 ```
 
@@ -14703,7 +14719,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14734,7 +14750,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14750,7 +14766,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -14782,7 +14798,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -14797,7 +14813,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14827,7 +14843,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14842,7 +14858,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14857,7 +14873,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -14927,7 +14943,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Poundofmyzoo，HK解散軍冷氣總部
 ```
 
@@ -14973,7 +14989,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #52207 提供
+由 老鳳狙擊List & #52207 提供
 ```
 
 ---
@@ -14991,7 +15007,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -15099,7 +15115,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15174,7 +15190,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15204,7 +15220,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15237,7 +15253,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：行善不能移，食得未啊，屋企熱水爐壞咗，屋企無嘢壞左，homo.deus，屋企無嘢壞左，你試下停止呼吸
 ```
 
@@ -15299,7 +15315,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15314,7 +15330,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15345,7 +15361,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
+由 老鳳狙擊List & 【五毛/玩膠/分化/發布假消息 User 集中貼】 提供
 ```
 
 ---
@@ -15407,7 +15423,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -15482,7 +15498,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15497,7 +15513,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：你厚多士，你有冇低抗力【P】，李家超久唔撚搭八【P】
 ```
 
@@ -15562,7 +15578,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & #26770 & #181436 & #11328 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & #26770 & #181436 & #11328 提供
 ```
 
 ---
@@ -15607,7 +15623,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Idishuwneh
 ```
 
@@ -15623,7 +15639,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15654,7 +15670,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15715,7 +15731,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15730,7 +15746,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15746,7 +15762,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：努力向上
 ```
 
@@ -15764,7 +15780,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -15779,7 +15795,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 未能於GOOGLE找到2020年後之相關留言 需自行起底
 ```
 
@@ -15798,7 +15814,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -15815,7 +15831,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -15870,7 +15886,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15962,7 +15978,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Hi_Freedom，Winter'sComing，風扇軍師，屁股精靈，破釜沉舟，一票不投黃碧雲，一票不投老泛民，進擊的碧雲(不投)，見字打J
 ```
 
@@ -15978,7 +15994,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -15997,7 +16013,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳List & #81113 & 連登三毛清單 提供
+由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List & #81113 & 連登三毛清單 提供
 曾用名稱：王牛羊，王奴lu
 ```
 
@@ -16014,7 +16030,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -16063,7 +16079,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -16078,7 +16094,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16095,7 +16111,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：OliviaChuuBB
 ```
 
@@ -16158,7 +16174,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 無法得知此用戶是否已ban 詳細請搵老鳳
 ```
 
@@ -16192,7 +16208,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -16264,7 +16280,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16279,7 +16295,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16294,7 +16310,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16309,7 +16325,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 【冒牌老鳯之一及被指為沙田you分身】曾用名稱：他鄉遇故支，月野免兔，老鳯
 ```
 
@@ -16325,7 +16341,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16340,7 +16356,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：黑警老母閪，順手牽陽，hugo1997
 ```
 
@@ -16373,7 +16389,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：南紗群島，隣家南孩，石破天驚權恩妃，造假有理曹柔理，反降狗死全家
 ```
 
@@ -16404,7 +16420,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16434,7 +16450,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：DONKEY，李察
 ```
 
@@ -16465,7 +16481,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16496,7 +16512,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -16526,7 +16542,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：天滅港共
 ```
 
@@ -16542,7 +16558,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16580,7 +16596,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -16596,7 +16612,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：泛民屬建制人士，善用長者八達通，你分化！你熱狗！，案底令人生精彩，專業分化分化撚，花旗私人銀行客戶，反情緒勒索巴，左膠剋星，時事台班塔利班，龔成老師，老師（月龔盈富），龔成問答信箱，死撚開啦你，CCTai網絡糾察隊，時事台禮貌大使，冷氣台座上客
 ```
 
@@ -16613,7 +16629,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #150030 提供
+由 老鳳狙擊List & #150030 提供
 ```
 
 ---
@@ -16628,7 +16644,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16660,7 +16676,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：3noirvexa
 ```
 
@@ -16695,7 +16711,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：新屯屎大乳，只得其樂，理大惠英紅，情陷聚寶坊，初了。，如果癡癡的等，壹剪霉，尻無，電腦玩家死全家
 ```
 
@@ -16774,7 +16790,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16808,7 +16824,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List & 連登三毛清單 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -16839,7 +16855,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16872,7 +16888,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 曾用名稱：rodrygoes，rodrygo_27，rodrygo_25，Antonio_Blanco，疤疲
 ```
 
@@ -16920,7 +16936,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Jessica520
 ```
 
@@ -16937,7 +16953,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -16952,7 +16968,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為蚑那變革者新ac
 ```
 
@@ -16998,7 +17014,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17013,7 +17029,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17045,7 +17061,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17140,7 +17156,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17156,7 +17172,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -17186,7 +17202,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17201,7 +17217,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指此用戶已開新ac#389885
 ```
 
@@ -17217,7 +17233,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17248,7 +17264,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -17325,7 +17341,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17341,7 +17357,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17357,7 +17373,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17389,7 +17405,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17420,7 +17436,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17436,7 +17452,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17451,7 +17467,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17466,7 +17482,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：復必泰
 ```
 
@@ -17532,7 +17548,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：忠孝復興
 ```
 
@@ -17548,7 +17564,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #165683 提供
+由 老鳳狙擊List & #165683 提供
 曾用名稱：追撃五毛專員
 ```
 
@@ -17564,7 +17580,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：大律師添添，李小加同志，利善榛bb，印家軍首領，印家大將軍
 ```
 
@@ -17595,7 +17611,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：ADHG，檸檬加牛奶，檸檬加克瓦斯
 ```
 
@@ -17615,7 +17631,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：溫州向上吊打兒
 ```
 
@@ -17631,7 +17647,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17647,7 +17663,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17662,7 +17678,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17678,7 +17694,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & 連登三毛清單 提供
+由 老鳳狙擊List & 連登三毛清單 提供
 ```
 
 ---
@@ -17711,7 +17727,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Ibiza，資本小奴隸，𠝹損龜頭浸火酒，上帝羔羊
 ```
 
@@ -17730,7 +17746,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：普巴條唇
 ```
 
@@ -17761,7 +17777,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17776,7 +17792,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17794,7 +17810,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-Off囝名單(經修訂) & 老鳳List 提供
+由 LITrack-Off囝名單(經修訂) & 老鳳狙擊List 提供
 曾用名稱：我的夢想
 ```
 
@@ -17810,7 +17826,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17826,7 +17842,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17873,7 +17889,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17892,7 +17908,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：地球係禾鯨領先，孤獨求敗，龜頭斯故鄉，係！各位筆友！，Jeremy粉絲，貓貓蘇晴
 ```
 
@@ -17942,7 +17958,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -17958,7 +17974,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -17973,7 +17989,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18005,7 +18021,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：可摸耳.，我要真普洱.
 ```
 
@@ -18021,7 +18037,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18068,7 +18084,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & LITrack-主要名單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18083,7 +18099,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18098,7 +18114,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Mo巫毛無冇？
 ```
 
@@ -18114,7 +18130,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18129,7 +18145,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18144,7 +18160,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #198278 提供
+由 老鳳狙擊List & #198278 提供
 被指可能為魯柒#132525分身 曾用名稱：生活態度
 ```
 
@@ -18175,7 +18191,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18224,7 +18240,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18242,7 +18258,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：白卡燥狂佬，世紀閪病強迫症，成班傻閪，精神病之都，榮譽白人連登仔，劉思慕
 ```
 
@@ -18276,7 +18292,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Ada打手
 ```
 
@@ -18295,7 +18311,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18311,7 +18327,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18342,7 +18358,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18357,7 +18373,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18372,7 +18388,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18387,7 +18403,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18418,7 +18434,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：曳曳漸凍仔
 ```
 
@@ -18436,7 +18452,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：老豆教仔，星期六要射波，Franz_Kafka，波波米路(193老公
 ```
 
@@ -18454,7 +18470,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18469,7 +18485,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18484,7 +18500,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18519,7 +18535,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：崔勝賢老婆【原紅色後為藍色】
 ```
 
@@ -18538,7 +18554,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18557,7 +18573,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：笑汗鳴，食其肉飲其血，吾爺李炳輝，春卷C(尸)，椰子是无辜的
 ```
 
@@ -18573,7 +18589,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 指此ac被魯柒收購
 ```
 
@@ -18605,7 +18621,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18620,7 +18636,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18669,7 +18685,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：Slut你個菊好黑，北韓元木木三，只攻頸，畢宮自破
 ```
 
@@ -18717,7 +18733,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18732,7 +18748,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18747,7 +18763,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18762,7 +18778,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18777,7 +18793,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 於#367299 po內指為魯柒分身
 ```
 
@@ -18805,7 +18821,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18821,7 +18837,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18838,7 +18854,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18856,7 +18872,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：我想行開忘記世界，甘心替代您，林家謙個妹
 ```
 
@@ -18872,7 +18888,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18904,7 +18920,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18919,7 +18935,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為#105798分身
 ```
 
@@ -18952,7 +18968,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -18967,7 +18983,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -18983,7 +18999,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19001,7 +19017,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：臭港一等賤民，臭港順民豬，YJ.P.Forward，花都謝撚埋
 ```
 
@@ -19019,7 +19035,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19034,7 +19050,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19069,7 +19085,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19086,7 +19102,7 @@ Example
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：123455，溝女達人
 ```
 
@@ -19102,7 +19118,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為魯柒#132525分身
 ```
 
@@ -19118,7 +19134,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19165,7 +19181,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19180,7 +19196,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：槓桿，仁哥怪博士
 ```
 
@@ -19208,7 +19224,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19223,7 +19239,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19254,7 +19270,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19269,7 +19285,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為魯柒#132525分身
 ```
 
@@ -19286,7 +19302,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19331,7 +19347,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19350,7 +19366,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：32857震散華爾街，Fernando_Pessoa，F_Pessoa(作寶)，許秀，Francis_Ngannou，美羅之心，胡些胡些胡些華，Paul_Atreides，鄭志勛，F_Pesso我淫lin
 ```
 
@@ -19367,7 +19383,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19402,7 +19418,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19417,7 +19433,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19433,7 +19449,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST &老鳳List 提供
+由 支囝狗隻LIST &老鳳狙擊List 提供
 被指為正牌黃世澤分身或其同事
 ```
 
@@ -19450,7 +19466,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 被指為#327010分身 曾用名稱：肅塞豐乳中_
 ```
 
@@ -19469,7 +19485,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：十六夜亞紀
 ```
 
@@ -19515,7 +19531,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 被指為魯柒#132525分身
 ```
 
@@ -19531,7 +19547,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #188264 提供
+由 老鳳狙擊List & #188264 提供
 被指分身ac#207734及開新ac#399588 曾用名稱：連登頭號米粉，利雲度夫個樣似我
 ```
 
@@ -19548,7 +19564,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19567,7 +19583,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19584,7 +19600,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：國安叔叔，連登煮意
 ```
 
@@ -19600,7 +19616,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19618,7 +19634,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳List 提供
+由 LITrack-主要名單 & 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -19633,7 +19649,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：躺平者
 ```
 
@@ -19681,7 +19697,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19698,7 +19714,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 被指為魯柒#132525分身 曾用名稱：就是我，P狗處決師
 ```
 
@@ -19757,7 +19773,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19772,7 +19788,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：青靚白淨肌肉內雙
 ```
 
@@ -19788,7 +19804,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：蝦囝嗲哋，清熱不上火
 ```
 
@@ -19805,7 +19821,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳List 提供
+由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
 曾用名稱：柯in槓桿狗狗幣，槓桿柯in柴柴幣
 ```
 
@@ -19837,7 +19853,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19852,7 +19868,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19867,7 +19883,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19882,7 +19898,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19900,7 +19916,7 @@ Example
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳List 提供
+由 OFF囝戇鳩LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：鴨甲鳥
 ```
 
@@ -19919,7 +19935,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 曾用名稱：小花貓04(反193)，小花貓
 ```
 
@@ -19953,7 +19969,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -19984,7 +20000,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：謝天華華華
 ```
 
@@ -20070,7 +20086,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20085,7 +20101,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20100,7 +20116,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：身高原教主義
 ```
 
@@ -20131,7 +20147,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20146,7 +20162,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20161,7 +20177,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20177,7 +20193,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20192,7 +20208,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20242,7 +20258,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20274,7 +20290,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 分身為#416828 曾用名稱：柒下柒屌河馬，連美斯(c朗隊友)，連美斯(Ivy老公)，連美斯（牙古路）
 ```
 
@@ -20307,7 +20323,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20338,7 +20354,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20353,7 +20369,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：夢想是不上班，存款=零，幼稚完未？
 ```
 
@@ -20386,7 +20402,7 @@ Example
 
 </div>
 ```markdown
-由 問題會員清單 & 老鳳List 提供
+由 問題會員清單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20401,7 +20417,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20417,7 +20433,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20432,7 +20448,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20447,7 +20463,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20463,7 +20479,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：擱淺的魚
 ```
 
@@ -20481,7 +20497,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：香港人不是狗ok?，老鳯是我的狗ok?
 ```
 
@@ -20501,7 +20517,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 問題會員清單 & 老鳳List 提供
+由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
 曾用名稱：等埋一齊食晚飯好
 ```
 
@@ -20533,7 +20549,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20549,7 +20565,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 被指為#330057分身
 ```
 
@@ -20566,7 +20582,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：日日返印度
 ```
 
@@ -20583,7 +20599,7 @@ Example
 
 </div>
 ```markdown
-由 LITrack-主要名單 & 老鳳List 提供
+由 LITrack-主要名單 & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20599,7 +20615,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20630,7 +20646,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：T.Zidane，M_Gutierrez
 ```
 
@@ -20647,7 +20663,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：小妹米八高，冬冬妹
 ```
 
@@ -20683,7 +20699,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20699,7 +20715,7 @@ Example
 
 </div>
 ```markdown
-由 支囝狗隻LIST & 老鳳List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 ```
 
 ---
@@ -20714,7 +20730,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List & #275331 提供
+由 老鳳狙擊List & #275331 提供
 ```
 
 ---
@@ -20729,7 +20745,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 ---
@@ -20760,7 +20776,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 曾用名稱：Utopian
 ```
 
@@ -20776,7 +20792,7 @@ Example
 
 </div>
 ```markdown
-由 老鳳List 提供
+由 老鳳狙擊List 提供
 ```
 
 <style>#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
