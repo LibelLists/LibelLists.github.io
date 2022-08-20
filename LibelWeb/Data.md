@@ -6863,6 +6863,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #89752 • 北極熊貓 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89752){: .btn }</span> • 註冊日期: 2017年3月7日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 北極熊貓 | 狗隻 | 請問北極熊貓(狗隻#89752)你屙尿嗰陣起左腳定右腳? | [🔗](https://lihkg.com/thread/2510113/page/1){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：南極大陸
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #89955 • 肩係膊頭* • <span class="fs-4">[連登起底](https://lihkg.com/profile/89955){: .btn }</span> • 註冊日期: 2017年3月8日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
