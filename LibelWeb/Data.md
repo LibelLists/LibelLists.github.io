@@ -15755,7 +15755,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #278858 • 404 • <span class="fs-4">[連登起底](https://lihkg.com/profile/278858){: .btn }</span> • 註冊日期: 2019年7月12日
+## #278858 • 404. • <span class="fs-4">[連登起底](https://lihkg.com/profile/278858){: .btn }</span> • 註冊日期: 2019年7月12日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -15764,6 +15764,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
+曾用名稱：404
 ```
 
 ---
