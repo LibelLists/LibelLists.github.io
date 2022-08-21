@@ -6847,6 +6847,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #89478 • 美國佬 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89478){: .btn }</span> • 註冊日期: 2017年3月6日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 美國佬 | 狗隻 | 請問美國佬(狗隻#89478)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/1252475/page/1){: .btn } |
+
+</div>
+```markdown
+由 老鳳狙擊List 提供
+曾用名稱：Ameri.can美國佬，誰是男神呢
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #89514 • 太空空氣清新機 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89514){: .btn }</span> • 註冊日期: 2017年3月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
