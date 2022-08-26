@@ -6326,7 +6326,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #78959 • 會考30分 • <span class="fs-4">[連登起底](https://lihkg.com/profile/78959){: .btn }</span> • 註冊日期: 2017年1月24日
+## #78959 • 戀愛徵兆 • <span class="fs-4">[連登起底](https://lihkg.com/profile/78959){: .btn }</span> • 註冊日期: 2017年1月24日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -6335,7 +6335,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
-曾用名稱：香鳥真巴打，劍術大師，劍劍好大師，呀陳仔
+曾用名稱：香鳥真巴打，劍術大師，劍劍好大師，呀陳仔，會考30分
 ```
 
 ---
