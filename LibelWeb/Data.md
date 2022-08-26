@@ -1160,7 +1160,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #13067 • 游學修老師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/13067){: .btn }</span> • 註冊日期: 2016年11月25日
+## #13067 • 哈利波腎 • <span class="fs-4">[連登起底](https://lihkg.com/profile/13067){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
