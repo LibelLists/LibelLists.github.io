@@ -7565,7 +7565,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #100680 • Urbosa386 • <span class="fs-4">[連登起底](https://lihkg.com/profile/100680){: .btn }</span> • 註冊日期: 2017年3月29日
+## #100680 • 開動快樂 • <span class="fs-4">[連登起底](https://lihkg.com/profile/100680){: .btn }</span> • 註冊日期: 2017年3月29日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -7576,7 +7576,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 部份圖片#70286 提供
-曾用名稱：ALBIO，UNUSUAL，_GENIC，小日子_JOEY，C-KuLaSu，GENIC，Hoenn，開啟快樂，theEspeon，エーフィ，TheEcon，TenorGLac，EEFI，想得太遠
+曾用名稱：ALBIO，UNUSUAL，_GENIC，小日子_JOEY，C-KuLaSu，GENIC，Hoenn，開啟快樂，theEspeon，エーフィ，TheEcon，TenorGLac，EEFI，想得太遠，Urbosa386
 ```
 
 ---
@@ -7732,7 +7732,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #105798 • 今朝冇酒 • <span class="fs-4">[連登起底](https://lihkg.com/profile/105798){: .btn }</span> • 註冊日期: 2017年4月13日
+## #105798 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/105798){: .btn }</span> • 註冊日期: 2017年4月13日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -8867,7 +8867,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #127033 • 撚化白卡(追擊師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/127033){: .btn }</span> • 註冊日期: 2017年7月6日
+## #127033 • 撚化白卡·追擊師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/127033){: .btn }</span> • 註冊日期: 2017年7月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -8879,7 +8879,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
-曾用名稱：試著說，有個16歲女友，來吧倒轉地球.，撚化白卡
+曾用名稱：試著說，有個16歲女友，來吧倒轉地球.，撚化白卡，撚化白卡(追擊師
 ```
 
 ---
