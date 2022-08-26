@@ -6911,7 +6911,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #89917 • 不配有愛情 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89917){: .btn }</span> • 註冊日期: 20
+## #89917 • 不配有愛情 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89917){: .btn }</span> • 註冊日期: 2017年3月8日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
