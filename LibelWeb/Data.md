@@ -727,7 +727,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #7076 • ElonDaddy • <span class="fs-4">[連登起底](https://lihkg.com/profile/7076){: .btn }</span> • 註冊日期: 2016年11月25日
+## #7076 • @elonmusk • <span class="fs-4">[連登起底](https://lihkg.com/profile/7076){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -736,7 +736,7 @@ permalink: /LibelWeb
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：我不是機器人II
+曾用名稱：我不是機器人II，ElonDaddy
 ```
 
 ---
