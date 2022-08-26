@@ -5033,6 +5033,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #61271 • Calamine • <span class="fs-4">[連登起底](https://lihkg.com/profile/61271){: .btn }</span> • 註冊日期: 2016年12月8日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| Calamine | 狗隻 | 話「西方國家話共產黨喺新疆搞集中營，根本無證無據 Eason 同adidas 割蓆根本就合情合理 係有班黃屍想用呢單野反共，乘機反埋Eason」 | [🔗](https://lih.kg/bqjyetV){: .btn .mr-2 }[🖼️](https://na.cx/i/WWuxuWA.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：Tolperisone，Colchicine
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #61348 • 炒壽師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/61348){: .btn }</span> • 註冊日期: 2016年12月8日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -11077,6 +11093,23 @@ Example
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
 曾用名稱：吊你咩，中出合
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #181819 • 楊秀珍個O俾人X • <span class="fs-4">[連登起底](https://lihkg.com/profile/181819){: .btn }</span> • 註冊日期: 2018年4月12日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 楊秀珍個O俾人X  | 狗隻 | 方仲賢今早刑滿出獄將負笈英國，佢問「說好的齊上齊落?」 | [🔗](https://lih.kg/iQyCPT){: .btn } |
+|  | 狗隻 | 認為講香港會沉淪就係落井下石 | [🔗](https://lih.kg/bpMLMPV){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：升莓莓莓莓羌，什麼我都有預感，鹹濕可以醫風濕，Peter_Lynch，你地就快智障喇吓
 ```
 
 ---
@@ -20428,7 +20461,8 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 機啞利薯 | 支那種 | 自認支那狗 | [🔗](https://lih.kg/igMGoT){: .btn } | 
+| 機啞利薯 | 狗隻 | 話「2022喇 仲吹到有死人 個陣831吹個個咩韓保生死左後尾證明係fake news仲唔夠柒？![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/bqmrGAV){: .btn .mr-2 }[🖼️](https://na.cx/i/MNrjUnC.png){: .btn } |
+|  | 支那種 | 自認支那狗 | [🔗](https://lih.kg/igMGoT){: .btn } | 
 |  | 假膠 | 鳩叫手足 | [🔗](https://lih.kg/hRvyhT){: .btn } | 
 |  | 狗隻 | 請問機啞利薯(狗隻#415379)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2849055/page/1){: .btn } | 
 
