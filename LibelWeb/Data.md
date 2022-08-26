@@ -6491,7 +6491,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #81273 • 馬交代左潘頓唔去 • <span class="fs-4">[連登起底](https://lihkg.com/profile/81273){: .btn }</span> • 註冊日期: 2017年1月31日
+## #81273 • 可5可以講多少少 • <span class="fs-4">[連登起底](https://lihkg.com/profile/81273){: .btn }</span> • 註冊日期: 2017年1月31日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -6500,7 +6500,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：Peter_Wright，菅井大小姐，Bookmarker_23，20/4/2019戒賭，賭波馬輸到跳樓，跟方駿暉贏大錢，應承我唔好再賭波，唔怕！相信雷神！，馬場TQQQ-潘頓
+曾用名稱：Peter_Wright，菅井大小姐，Bookmarker_23，20/4/2019戒賭，賭波馬輸到跳樓，跟方駿暉贏大錢，應承我唔好再賭波，唔怕！相信雷神！，馬場TQQQ-潘頓，馬交代左潘頓唔去
 ```
 
 ---
