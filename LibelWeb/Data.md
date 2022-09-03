@@ -9187,6 +9187,21 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #131753 • 安全道 • <span class="fs-4">[連登起底](https://lihkg.com/profile/131753){: .btn }</span> • 註冊日期: 2017年7月27日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 安全道 | 狗隻 | 義士割黑警頸，佢話「割頸暴徒咁撚樣先判得7年？暴徒我屌你老母![](https://cdn.lihkg.com/assets/faces/normal/fire.gif)![](https://cdn.lihkg.com/assets/faces/normal/fire.gif)![](https://cdn.lihkg.com/assets/faces/normal/fire.gif)![](https://cdn.lihkg.com/assets/faces/normal/fire.gif)![](https://cdn.lihkg.com/assets/faces/normal/fire.gif)」 | [🔗](https://lih.kg/3132540){: .btn .mr-2 }[🖼️](https://na.cx/i/pCXPVMW.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #131916 • 天黑請開眼 • <span class="fs-4">[連登起底](https://lihkg.com/profile/131916){: .btn }</span> • 註冊日期: 2017年7月28日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -11105,6 +11120,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 楊秀珍個O俾人X  | 狗隻 | 方仲賢今早刑滿出獄將負笈英國，佢問「說好的齊上齊落?」 | [🔗](https://lih.kg/iQyCPT){: .btn } |
 |  | 狗隻 | 認為講香港會沉淪就係落井下石 | [🔗](https://lih.kg/bpMLMPV){: .btn } |
+|  | 狗隻 | 話「有幾客觀呀小粉黃![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)![](https://cdn.lihkg.com/assets/faces/big/sosad.gif)」 | [🔗](https://lih.kg/xGRGMCX){: .btn .mr-2 }[🖼️](https://na.cx/i/GqqmMKk.png){: .btn } |
 
 </div>
 ```markdown
@@ -19422,6 +19438,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #386678 • 偷著樂 • <span class="fs-4">[連登起底](https://lihkg.com/profile/386678){: .btn }</span> • 註冊日期: 2020年12月6日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 偷著樂 | 狗隻 | 話「見到啲粵配消失得7788真係心都涼哂![](https://cdn.lihkg.com/assets/faces/normal/369.gif)![](https://cdn.lihkg.com/assets/faces/normal/369.gif)![](https://cdn.lihkg.com/assets/faces/normal/369.gif)」 | [🔗](https://lih.kg/xNjNrdX){: .btn .mr-2 }[🖼️](https://na.cx/i/wi4bpz6.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：馬と鹿，宇宙人，一點黑，胸很大、好男人
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #388757 •  Pessoa_Fernando • <span class="fs-4">[連登起底](https://lihkg.com/profile/388757){: .btn }</span> • 註冊日期: 2020年12月31日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -20114,6 +20146,24 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #404758 • 李麗珍寶腸 • <span class="fs-4">[連登起底](https://lihkg.com/profile/404758){: .btn }</span> • 註冊日期: 2021年7月29日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 李麗珍寶腸 | 狗隻 | 佢問「我唔係住上水... 但想知其實水貨客有咩問題.. 佢地都係落手落腳揾餐飯食, 幫左香港攞平野賣」 | [🔗](https://lih.kg/bqirHnV){: .btn .mr-2 }[🖼️](https://na.cx/i/MUvJ0ed.png){: .btn } |
+| 【空ac】 | 狗隻 | 金鐘狗鐵站熱，佢話「其實點解可以咁痴線... 熱幾分鐘都叫曬救命.... 呢一代嘅嬌生慣養完全去左另一個層次 星加坡咁輕鬆取代香港唔係無原因」 | [🔗](https://lih.kg/iPFamT){: .btn .mr-2 }[🖼️](https://na.cx/i/UmUR87Q.png){: .btn } |
+|  | 狗隻 | 呢排好多後生仔自殺，佢話「呢一代太嬌生慣養.... 無媽咪嗲d幫就唔識做人 乜都怪責人地唔比佢 無錢買樓怪政府, 怪父幹...... 屋細怪發展商... 無女怪女權...」 | [🔗](https://lih.kg/iMfRBT){: .btn .mr-2 }[🖼️](https://na.cx/i/hU3rX1n.png){: .btn } |
+|  | 狗隻 | 認為因為要矜貴先去英國:「去澳加囉.... 洗乜靠佢![](https://cdn.lihkg.com/assets/faces/cow/arrogant.gif) 英國多人去, 係因為樓平啫, 同埋有bno阿豬阿狗都去得..... 成件事搞到好唔矜貴好cheap咁 但真係有價值嘅野, 又點會平, 又點會易去呢?」 | [🔗](https://lih.kg/boLsCoV){: .btn .mr-2 }[🖼️](https://na.cx/i/95AentT.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #405271 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/405271){: .btn }</span> • 註冊日期: 2021年8月7日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -20483,6 +20533,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 【冒牌貨】月野免免【空ac】 | 狗隻 | 請問冒牌貨月野免免(狗隻#415651)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2755952/page/1){: .btn } | 
+|  | 狗隻 | 一班英國中學生係劍橋演奏「願榮光歸香港」，佢話「班監躉手joke好安慰![](https://cdn.lihkg.com/assets/faces/mouse/notcry.gif)」 | [🔗](https://lih.kg/xPDFwNX){: .btn .mr-2 }[🖼️](https://na.cx/i/OVf6dB5.png){: .btn } |
 
 </div>
 ```markdown
@@ -20636,6 +20687,22 @@ Example
 ```markdown
 由 支囝狗隻LIST & 老鳳狙擊List 提供
 被指為#330057分身
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #421617 • 水原千鶴 • <span class="fs-4">[連登起底](https://lihkg.com/profile/421617){: .btn }</span> • 註冊日期: 2021年12月7日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 水原千鶴 | 五毛 | 話「有個同事要睇精神科, 好似之前佔中參與暴力事件嘅人嚟。話請件有坐過監嘅嚟返工, 會教壞班後生」 | [🔗](https://lih.kg/3110396){: .btn .mr-2 }[🖼️](https://na.cx/i/1HTb82Q.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：茶花女，煙花女，瘋不二子
 ```
 
 ---
@@ -20862,6 +20929,39 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #496462 • 約克 • <span class="fs-4">[連登起底](https://lihkg.com/profile/496462){: .btn }</span> • 註冊日期: 2022年7月28日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 約克 | 五毛 | 曾志健「健仔」徵筆友，佢話「你寫飽佢![](https://cdn.lihkg.com/assets/faces/big/smile.gif)」 | [🔗](https://lih.kg/bpHogpV){: .btn .mr-2 }[🖼️](https://na.cx/i/DvEe6LC.png){: .btn } |
+| 【空ac】 | 五毛 | 有人問「請問咁既趟窗邊到買到？」，佢話「taobao ![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」 | [🔗](https://lih.kg/jbfpRT){: .btn .mr-2 }[🖼️](https://na.cx/i/qNEVRcS.png){: .btn } |
+|  | 五毛 | 人地合法用特惠票，佢話「啲柒頭唔逃票咪唔使查囉ON9 逃票仲覺得自己好啱, 真係佩服![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/jbKmzT){: .btn .mr-2 }[🖼️](https://na.cx/i/d7ijysm.png){: .btn } |
+|  | 五毛 | 有人block五毛，佢話「你咪淨係揀啲啱你風向嘅嘢聽 收柒皮啦![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)![](https://cdn.lihkg.com/assets/faces/normal/sosad.gif)」 | [🔗](https://lih.kg/xOjEaEX){: .btn .mr-2 }[🖼️](https://na.cx/i/WSvmMNQ.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #501344 • 傻逼勇也 • <span class="fs-4">[連登起底](https://lihkg.com/profile/501344){: .btn }</span> • 註冊日期: 2022年8月9日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 傻逼勇也【1po空ac】 | 狗隻 | 割警頸案中六生認罪囚7年9個月，佢話「移民果d咪食佐呢位手足人血曼頭囉」 | [🔗](https://lih.kg/jbGKtT){: .btn .mr-2 }[🖼️](https://na.cx/i/Vwmw86m.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
 ```
 
 <style>#G2TopBtn {display: none;position: fixed;bottom: 20px;right: 30px;z-index: 99;font-size: 18px;border: none;outline: none;background-color: #302d36;color: White;cursor: pointer;padding: 10px;border-radius: 4px;}#G2TopBtn:hover {background-color: #555;}</style>
