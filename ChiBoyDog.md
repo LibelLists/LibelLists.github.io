@@ -9,9 +9,9 @@ search_exclude: true
 
 ---
 
-#### 支囝狗隻LIST (305人)
+#### 支囝狗隻LIST (312人)
 ```
 https://raw.githubusercontent.com/shiaifglshav/ChiBoyDogList/main/ChiBoyDogList.json
 ```
 
-###### *1 人數更新時間為2022年8月26日
+###### *1 人數更新時間為2022年9月3日
