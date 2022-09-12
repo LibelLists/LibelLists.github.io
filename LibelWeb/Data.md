@@ -1563,6 +1563,21 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
+## #19012 • F5制都撳爛啦 • <span class="fs-4">[連登起底](https://lihkg.com/profile/19012){: .btn }</span> • 註冊日期: 2016年11月26日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| F5制都撳爛啦 | 狗隻 | 秀茂坪地盤 天秤倒塌一刻, 佢話「皇天擊殺![](https://cdn.lihkg.com/assets/faces/normal/agree.gif)」 | [🔗](https://lih.kg/bqLGqwV){: .btn .mr-2 }[🖼️](https://na.cx/i/ZchJLL8.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #19334 • Olivier吉魯 • <span class="fs-4">[連登起底](https://lihkg.com/profile/19334){: .btn }</span> • 註冊日期: 2016年11月26日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -5184,11 +5199,12 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 63311 | ⚠️ | 對暴動罪判囚女子留言表示：「唔搞事咪唔使入去受」，其後又對被捕同路人幸災樂禍。 | [原po已死](https://lih.kg/aypvheV){: .btn .mr-2  }[🔗](https://lih.kg/aBcjMOV){: .btn .mr-2  }[🔗](https://lih.kg/fMRBbT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/63311){: .btn } | 
+|  | 狗隻 | 阿布泰：有三員工因賣曼谷半島月餅被海關拘捕, 佢話「變藍店 可以罷買」 | [🔗](https://lih.kg/jcEJjT){: .btn .mr-2 }[🖼️](https://na.cx/i/Hn9Tox7.png){: .btn } |
 |  | 狗隻 | 請問63311(狗隻#63311)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2150376/page/1){: .btn } | 
 
 </div>
 ```markdown
-由 舊OFF囝戇鳩LIST & 老鳳狙擊List 提供
+由 舊OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：美國將軍，Eurydice，涼宮春日A，免費晚餐，Aqua，Monica，SantaMonica，討論區主人，SkylineBank，我叫連豬
 ```
 
@@ -6147,11 +6163,12 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 我既訴求就係返工 | 狗隻 | 請問我既訴求就係返工(狗隻#76793)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2781889/page/1){: .btn } | 
+| 我既訴求就係返工 | 狗隻 | 26歲被困工人傍晚救出　當場證實不治，佢話「死左 都好過傻西mo咁 救返黎都哂藥費」 | [🔗](https://lih.kg/bqKvEJV){: .btn .mr-2 }[🖼️](https://na.cx/i/ttxJLJg.png){: .btn } |
+|  | 狗隻 | 請問我既訴求就係返工(狗隻#76793)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2781889/page/1){: .btn } | 
 
 </div>
 ```markdown
-由 老鳳狙擊List 提供
+由 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：只有假，港豬是我
 ```
 
@@ -7457,6 +7474,21 @@ Example
 ```markdown
 由 老鳳狙擊List 提供
 曾用名稱：駁吾刀，五月二十八號_睛
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #99493 • IronFist • <span class="fs-4">[連登起底](https://lihkg.com/profile/99493){: .btn }</span> • 註冊日期: 207年3月27日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| IronFist | 狗隻 |  | [🔗](https://lih.kg/bqKvFEV){: .btn .mr-2 }[🖼️](https://na.cx/i/direSoH.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
 ```
 
 ---
@@ -9593,6 +9625,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #143241 • 港共總書記 • <span class="fs-4">[連登起底](https://lihkg.com/profile/143241){: .btn }</span> • 註冊日期: 2017年9月3日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 港共總書記 | 狗隻 | 安達臣道天秤意外｜其中一名死者為22歲工程師助理, 佢話「冇生多個做backup?」 | [🔗](https://lih.kg/bqKqLhV){: .btn .mr-2 }[🖼️](https://na.cx/i/osd1xgd.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：香港國民黨，幽默的人，揸粒膠去打仗
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #143402 • 初級網絡評論員 • <span class="fs-4">[連登起底](https://lihkg.com/profile/143402){: .btn }</span> • 註冊日期: 2017年9月3日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -9851,11 +9899,12 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 滿地花生 | 仆街仔 | 對東涌雙屍命案的女死者表示「冇被性侵痕跡？有冇咁浪費啊」。 | [🔗](https://lih.kg/turhFpX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/148447/148447.1_.png){: .btn } | 
-| 【5po ac】 | 狗隻 | 請問滿地花生(狗隻#148447)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3009369){: .btn .mr-2  } | 
+| 【5po ac】 | 狗隻 | 26歲被困工人傍晚救出　當場證實不治，佢話「又死多件![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)」 | [🔗](https://lih.kg/bqKvFHV){: .btn .mr-2 }[🖼️](https://na.cx/i/mEcxD3V.png){: .btn } |
+|  | 狗隻 | 請問滿地花生(狗隻#148447)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3009369){: .btn } | 
 
 </div>
 ```markdown
-由 OFF囝戇鳩LIST & 老鳳狙擊List 提供
+由 OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
 曾用名稱：我不想一個快活
 ```
 
@@ -15837,6 +15886,21 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #280017 • 區麗芝 • <span class="fs-4">[連登起底](https://lihkg.com/profile/280017){: .btn }</span> • 註冊日期: 2019年7月14日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 區麗芝<br>【4po ac】 | 狗隻 | 26歲被困工人傍晚救出　當場證實不治，佢話「唔止伍淑清，個天都放棄香港的下一代年輕人，你哋班生諗諗2019年做咗咩壞事令個天反噬![](https://cdn.lihkg.com/assets/faces/normal/wonder.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)![](https://cdn.lihkg.com/assets/faces/normal/fuck.gif)![](https://cdn.lihkg.com/assets/faces/normal/fuck.gif)![](https://cdn.lihkg.com/assets/faces/normal/fuck.gif)」 | [🔗](https://lih.kg/bqKvFnV){: .btn .mr-2 }[🖼️](https://na.cx/i/zikn1gi.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #281023 • 山外小樓夜聽雨 • <span class="fs-4">[連登起底](https://lihkg.com/profile/281023){: .btn }</span> • 註冊日期: 2019年7月15日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -18974,6 +19038,22 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #375059 • 凌雪飛 • <span class="fs-4">[連登起底](https://lihkg.com/profile/375059){: .btn }</span> • 註冊日期: 2020年9月7日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 凌雪飛<br>【2po空ac】 | 狗隻 | 26歲被困工人傍晚救出　當場證實不治, 佢話「加油 早日康復![](https://cdn.lihkg.com/assets/faces/normal/cry.gif)」 | [🔗](https://lih.kg/bqKvEFV){: .btn .mr-2 }[🖼️](https://na.cx/i/AQhmxdw.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：心之所慕
 ```
 
 ---
