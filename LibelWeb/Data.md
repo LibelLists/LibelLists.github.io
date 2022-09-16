@@ -20106,7 +20106,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #401832 • 小花貓04 • <span class="fs-4">[連登起底](https://lihkg.com/profile/401832){: .btn }</span> • 註冊日期: 2021年6月16日
+## #401832 • 花貓小 • <span class="fs-4">[連登起底](https://lihkg.com/profile/401832){: .btn }</span> • 註冊日期: 2021年6月16日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -20118,7 +20118,7 @@ Example
 </div>
 ```markdown
 由 LITrack-主要名單 & 老鳳狙擊List 提供
-曾用名稱：小花貓04(反193)，小花貓
+曾用名稱：小花貓04(反193)，小花貓，小花貓04
 ```
 
 ---
