@@ -8006,7 +8006,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 性感跳跳虎 | 狗隻 | 話「2022啦，仲手足#haha#dog#haha#dog 正正經經去麥當勞炸薯條啦」 | [🔗](https://lih.kg/bpwtQGV){: .btn .mr-2 }[🖼️](https://na.cx/i/fF3fcYk.png){: .btn } |
+| 性感跳跳虎 | 狗隻 | 話「2022啦，仲手足![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif) 正正經經去麥當勞炸薯條啦」 | [🔗](https://lih.kg/bpwtQGV){: .btn .mr-2 }[🖼️](https://na.cx/i/fF3fcYk.png){: .btn } |
 |  | 狗隻 | 話「傻閪黃屍」 | [🔗](https://lih.kg/bpwtRbV){: .btn .mr-2 }[🖼️](https://na.cx/i/2eMHCqa.png){: .btn } |
 
 </div>
