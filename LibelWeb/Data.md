@@ -19215,7 +19215,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | LaVenn | ⚠️ | 對同路人幸災樂禍。 | [🔗](https://lih.kg/aGhvscV){: .btn .mr-2  }[🔗](https://lih.kg/rLMBeiX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/378793){: .btn } | 
 | 【4po ac】 | 小心此人 | 恥笑留港的手足，又對被判入獄的椰子巴打冷嘲熱諷。 | [🔗](https://lih.kg/gEKBaT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/378793/378793.1_.png){: .btn .mr-2  }[🔗](https://lih.kg/sMxngxX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/378793/378793.2_.png){: .btn } | 
-|  | ⚠️ | 1. 桔梗負責人收到電話明天到旺角警署作落案拘捕,佢話「食到佢地有錢保釋」 2. 行山失蹤女子石樂蕎證實死亡，佢無啦啦話「真手足![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | 1. [🔗](https://lih.kg/aOshDuV){: .btn .mr-2  }2. [🔗](https://lih.kg/gRArrT){: .btn } | 
+|  | ⚠️ | 1. 桔梗負責人收到電話明天到旺角警署作落案拘捕,佢話「食到佢地有錢保釋」 2. 行山失蹤女子石樂蕎證實死亡，佢無啦啦話「真手足![](https://cdn.lihkg.com/assets/faces/pig/wail2.gif)」 | 1. [🔗](https://lih.kg/aOshDuV){: .btn .mr-2  }2.[🔗](https://lih.kg/gRArrT){: .btn } | 
 |  | 曱甴 | 請問LaVenn(狗隻#378793)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2325308/page/1){: .btn } | 
 
 </div>
@@ -19516,7 +19516,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 數碼啟暴龍【空ac】 | 狗隻 | 樓主希望天琦真係得到真正嘅自由![](https://cdn.lihkg.com/assets/faces/normal/adore.gif), 佢話「正，久唔久可以入呢啲打飛機post留個言保持熱誠![](https://cdn.lihkg.com/assets/faces/normal/good.gif)」 | [🔗](){: .btn .mr-2 }[🖼️](){: .btn } |
+| 數碼啟暴龍【空ac】 | 狗隻 | 樓主希望天琦真係得到真正嘅自由![](https://cdn.lihkg.com/assets/faces/normal/adore.gif), 佢話「正，久唔久可以入呢啲打飛機post留個言保持熱誠![](https://cdn.lihkg.com/assets/faces/normal/good.gif)」 | [🔗](https://lih.kg/xfyxApX){: .btn .mr-2 }[🖼️](https://na.cx/i/55SySTq.png){: .btn } |
 
 </div>
 ```markdown
@@ -19543,7 +19543,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #387391 • 公屋富戶割韭菜 • <span class="fs-4">[連登起底](https://lihkg.com/profile/387391){: .btn }</span> • 註冊日期: 2020年12月14日
+## #387391 • 色時務者林俊傑 • <span class="fs-4">[連登起底](https://lihkg.com/profile/387391){: .btn }</span> • 註冊日期: 2020年12月14日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
