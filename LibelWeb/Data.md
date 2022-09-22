@@ -4590,8 +4590,8 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 李穎蔚【已ban】 | 分化風向狗 | (留言已死) 被其他會員指責佢分化當時正準備罷工爭取封關嘅醫護。 | [🔗](https://lihkg.com/thread/1845662/page/1?post=14){: .btn .mr-2  }[🖼️](https://na.cx/i/FuZjHJj.png){: .btn } | 
-|  | 正仆街 | (留言已死) 一名女子接種「復必泰」後抽搐，佢回應「捽完粒豆豆？」。 | [🔗](https://lihkg.com/thread/2529281/page/5?post=110){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/55458/55458.1_.png){: .btn } | 
+| 李穎蔚 | 分化風向狗 | (留言已死) 被其他會員指責佢分化當時正準備罷工爭取封關嘅醫護。 | [🔗](https://lihkg.com/thread/1845662/page/1?post=14){: .btn .mr-2  }[🖼️](https://na.cx/i/FuZjHJj.png){: .btn } | 
+| 【已ban】 | 正仆街 | (留言已死) 一名女子接種「復必泰」後抽搐，佢回應「捽完粒豆豆？」。 | [🔗](https://lihkg.com/thread/2529281/page/5?post=110){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/following/55458/55458.1_.png){: .btn } | 
 
 </div>
 ```markdown
