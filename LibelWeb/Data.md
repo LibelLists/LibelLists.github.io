@@ -18219,7 +18219,8 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 企奧特【空ac】 | 狗隻 | 請問企奧特(狗隻#351989)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2901662/page/1){: .btn .mr-2  }[🔗](https://lih.kg/whtckFX){: .btn .mr-2  }[🖼️](https://na.cx/i/LvEsTEJ.png){: .btn } | 
+| 企奧特 | 狗隻 | 對烏克蘭冷嘲熱諷，並且使用殘體字 | [🔗](https://lih.kg/whtckFX){: .btn .mr-2  }[🖼️](https://na.cx/i/LvEsTEJ.png){: .btn } |
+| 【空ac】 | 狗隻 | 請問企奧特(狗隻#351989)你屙尿嗰陣屹起左腳定右腳? | [原po已死](https://lihkg.com/thread/2901662/page/1){: .btn  } | 
 
 </div>
 ```markdown
