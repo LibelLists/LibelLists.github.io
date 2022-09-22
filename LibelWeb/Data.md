@@ -18633,7 +18633,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| K.Bryant | 親共少數派 | 1. 玩極端，認為收利是就係支那人 2. victim blaming，認為安心回家開發者係水人坐監 3. 認同黃色水魚圈之類嘅藍屍熱狗用語 | 1. [🔗](https://lih.kg/vLjimCX){: .btn .mr-2  }2. [🔗](https://lih.kg/uBBdGkX){: .btn .mr-2  }3. [🔗](https://lih.kg/sqjADwX){: .btn } | 
+| K.Bryant | 親共少數派 | 1. 玩極端，認為收利是就係支那人 2. victim blaming，認為安心回家開發者係水人坐監 3. 認同黃色水魚圈之類嘅藍屍熱狗用語 | 1. [🔗](https://lih.kg/vLjimCX){: .btn .mr-2  }2.[🔗](https://lih.kg/uBBdGkX){: .btn .mr-2  }3. [🔗](https://lih.kg/sqjADwX){: .btn } | 
 | 【1po空ac】 | 分化／批鬥撚 | 批鬥攬炒 | [🔗](https://lih.kg/aOcOdyV){: .btn } | 
 |  | 狗隻 | 請問K.Bryant(狗隻#364500)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2196248/page/1){: .btn } | 
 
