@@ -2351,8 +2351,8 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 司馬仲達【已ban】 | ⚠️ | 出言侮辱同路人。 | [原po已死](https://lih.kg/1570873){: .btn .mr-2  }[🔗](https://lih.kg/fomPCT){: .btn .mr-2  }[🔗](https://lih.kg/guNiwT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/28938){: .btn } | 
-|  | 小心此人 | 對12港人案被告之一的李宇軒侮辱指「佢本身自己著草去台灣已經係一個自私嘅行為」。 | [🔗](https://lih.kg/gOAsHT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/28938/28938.1_.png){: .btn } | 
+| 司馬仲達 | ⚠️ | 出言侮辱同路人。 | [原po已死](https://lih.kg/1570873){: .btn .mr-2  }[🔗](https://lih.kg/fomPCT){: .btn .mr-2  }[🔗](https://lih.kg/guNiwT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_son_2020/28938){: .btn } | 
+| 【已ban】 | 小心此人 | 對12港人案被告之一的李宇軒侮辱指「佢本身自己著草去台灣已經係一個自私嘅行為」。 | [🔗](https://lih.kg/gOAsHT){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/28938/28938.1_.png){: .btn } | 
 |  | 狗隻 | 請問司馬仲達(狗隻#28938)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2341266/page/1){: .btn .mr-2  }[🖼️](https://na.cx/i/Kh7y8V9.png){: .btn } | 
 
 </div>
