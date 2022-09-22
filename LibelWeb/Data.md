@@ -12824,7 +12824,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #216776 • 靈堂0可樂 • <span class="fs-4">[連登起底](https://lihkg.com/profile/216776){: .btn }</span> • 註冊日期: 2018年10月15日
+## #216776 • Soon仔123 • <span class="fs-4">[連登起底](https://lihkg.com/profile/216776){: .btn }</span> • 註冊日期: 2018年10月15日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -12833,7 +12833,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：嚶嚶嚶，恐懼劏房
+曾用名稱：嚶嚶嚶，恐懼劏房，靈堂0可樂
 ```
 
 ---
@@ -12893,7 +12893,7 @@ Example
 | 連下四城 | 谷針風向狗 | 轉貼谷針新聞自己改「大批市民」做「極大批市民」。 | [原po已死](https://lih.kg/2878366){: .btn .mr-2  }[🖼️](https://na.cx/i/GqxChhg.jpg){: .btn } | 
 |  | 放負風向狗 | 此會員經常長篇大論放負鼓吹香港人做順民。 | [原po已死](https://lih.kg/2805801){: .btn .mr-2  }[🖼️](https://na.cx/i/F96GJZt.jpg){: .btn } | 
 |  | 分化風向狗 | 斥責被罰停晚市黃店嘅冇電用app食客「害死人」。 | [原po已死](https://lih.kg/2810503){: .btn .mr-2  }[🖼️](https://na.cx/i/KaVsEye.jpg){: .btn } | 
-|  | 狗隻 | 【po內大量罪證】請問連下四城(狗隻#219007)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2735622/page/1){: .btn } | 
+|  | 狗隻 | 請問連下四城(狗隻#219007)你屙尿嗰陣屹起左腳定右腳? | [原po已死](https://lihkg.com/thread/2735622/page/1){: .btn } | 
 
 </div>
 ```markdown
