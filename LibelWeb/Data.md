@@ -9810,7 +9810,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #146917 • 習慣咗就冇事 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
+## #146917 • 炮台山＠IT狗 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
