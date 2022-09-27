@@ -967,6 +967,7 @@ permalink: /LibelWeb
 |  | 狗隻 | 話「黃尸黑暴屌你老母![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/bpwtRQV){: .btn .mr-2 }[🖼️](https://na.cx/i/5jXPhsA.png){: .btn } |
 |  | 狗隻 | 樓主講721有個男仔喺港鐵向人下跪, 佢話「2022年啦![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」 | [🔗](https://lih.kg/iMJJCT){: .btn .mr-2 }[🖼️](https://na.cx/i/eGfpe2F.png){: .btn } |
 |  | 狗隻 | 惡意洗版洗爆po | [🔗](https://lih.kg/xybNNgX){: .btn } |
+|  | 狗隻 | 標題係:「慎入」黃店仙草奶茶飲到底驚現小強！！！, 佢話「甲由飲甲由水有咩問題![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/brsxPaV){: .btn .mr-2 }[🖼️](https://na.cx/i/G65p2cJ.png){: .btn } |
 
 </div>
 ```markdown
@@ -10845,6 +10846,21 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #170808 • 3cm • <span class="fs-4">[連登起底](https://lihkg.com/profile/170808){: .btn }</span> • 註冊日期: 2018年2月7日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 3cm | 狗隻 | 我就日日啫嘅 你唔想啫就走啦 規矩係咁 阻7住哂![](https://cdn.lihkg.com/assets/faces/normal/angry.gif) | [🔗](https://lih.kg/3161018){: .btn .mr-2 }[🖼️](https://na.cx/i/qRMTVvA.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
 ```
 
 ---
@@ -20742,6 +20758,22 @@ Example
 
 <div class="code-example" markdown="1">
 
+## #418792 • 核爆比卡超 • <span class="fs-4">[連登起底](https://lihkg.com/profile/418792){: .btn }</span> • 註冊日期: 2021年11月3日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 核爆比卡超 | 狗隻 | 「工程巴」煽惑製造炸藥罪成 判囚3年半, 佢話「咁樣整炸藥同美國口中嘅塔利班有咩分別？」 | [🔗](https://lih.kg/jftrkT){: .btn .mr-2 }[🖼️](https://na.cx/i/vTBsZYK.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+曾用名稱：港區國安大法好
+```
+
+---
+
+<div class="code-example" markdown="1">
+
 ## #418897 • 1Q84的青豆 • <span class="fs-4">[連登起底](https://lihkg.com/profile/418897){: .btn }</span> • 註冊日期: 2021年11月4日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
@@ -21126,6 +21158,36 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 傻逼勇也【2po空ac】 | 狗隻 | 割警頸案中六生認罪囚7年9個月，佢話「移民果d咪食佐呢位手足人血曼頭囉」 | [🔗](https://lih.kg/jbGKtT){: .btn .mr-2 }[🖼️](https://na.cx/i/Vwmw86m.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #516101 • 宋雨琦的小狗狗 • <span class="fs-4">[連登起底](https://lihkg.com/profile/516101){: .btn }</span> • 註冊日期: 2022年9月14日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 宋雨琦的小狗狗 | 狗隻 | 標題係:粵語易致鼻咽癌, 佢話「唔知真定假 但講普通話真係舒服好多」 | [🔗](https://lih.kg/jfqGMT){: .btn .mr-2 }[🖼️](https://na.cx/i/bYzBTih.png){: .btn } |
+
+</div>
+```markdown
+由 支囝狗隻LIST 提供
+```
+
+---
+
+<div class="code-example" markdown="1">
+
+## #520363 • 監躉 • <span class="fs-4">[連登起底](https://lihkg.com/profile/520363){: .btn }</span> • 註冊日期: 2022年9月27日
+
+| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
+|:-----|:--|:-----------|:-----|
+| 監躉【1po空ac】 | 狗隻 | 認為烏克蘭應該割地了事 | [🔗](https://lih.kg/3160460){: .btn .mr-2 }[🖼️](https://na.cx/i/FCbTVwf.png){: .btn } |
 
 </div>
 ```markdown
