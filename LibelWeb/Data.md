@@ -18098,7 +18098,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #348487 • 兔兔海昕Sofiee  • <span class="fs-4">[連登起底](https://lihkg.com/profile/348487){: .btn }</span> • 註冊日期: 2020年2月7日
+## #348487 • 冬冬旱 • <span class="fs-4">[連登起底](https://lihkg.com/profile/348487){: .btn }</span> • 註冊日期: 2020年2月7日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -18111,7 +18111,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
-曾用名稱：地球係禾鯨領先，孤獨求敗，龜頭斯故鄉，係！各位筆友！，Jeremy粉絲，貓貓蘇晴
+曾用名稱：地球係禾鯨領先，孤獨求敗，龜頭斯故鄉，係！各位筆友！，Jeremy粉絲，貓貓蘇晴，兔兔海昕Sofiee
 ```
 
 ---
