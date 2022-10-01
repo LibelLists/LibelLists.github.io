@@ -963,7 +963,7 @@ permalink: /LibelWeb
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 奶滋別黑 | 狗隻 | 討論緊訂月餅，佢認為「食美心好過」 | [🔗](https://lih.kg/boqmskV){: .btn .mr-2 }[🖼️](https://na.cx/i/BoJqgq3.png){: .btn } |
-|  | 狗隻 | 話「2022仲講黃藍![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/bpwtRtV){: .btn .mr-2 }[🖼️](https://na.cx/i/22B4QLX.png){: .btn } |
+| 【已ban】 | 狗隻 | 話「2022仲講黃藍![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/bpwtRtV){: .btn .mr-2 }[🖼️](https://na.cx/i/22B4QLX.png){: .btn } |
 |  | 狗隻 | 話「黃尸黑暴屌你老母![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 | [🔗](https://lih.kg/bpwtRQV){: .btn .mr-2 }[🖼️](https://na.cx/i/5jXPhsA.png){: .btn } |
 |  | 狗隻 | 樓主講721有個男仔喺港鐵向人下跪, 佢話「2022年啦![](https://cdn.lihkg.com/assets/faces/normal/clown.gif)」 | [🔗](https://lih.kg/iMJJCT){: .btn .mr-2 }[🖼️](https://na.cx/i/eGfpe2F.png){: .btn } |
 |  | 狗隻 | 惡意洗版洗爆po | [🔗](https://lih.kg/xybNNgX){: .btn } |
