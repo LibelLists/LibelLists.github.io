@@ -1179,7 +1179,7 @@ permalink: /LibelWeb
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| ピピみ | 狗隻 | 好似小學做每日一篇咁追擊黃店 | [🔗](https://lih.kg/2656482){: .btn .mr-2 }[🖼️](https://na.cx/i/fCQf9Rm.png) |
+| ピピみ | 狗隻 | 好似小學做每日一篇咁追擊黃店 | [🔗](https://lih.kg/2656482){: .btn .mr-2 }[🖼️](https://na.cx/i/fCQf9Rm.png){: .btn } |
 |  | 狗隻 | 請問ピピみ(狗隻#13361)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/3044751/page/1){: .btn } |
 
 </div>
