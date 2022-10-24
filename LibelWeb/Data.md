@@ -20538,7 +20538,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #411597 • Joao_Cancelo • <span class="fs-4">[連登起底](https://lihkg.com/profile/411597){: .btn }</span> • 註冊日期: 2021年9月5日
+## #411597 • fuckboy湯令山 • <span class="fs-4">[連登起底](https://lihkg.com/profile/411597){: .btn }</span> • 註冊日期: 2021年9月5日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -20547,6 +20547,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
+曾用名稱：Joao_Cancelo
 ```
 
 ---
