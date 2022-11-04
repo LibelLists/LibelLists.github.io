@@ -5550,7 +5550,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #69753 • 屠殺支那兒登狗 • <span class="fs-4">[連登起底](https://lihkg.com/profile/69753){: .btn }</span> • 註冊日期: 2016年12月25日
+## #69753 • 左右膠 • <span class="fs-4">[連登起底](https://lihkg.com/profile/69753){: .btn }</span> • 註冊日期: 2016年12月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -5561,7 +5561,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 老鳳狙擊List 提供
-曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488，NiggerSlayer88，撐警女權BLM鏡粉
+曾用名稱：Theimtt11，Tsun👰，時事臺_Tsun，中資抄登_業行，卐Tsun卐，Tsun，曲奇塊塊脆，Anthony，甄_，甄尼住，甄先生，卐Yan卐，甄德（城邦建國），卐甄卐，yandak，甄德，香港法西斯主義者，兒登背後係中資，NiggerSlayer1488，NiggerSlayer88，撐警女權BLM鏡粉，屠殺支那兒登狗
 ```
 
 ---
