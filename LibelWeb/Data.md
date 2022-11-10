@@ -2467,7 +2467,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #30788 • 54歲(破產） • <span class="fs-4">[連登起底](https://lihkg.com/profile/30788){: .btn }</span> • 註冊日期: 2016年11月27日
+## #30788 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/30788){: .btn }</span> • 註冊日期: 2016年11月27日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -2477,7 +2477,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List & 連登三毛清單 提供
-曾用名稱：50歲(破產)，51歲(破產！)，53歲(破產）
+曾用名稱：50歲(破產)，51歲(破產！)，53歲(破產），54歲(破產）
 ```
 
 ---
@@ -3336,7 +3336,7 @@ Example
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 醫你$300<br>【2po空ac】 | ⚠️ | 出言侮辱同路人；我與多數連登仔皆認為只要為自由抗爭，擁護香港價值嘅就係香港人。 | [🔗](https://lih.kg/fsmDNT){: .btn } | 
+| 醫你$300<br>【3po空ac】 | ⚠️ | 出言侮辱同路人；我與多數連登仔皆認為只要為自由抗爭，擁護香港價值嘅就係香港人。 | [🔗](https://lih.kg/fsmDNT){: .btn } | 
 
 </div>
 ```markdown
@@ -3604,11 +3604,11 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #42760 • 梁頌恆搭的士 • <span class="fs-4">[連登起底](https://lihkg.com/profile/42760){: .btn }</span> • 註冊日期: 2016年11月29日
+## #42760 • 梁頌恆搭的士【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/42760){: .btn }</span> • 註冊日期: 2016年11月29日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 梁頌恆搭的士 | ⚠️ | 原來仲有人未block會員#42760《梁頌恆搭的士》 | [🔗](https://lihkg.com/thread/2967377/page/1){: .btn .mr-2  }[🖼️](https://na.cx/i/6r5mt5O.png){: .btn } | 
+| 梁頌恆搭的士<br>【已ban】 | ⚠️ | 原來仲有人未block會員#42760《梁頌恆搭的士》 | [🔗](https://lihkg.com/thread/2967377/page/1){: .btn .mr-2  }[🖼️](https://na.cx/i/6r5mt5O.png){: .btn } | 
 
 </div>
 ```markdown
