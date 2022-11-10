@@ -3814,7 +3814,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #46587 • 肥婆做數大大力 • <span class="fs-4">[連登起底](https://lihkg.com/profile/46587){: .btn }</span> • 註冊日期: 2016年11月30日
+## #46587 • 鷲見すみれ • <span class="fs-4">[連登起底](https://lihkg.com/profile/46587){: .btn }</span> • 註冊日期: 2016年11月30日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -3823,6 +3823,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
+曾用名稱：肥婆做數大大力
 ```
 
 ---
@@ -4779,12 +4780,12 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #57914 • ChingChong(波台) • <span class="fs-4">[連登起底](https://lihkg.com/profile/57914){: .btn }</span> • 註冊日期: 2016年12月6日
+## #57914 • ChingChong(波台)【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/57914){: .btn }</span> • 註冊日期: 2016年12月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 麵咪妈 | 小心此人 | 對在囚手足幸災樂禍。 | [🔗](https://lih.kg/srxzehX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/57914/57914.1_.png){: .btn } | 
-|  | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914){: .btn .mr-2  }[🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg){: .btn } | 
+| 【已ban】 | 波台狗 | 連登起底發現佢係活躍於體育台嘅波台狗，早於2019年6-9月已不時發表嘲諷同路人言論，後來一度發表過疑似支持抗爭者言論，但轉到體育台後故態復萌，變本加厲。 | [🔗](https://lihkg.com/profile/57914){: .btn .mr-2  }[🖼️](https://na.cx/i/https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/1734/1734.4_.png.jpg){: .btn } | 
 |  | 防疫風向狗 | 強調「國泰空少」喺第五波疫情嘅責任，將批評「洪為民生日派對」嘅人誣蔑為PR。 | [🔗](https://lih.kg/2907588){: .btn .mr-2  }[🖼️](https://na.cx/i/SyewbDZ.png){: .btn } | 
 |  | 狗隻 | 手足被拉, 佢話「16歲就犯罪，佢父母點面對？ | [🔗](https://lih.kg/boMdwgV){: .btn } |
 
