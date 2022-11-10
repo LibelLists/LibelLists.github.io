@@ -6935,7 +6935,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #89917 • 不配有愛情 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89917){: .btn }</span> • 註冊日期: 2017年3月8日
+## #89917 • 如何虐待兒童會 • <span class="fs-4">[連登起底](https://lihkg.com/profile/89917){: .btn }</span> • 註冊日期: 2017年3月8日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -6944,7 +6944,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
-曾用名稱：乜春子，Oliver肉絲，紅豆雞尾包，三層雞尾紅豆包，李明蔚後援會，夢想30歲前結婚，多用途試伏器
+曾用名稱：乜春子，Oliver肉絲，紅豆雞尾包，三層雞尾紅豆包，李明蔚後援會，夢想30歲前結婚，多用途試伏器，不配有愛情
 ```
 
 ---
@@ -7759,7 +7759,7 @@ Example
 |:-----|:--|:-----------|:-----|
 | 好撚辛鳩苦呀 | ⚠️ | 死攬交出 CCTV 嘅響車仔麵黑店，反指連登「好多分化撚喺到」。 | [🔗](https://lih.kg/rAytrzX){: .btn } | 
 |  | 小心此人 | 對被癲婆扑頭的81歲清潔女工冷嘲熱諷「屌 嬲到我![](https://cdn.lihkg.com/assets/faces/pig/knife.gif) 聽日食黃店」。 | [🔗](https://lih.kg/aKvnrMV){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/105691/105691.1_.png){: .btn } | 
-|  | ⚠️ | 1. 嘲笑捉五毛嘅手足，話「只要捉多d 5毛 pr就會改善抗爭氣氛![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 2. 手足被拉，佢話「呢單案比人拉鳩埋仲食乜人血饅頭」 3. 元朗有兩條友用foodpanda呃黃店飯食 ，佢話「不分化 不割蓆 可能叫外賣對情侶係手足」 | 1. [🔗](https://lihkg.com/thread/2520290/page/15?post=374){: .btn .mr-2  }2. [🔗](https://lihkg.com/thread/2462905/page/8?post=179){: .btn .mr-2  }3. [🔗](https://lihkg.com/thread/2483244/page/1?post=23){: .btn } | 
+|  | ⚠️ | 1. 嘲笑捉五毛嘅手足，話「只要捉多d 5毛 pr就會改善抗爭氣氛![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)![](https://cdn.lihkg.com/assets/faces/dog/haha.gif)」 2. 手足被拉，佢話「呢單案比人拉鳩埋仲食乜人血饅頭」 3. 元朗有兩條友用foodpanda呃黃店飯食 ，佢話「不分化 不割蓆 可能叫外賣對情侶係手足」 | 1.[🔗](https://lihkg.com/thread/2520290/page/15?post=374){: .btn .mr-2 }2.[🔗](https://lihkg.com/thread/2462905/page/8?post=179){: .btn .mr-2  }3. [🔗](https://lihkg.com/thread/2483244/page/1?post=23){: .btn } | 
 |  | 狗隻 | 請問好撚辛鳩苦呀(狗隻#105691)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2483553/page/1){: .btn } | 
 
 </div>
@@ -7818,7 +7818,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #106675 • 余嘉富 • <span class="fs-4">[連登起底](https://lihkg.com/profile/106675){: .btn }</span> • 註冊日期: 2017年4月16日
+## #106675 • 桐生飲食 • <span class="fs-4">[連登起底](https://lihkg.com/profile/106675){: .btn }</span> • 註冊日期: 2017年4月16日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -7827,7 +7827,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
-曾用名稱：放桐生一馬，婊妹，隻狗，Youth_Truncheon
+曾用名稱：放桐生一馬，婊妹，隻狗，Youth_Truncheon，余嘉富
 ```
 
 ---
@@ -9813,7 +9813,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #146917 • 炮台山＠IT狗 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
+## #146917 • 習慣咗就冇事 • <span class="fs-4">[連登起底](https://lihkg.com/profile/146917){: .btn }</span> • 註冊日期: 2017年9月13日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -9906,7 +9906,7 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 滿地花生 | 仆街仔 | 對東涌雙屍命案的女死者表示「冇被性侵痕跡？有冇咁浪費啊」。 | [🔗](https://lih.kg/turhFpX){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/148447/148447.1_.png){: .btn } | 
-| 【5po ac】 | 狗隻 | 26歲被困工人傍晚救出　當場證實不治，佢話「又死多件![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)」 | [🔗](https://lih.kg/bqKvFHV){: .btn .mr-2 }[🖼️](https://na.cx/i/mEcxD3V.png){: .btn } |
+|  | 狗隻 | 26歲被困工人傍晚救出　當場證實不治，佢話「又死多件![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)![](https://cdn.lihkg.com/assets/faces/pig/clap.gif)」 | [🔗](https://lih.kg/bqKvFHV){: .btn .mr-2 }[🖼️](https://na.cx/i/mEcxD3V.png){: .btn } |
 |  | 狗隻 | 請問滿地花生(狗隻#148447)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lih.kg/3009369){: .btn } | 
 
 </div>
@@ -11642,7 +11642,8 @@ Example
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 閘住反彈無回頭 | 港豬 | 認為香港言論自由已死是「有得必有失」，並指「香港唔理政治享受其他物質生活算唔錯」。 | [🔗](https://lih.kg/aQCssOV){: .btn .mr-2  }[🖼️](https://filedn.eu/l9Hq1YKLkJ4m0VSXcdcfUaJ/LIHKG_on99/on9_jai/192589/192589.1_.png){: .btn } | 
-| 【空ac】 | 狗隻 | 請問閘住反彈無回頭(狗隻#192589)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2863026/page/1){: .btn .mr-2  }[🔗](https://lih.kg/bgRgPuV){: .btn } | 
+| 【空ac】 | ⚠️ | 話「又有政治新聞了，連登政治寄生獸又興奮出來了，日日圍住政府轉，一天不談論政治不舒服很納悶，靠著政治新聞狗糧而生。中央和香港久唔久派D政策新聞狗糧俾班寄生獸充下饑，唔係食飽飯無屎屙好慘。」 | [🔗](https://lih.kg/bgRgPuV){: .btn } |
+|  | 狗隻 | 請問閘住反彈無回頭(狗隻#192589)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2863026/page/1){: .btn } | 
 
 </div>
 ```markdown
