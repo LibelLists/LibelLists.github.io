@@ -20984,7 +20984,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #424936 • 冬絲早 • <span class="fs-4">[連登起底](https://lihkg.com/profile/424936){: .btn }</span> • 註冊日期: 2022年1月21日
+## #424936 • 今天或許很重要 • <span class="fs-4">[連登起底](https://lihkg.com/profile/424936){: .btn }</span> • 註冊日期: 2022年1月21日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -20994,7 +20994,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 老鳳狙擊List 提供
-曾用名稱：小妹米八高，冬冬妹，鴨甲烏，早冬冬
+曾用名稱：小妹米八高，冬冬妹，鴨甲烏，早冬冬，冬絲早
 ```
 
 ---
