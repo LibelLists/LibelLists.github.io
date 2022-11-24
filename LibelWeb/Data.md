@@ -13239,7 +13239,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #226231 • 晴天蛙蛙hmson • <span class="fs-4">[連登起底](https://lihkg.com/profile/226231){: .btn }</span> • 註冊日期: 2018年12月10日
+## #226231 • hm.son • <span class="fs-4">[連登起底](https://lihkg.com/profile/226231){: .btn }</span> • 註冊日期: 2018年12月10日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -13250,7 +13250,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST & OFF囝戇鳩LIST & 支囝狗隻LIST & 老鳳狙擊List 提供
-曾用名稱：論天下，吾愛國，冇女朋友比我撚，成日撚女朋友，彳亍走前線，向理来，踢你老豆入女廁，佐佐木，昆沙門天，正氣前鋒大波波，hm.son
+曾用名稱：論天下，吾愛國，冇女朋友比我撚，成日撚女朋友，彳亍走前線，向理来，踢你老豆入女廁，佐佐木，昆沙門天，正氣前鋒大波波，hm.son，晴天蛙蛙hmson
 ```
 
 ---
