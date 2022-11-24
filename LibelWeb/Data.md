@@ -4705,11 +4705,11 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #57405 • 超級派膠王 • <span class="fs-4">[連登起底](https://lihkg.com/profile/57405){: .btn }</span> • 註冊日期: 2016年12月6日
+## #57405 • 超級派膠王【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/57405){: .btn }</span> • 註冊日期: 2016年12月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 超級派膠王 | 三毛 | 文盲三毛 | [🔗](https://lihkg.com/thread/1744662/page/1){: .btn .mr-2  }[Google起底](https://www.google.com.hk/search?q=%22%E8%B6%85%E7%B4%9A%E6%B4%BE%E8%86%A0%E7%8E%8B%22+site:lihkg.com&tbs=qdr:m3){: .btn } | 
+| 超級派膠王【已ban】 | 三毛 | 文盲三毛 | [🔗](https://lihkg.com/thread/1744662/page/1){: .btn .mr-2  }[Google起底](https://www.google.com.hk/search?q=%22%E8%B6%85%E7%B4%9A%E6%B4%BE%E8%86%A0%E7%8E%8B%22+site:lihkg.com&tbs=qdr:m3){: .btn } | 
 
 </div>
 ```markdown
