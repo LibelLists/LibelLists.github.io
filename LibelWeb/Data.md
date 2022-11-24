@@ -468,7 +468,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #4461 • 足金好球喜報 • <span class="fs-4">[連登起底](https://lihkg.com/profile/4461){: .btn }</span> • 註冊日期: 2016年11月25日
+## #4461 • 八駿巨昇之寶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/4461){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -477,7 +477,7 @@ permalink: /LibelWeb
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：賭球開心就好，爬格仔
+曾用名稱：賭球開心就好，爬格仔，足金好球喜報
 ```
 
 ---
