@@ -16228,7 +16228,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #291185 • 小三年班 • <span class="fs-4">[連登起底](https://lihkg.com/profile/291185){: .btn }</span> • 註冊日期: 2019年7月26日
+## #291185 • 妹妹豬仔 • <span class="fs-4">[連登起底](https://lihkg.com/profile/291185){: .btn }</span> • 註冊日期: 2019年7月26日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -16237,7 +16237,7 @@ Example
 </div>
 ```markdown
 由 連登三毛清單 提供
-曾用名稱：後生女
+曾用名稱：後生女，小三年班
 ```
 
 ---
