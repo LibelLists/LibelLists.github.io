@@ -17827,7 +17827,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #341649 • 華賓初上 • <span class="fs-4">[連登起底](https://lihkg.com/profile/341649){: .btn }</span> • 註冊日期: 2019年11月23日
+## #341649 • 美國佬搞掂你 • <span class="fs-4">[連登起底](https://lihkg.com/profile/341649){: .btn }</span> • 註冊日期: 2019年11月23日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -17840,7 +17840,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
-曾用名稱：溫州向上吊打兒
+曾用名稱：溫州向上吊打兒，華賓初上
 ```
 
 ---
