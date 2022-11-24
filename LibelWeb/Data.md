@@ -16941,7 +16941,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #313615 • KIKI食糖 • <span class="fs-4">[連登起底](https://lihkg.com/profile/313615){: .btn }</span> • 註冊日期: 2019年8月27日
+## #313615 • 肅不清魑魅魍魎 • <span class="fs-4">[連登起底](https://lihkg.com/profile/313615){: .btn }</span> • 註冊日期: 2019年8月27日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -16950,7 +16950,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：uuuuuunnd，csykjqw，打冷震真心膠，sksker，SSpoxo，cctoy，黑鮑，美人在骨不在皮，君不正臣投外國，醜人作怪，癡心妄想，喆喆
+曾用名稱：uuuuuunnd，csykjqw，打冷震真心膠，sksker，SSpoxo，cctoy，黑鮑，美人在骨不在皮，君不正臣投外國，醜人作怪，癡心妄想，喆喆，KIKI食糖
 ```
 
 ---
