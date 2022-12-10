@@ -11970,7 +11970,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #198583 • 冬冬膠 • <span class="fs-4">[連登起底](https://lihkg.com/profile/198583){: .btn }</span> • 註冊日期: 2018年8月6日
+## #198583 • 黃人日記 • <span class="fs-4">[連登起底](https://lihkg.com/profile/198583){: .btn }</span> • 註冊日期: 2018年8月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -11982,7 +11982,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 問題會員清單 提供
-曾用名稱：43碎(失業），潛蟲
+曾用名稱：43碎(失業），潛蟲，冬冬膠
 ```
 
 ---
