@@ -17084,7 +17084,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #318890 • Antonio_Rudiger • <span class="fs-4">[連登起底](https://lihkg.com/profile/318890){: .btn }</span> • 註冊日期: 2019年9月6日
+## #318890 • Endrick • <span class="fs-4">[連登起底](https://lihkg.com/profile/318890){: .btn }</span> • 註冊日期: 2019年9月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -17096,7 +17096,7 @@ Example
 </div>
 ```markdown
 由 LITrack-主要名單 & 老鳳狙擊List 提供
-曾用名稱：rodrygoes，rodrygo_27，rodrygo_25，Antonio_Blanco，疤疲
+曾用名稱：rodrygoes，rodrygo_27，rodrygo_25，疤疲，Antonio_Rudiger
 ```
 
 ---
