@@ -18317,7 +18317,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #354738 • 濕鳩liy-好喜歡牠 • <span class="fs-4">[連登起底](https://lihkg.com/profile/354738){: .btn }</span> • 註冊日期: 2020年3月31日
+## #354738 • 康nee支話？ • <span class="fs-4">[連登起底](https://lihkg.com/profile/354738){: .btn }</span> • 註冊日期: 2020年3月31日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -18326,7 +18326,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
-曾用名稱：Mo巫毛無冇？
+曾用名稱：Mo巫毛無冇？，濕鳩liy-好喜歡牠
 ```
 
 ---
