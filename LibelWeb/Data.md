@@ -17038,7 +17038,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #317058 • Miu乸好煩  • <span class="fs-4">[連登起底](https://lihkg.com/profile/317058){: .btn }</span> • 註冊日期: 2019年9月3日
+## #317058 • 霍金Mo幾時先香 • <span class="fs-4">[連登起底](https://lihkg.com/profile/317058){: .btn }</span> • 註冊日期: 2019年9月3日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -17047,7 +17047,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：真·衝衝子，Hololive正一垃圾
+曾用名稱：真·衝衝子，Hololive正一垃圾，Miu乸好煩
 ```
 
 ---
