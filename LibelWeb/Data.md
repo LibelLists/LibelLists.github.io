@@ -5915,7 +5915,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #73420 • 高山一實 • <span class="fs-4">[連登起底](https://lihkg.com/profile/73420){: .btn }</span> • 註冊日期: 2017年1月6日
+## #73420 • 古月方源 • <span class="fs-4">[連登起底](https://lihkg.com/profile/73420){: .btn }</span> • 註冊日期: 2017年1月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -5924,7 +5924,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：連殳
+曾用名稱：連殳，高山一實
 ```
 
 ---
