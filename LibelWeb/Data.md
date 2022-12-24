@@ -10740,7 +10740,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #167776 • 醋晴子 • <span class="fs-4">[連登起底](https://lihkg.com/profile/167776){: .btn }</span> • 註冊日期: 2018年1月20日
+## #167776 • 它媽的哥池 • <span class="fs-4">[連登起底](https://lihkg.com/profile/167776){: .btn }</span> • 註冊日期: 2018年1月20日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -10750,7 +10750,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST & 老鳳狙擊List 提供
-曾用名稱：我要發脾氣，男朋友好好聞
+曾用名稱：我要發脾氣，男朋友好好聞，醋晴子
 ```
 
 ---
