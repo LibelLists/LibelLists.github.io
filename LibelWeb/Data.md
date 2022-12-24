@@ -14508,7 +14508,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #251328 • 八龍洞的全圓佑 • <span class="fs-4">[連登起底](https://lihkg.com/profile/251328){: .btn }</span> • 註冊日期: 2019年4月30日
+## #251328 • 金采源天使 • <span class="fs-4">[連登起底](https://lihkg.com/profile/251328){: .btn }</span> • 註冊日期: 2019年4月30日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -14517,7 +14517,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST 提供
-曾用名稱：Courtois，全圓佑寶寶，全珉奎，錢源柔，第十名金采圓，全在玹佑，金采源精彩人生
+曾用名稱：Courtois，全圓佑寶寶，全珉奎，錢源柔，第十名金采圓，全在玹佑，金采源精彩人生，八龍洞的全圓佑
 ```
 
 ---
