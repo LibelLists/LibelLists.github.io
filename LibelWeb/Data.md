@@ -12845,7 +12845,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #216776 • 孫仔愛飲茶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/216776){: .btn }</span> • 註冊日期: 2018年10月15日
+## #216776 • 痕癢RRR • <span class="fs-4">[連登起底](https://lihkg.com/profile/216776){: .btn }</span> • 註冊日期: 2018年10月15日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -12854,7 +12854,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：嚶嚶嚶，恐懼劏房，靈堂0可樂，Soon仔123
+曾用名稱：嚶嚶嚶，恐懼劏房，靈堂0可樂，Soon仔123，孫仔愛飲茶
 ```
 
 ---
