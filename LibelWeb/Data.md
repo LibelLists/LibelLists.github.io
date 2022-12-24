@@ -21180,7 +21180,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #516101 • 金志垣寶寶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/516101){: .btn }</span> • 註冊日期: 2022年9月14日
+## #516101 • 范玉欣寶寶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/516101){: .btn }</span> • 註冊日期: 2022年9月14日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -21189,7 +21189,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST 提供
-曾用名稱：宋雨琦的小狗狗，范玉欣寶寶
+曾用名稱：宋雨琦的小狗狗，范玉欣寶寶，金志垣寶寶
 ```
 
 ---
