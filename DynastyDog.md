@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 老鳳狙擊list
+title: 天朝犬隻List
 parent: Lihkg Libel Lists
 nav_order: 6
 search_exclude: true
