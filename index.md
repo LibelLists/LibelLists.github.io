@@ -8,7 +8,7 @@ search_exclude: true
 
 【[Libel](https://kitce.github.io/libel/)】已公開的訂閱List名單
 
-**訂閱list手動匯入版** [下載](https://github.com/LibelLists/LibelLists.github.io/releases/download/v0.2/subscriptions.v0.2.json){: .btn }
+**訂閱list手動匯入版** [下載](https://github.com/LibelLists/LibelLists.github.io/releases/download/v0.3/subscriptions.v0.3.json){: .btn }
 
 注意：Search功能僅限於英數及部份符號
 {: .fs-5.text-red-300 }
