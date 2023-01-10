@@ -20072,7 +20072,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #399193 • 曹格論戰 • <span class="fs-4">[連登起底](https://lihkg.com/profile/399193){: .btn }</span> • 註冊日期: 2021年5月11日
+## #399193 • 米開朗基羅 • <span class="fs-4">[連登起底](https://lihkg.com/profile/399193){: .btn }</span> • 註冊日期: 2021年5月11日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -20081,7 +20081,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List 提供
-曾用名稱：蝦囝嗲哋，清熱不上火，辣妹子，Karl_Anthony_Ed，真天魔冰火公仔，Sky哥哥!
+曾用名稱：蝦囝嗲哋，清熱不上火，辣妹子，Karl_Anthony_Ed，真天魔冰火公仔，Sky哥哥!，曹格論戰
 ```
 
 ---
