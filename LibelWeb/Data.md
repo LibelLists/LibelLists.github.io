@@ -21147,7 +21147,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #496462 • 林明楨 • <span class="fs-4">[連登起底](https://lihkg.com/profile/496462){: .btn }</span> • 註冊日期: 2022年7月28日
+## #496462 • 崔玹碩士生 • <span class="fs-4">[連登起底](https://lihkg.com/profile/496462){: .btn }</span> • 註冊日期: 2022年7月28日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -21159,7 +21159,7 @@ Example
 </div>
 ```markdown
 由 支囝狗隻LIST 提供
-曾用名稱：約克
+曾用名稱：林明楨
 ```
 
 ---
