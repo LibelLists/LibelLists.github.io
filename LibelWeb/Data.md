@@ -1250,7 +1250,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #13745 • 老肥閪後庭暉 • <span class="fs-4">[連登起底](https://lihkg.com/profile/13745){: .btn }</span> • 註冊日期: 2016年11月25日
+## #13745 • 姜濤（超重） • <span class="fs-4">[連登起底](https://lihkg.com/profile/13745){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
