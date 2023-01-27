@@ -17465,7 +17465,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #331780 • 連登富戶 • <span class="fs-4">[連登起底](https://lihkg.com/profile/331780){: .btn }</span> • 註冊日期: 2019年10月7日
+## #331780 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/331780){: .btn }</span> • 註冊日期: 2019年10月7日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -17475,6 +17475,7 @@ Example
 </div>
 ```markdown
 由 老鳳狙擊List & 連登三毛清單 提供
+曾用名稱：連登富戶
 ```
 
 ---
