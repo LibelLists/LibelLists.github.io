@@ -11058,7 +11058,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #175989 • 睇ViuTV抗爭 • <span class="fs-4">[連登起底](https://lihkg.com/profile/175989){: .btn }</span> • 註冊日期: 2018年3月12日
+## #175989 • 盡力掃全力掃 • <span class="fs-4">[連登起底](https://lihkg.com/profile/175989){: .btn }</span> • 註冊日期: 2018年3月12日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -11067,6 +11067,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & 支囝狗隻LIST 提供
+曾用名稱：睇ViuTV抗爭
 ```
 
 ---
