@@ -12056,7 +12056,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #199670 • 兒登人才 • <span class="fs-4">[連登起底](https://lihkg.com/profile/199670){: .btn }</span> • 註冊日期: 2018年8月10日
+## #199670 • 唔啱聽你聽唔聽 • <span class="fs-4">[連登起底](https://lihkg.com/profile/199670){: .btn }</span> • 註冊日期: 2018年8月10日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
