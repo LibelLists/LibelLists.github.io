@@ -2919,7 +2919,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #35420 • AL師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/35420){: .btn }</span> • 註冊日期: 2016年11月28日
+## #35420 • 連登仔（高級） • <span class="fs-4">[連登起底](https://lihkg.com/profile/35420){: .btn }</span> • 註冊日期: 2016年11月28日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -2930,7 +2930,7 @@ Example
 </div>
 ```markdown
 由 OFF囝戇鳩LIST & LITrack-Off囝名單(經修訂) & 支囝狗隻LIST & 問題會員清單 & 老鳳狙擊List 提供
-曾用名稱：，RMT，183cm，森高千里，TartherJapan，高級特種警衛，我只是個孩子，咦lu加咪，放負專員，全倉VOO，全倉VOOUPRO，全倉KO
+曾用名稱：，RMT，183cm，森高千里，TartherJapan，高級特種警衛，我只是個孩子，咦lu加咪，放負專員，全倉VOO，全倉VOOUPRO，全倉KO，AL師
 ```
 
 ---
