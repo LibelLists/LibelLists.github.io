@@ -4818,7 +4818,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #58223 • owcc • <span class="fs-4">[連登起底](https://lihkg.com/profile/58223){: .btn }</span> • 註冊日期: 2016年12月6日
+## #58223 • Mahoyo • <span class="fs-4">[連登起底](https://lihkg.com/profile/58223){: .btn }</span> • 註冊日期: 2016年12月6日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
@@ -4827,7 +4827,7 @@ Example
 </div>
 ```markdown
 由 舊OFF囝戇鳩LIST 提供
-曾用名稱：orion，Libra，frogking，mqnwbe
+曾用名稱：orion，Libra，frogking，mqnwbe，owcc
 ```
 
 ---
