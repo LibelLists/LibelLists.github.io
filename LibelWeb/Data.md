@@ -4672,7 +4672,7 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #56984 • 黐線佬 • <span class="fs-4">[連登起底](https://lihkg.com/profile/56984){: .btn }</span> • 註冊日期: 2016年12月5日
+## #56984 • 🗿 用戶已刪除帳號 • <span class="fs-4">[連登起底](https://lihkg.com/profile/56984){: .btn }</span> • 註冊日期: 2016年12月5日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
