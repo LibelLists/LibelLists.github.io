@@ -159,7 +159,7 @@ permalink: /LibelWeb
 
 <div class="code-example" markdown="1">
 
-## #1149 • 渋谷娯楽𫝓会 • <span class="fs-4">[連登起底](https://lihkg.com/profile/1149){: .btn }</span> • 註冊日期: 2016年11月25日
+## #1149 • 渋谷軣楽団𫝓会 • <span class="fs-4">[連登起底](https://lihkg.com/profile/1149){: .btn }</span> • 註冊日期: 2016年11月25日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
