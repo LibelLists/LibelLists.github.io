@@ -6501,21 +6501,6 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #81150 • 麵咪媽 • <span class="fs-4">[連登起底](https://lihkg.com/profile/81150){: .btn }</span> • 註冊日期: 2017年1月31日
-
-| 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
-|:-----|:--|:-----------|:-----|
-| 麵咪媽 | 保留 | 保留 | [🔗](https://lihkg.com/thread/3025640/page/4?ref=sharer&post=88){: .btn } |
-
-</div>
-```markdown
-由 支囝狗隻LIST 提供
-```
-
----
-
-<div class="code-example" markdown="1">
-
 ## #81273 • 可5可以講多少少 • <span class="fs-4">[連登起底](https://lihkg.com/profile/81273){: .btn }</span> • 註冊日期: 2017年1月31日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
