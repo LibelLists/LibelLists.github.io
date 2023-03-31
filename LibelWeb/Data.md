@@ -20864,12 +20864,12 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #420554 • 狗肉師 • <span class="fs-4">[連登起底](https://lihkg.com/profile/420554){: .btn }</span> • 註冊日期: 2021年11月24日
+## #420554 • 狗肉師【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/420554){: .btn }</span> • 註冊日期: 2021年11月24日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 狗肉師  | 狗隻 | 認為公屋仔跳樓=亂拋垃圾![](https://cdn.lihkg.com/assets/faces/big/sosad.gif)![](https://cdn.lihkg.com/assets/faces/big/good.gif) | [🔗](https://lihkg.com/thread/2951525/page/1){: .btn .mr-2  }[🖼️](https://na.cx/i/W2wS4ba.png){: .btn } | 
-|  | 狗隻 | 請問狗肉師(狗隻#420554)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2951579/page/1){: .btn } | 
+| 【已ban】 | 狗隻 | 請問狗肉師(狗隻#420554)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2951579/page/1){: .btn } | 
 
 </div>
 ```markdown
