@@ -21173,11 +21173,11 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #516101 • 朴彩英宝宝 • <span class="fs-4">[連登起底](https://lihkg.com/profile/516101){: .btn }</span> • 註冊日期: 2022年9月14日
+## #516101 • 朴彩英宝宝【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/516101){: .btn }</span> • 註冊日期: 2022年9月14日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
-| 宋雨琦的小狗狗 | 狗隻 | 標題係:粵語易致鼻咽癌, 佢話「唔知真定假 但講普通話真係舒服好多」 | [🔗](https://lih.kg/jfqGMT){: .btn .mr-2 }[🖼️](https://na.cx/i/bYzBTih.png){: .btn } |
+| 宋雨琦的小狗狗【已ban】 | 狗隻 | 標題係:粵語易致鼻咽癌, 佢話「唔知真定假 但講普通話真係舒服好多」 | [🔗](https://lih.kg/jfqGMT){: .btn .mr-2 }[🖼️](https://na.cx/i/bYzBTih.png){: .btn } |
 
 </div>
 ```markdown
