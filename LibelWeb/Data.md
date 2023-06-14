@@ -19841,12 +19841,12 @@ Example
 
 <div class="code-example" markdown="1">
 
-## #392766 • 連燈主義 • <span class="fs-4">[連登起底](https://lihkg.com/profile/392766){: .btn }</span> • 註冊日期: 2021年2月18日
+## #392766 • 連燈主義【已ban】 • <span class="fs-4">[連登起底](https://lihkg.com/profile/392766){: .btn }</span> • 註冊日期: 2021年2月18日
 
 | 標籤時會員名稱  | 標籤 | 事蹟  | 鏈結  |
 |:-----|:--|:-----------|:-----|
 | 連燈主義 | 狗隻 | 1. 宣傳蚑那臭雞 2. 自認狗隻 | 1. [🔗](https://lih.kg/2837654){: .btn .mr-2 }2. [🔗](https://lih.kg/iCOFFT){: .btn .mr-2 }[🖼️](https://na.cx/i/aB2mqX0.png){: .btn } | 
-|  | 支那種 | 1. 吹奏支那閪 2. 吹奏支那種同支那app | 1. [🔗](https://lih.kg/2878264){: .btn .mr-2  }2. [🔗](https://lih.kg/ijEkNT){: .btn } | 
+| 【已ban】 | 支那種 | 1. 吹奏支那閪 2. 吹奏支那種同支那app | 1. [🔗](https://lih.kg/2878264){: .btn .mr-2  }2. [🔗](https://lih.kg/ijEkNT){: .btn } | 
 |  | 狗隻 | 請問連燈主義(狗隻#392766)你屙尿嗰陣屹起左腳定右腳? | [🔗](https://lihkg.com/thread/2863222/page/1){: .btn } | 
 
 </div>
